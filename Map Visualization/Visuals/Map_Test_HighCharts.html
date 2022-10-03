@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+	
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    
+  </head>
+  
+  <body>
+	<h1></h1>
+	<div id="container" style="min-width: 310px; max-width: 800px; height: 400px; margin: 0 auto">
+	
+	<script type="text/javascript"> 
+	(async () => {
+
+const topology = await fetch(
+    'https://code.highcharts.com/mapdata/custom/world.topo.json'
+).then(response => response.json());
+
+Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json', function (data) {
+
+    // Initialize the chart
+    Highcharts.mapChart('container', {
+
+        title: {
+            text: 'Map border options'
+        },
+
+        mapNavigation: {
+            enabled: true,
+            buttonOptions: {
+                verticalAlign: 'bottom'
+            }
+        },
+
+        colorAxis: {
+            min: 1,
+            max: 1000,
+            type: 'logarithmic'
+        },
+
+        series: [{
+            data: [{'code': 'BRA', 
+  'name' : 'Brazil',
+   'value': 25,
+   'code': 'BR'
+
+
+}],
+            mapData: topology,
+            joinBy: ['iso-a2', 'code'],
+            name: 'Population density',
+            borderColor: 'black',
+            borderWidth: 0.2,
+            states: {
+                hover: {
+                    borderWidth: 1
+                }
+            },
+            tooltip: {
+                valueSuffix: '/km²'
+            }
+        }]
+    });
+});
+})();
+	</script>
+	</div>
+
+ 
+  </body>
