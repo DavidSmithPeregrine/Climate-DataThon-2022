@@ -7,14 +7,14 @@ import sys, os, shutil, dill
 from osgeo import ogr, gdal
 import pandas as pd
 
-sys.path.append(r'/Users/amandamancini/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins/processing/algs/gdal')
-sys.path.append(r'/Users/amandamancini/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins')
-sys.path.append(r'/Users/amandamancini/Dropbox/Peregrine/Datathon')
+user = ''
+sys.path.append(f'/Users/{user}/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins/processing/algs/gdal')
+sys.path.append(f'/Users/{user}/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins')
 
 from Support_Functions import country_stats
 
 # Initiating a QGIS application
-qgishome = '/Users/amandamancini/opt/miniconda3/envs/qgis_tdi/lib/qgis'
+qgishome = f'/Users/{user}/opt/miniconda3/envs/qgis_tdi/lib/qgis'
 QgsApplication.setPrefixPath(qgishome, True)
 
 from processing.core.Processing import Processing
@@ -22,7 +22,7 @@ Processing.initialize()
 from processing.tools import *
 
 # Set path to folder containing tiff and shapefile
-folder = '/Users/amandamancini/Dropbox/Peregrine/Datathon/'
+folder = ''
 
 # Set path and create folder for writing out results
 metric = 'carbon_stocks' # change for different metrics

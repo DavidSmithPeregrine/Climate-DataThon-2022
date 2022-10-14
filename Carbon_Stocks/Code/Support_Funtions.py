@@ -10,9 +10,9 @@ from qgis.analysis import *
 import qgis.utils
 import processing
 
-sys.path.append(r'/Users/amandamancini/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins/processing/algs/gdal')
-sys.path.append(r'/Users/amandamancini/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins')
-sys.path.append(r'/Users/amandamancini/Dropbox/Peregrine/Datathon')
+user = ''
+sys.path.append(f'/Users/{user}/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins/processing/algs/gdal')
+sys.path.append(f'/Users/{user}/opt/miniconda3/envs/qgis_tdi/share/qgis/python/plugins')
 
 # Create QGIS funtion to select an attribute
 """
