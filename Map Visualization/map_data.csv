@@ -1,0 +1,4194 @@
+,year,marine_protection_percent,code,biodiversity_percent,Ocean_food_produced(tonnes),Aqua_Production (produced aqua goods),Catches of Marine Fish,Hours_Trawled,Ocean_Export_tonnes,country_name
+0,1950,0,AS,,,,,,,American Samoa
+1,1950,0,EC,,,,,,,Ecuador
+2,1950,0,SA,,,,,,,Saudi Arabia
+3,1950,2.02,PT,,,,,,,Portugal
+4,1950,0.56,IE,,,,,,,Ireland
+5,1950,0,MP,,,,,,,Northern Mariana Islands
+6,1950,0,EE,,,,,,,Estonia
+7,1950,0.19,FI,,,,,,,Finland
+8,1950,0.85,ID,,,,,,,Indonesia
+9,1950,0,NO,,,,,,,Norway
+10,1950,0,RU,,,,,,,Russian Federation
+11,1950,0.28,US,,,,,,,United States of America
+12,1950,19.45,FR,,,,,,,France
+13,1950,0,IN,,,,,,,India
+14,1950,0,PE,,,,,,,Peru
+15,1950,0,GE,,,,,,,Georgia
+16,1950,0.03,CA,,,,,,,Canada
+17,1950,0,RO,,,,,,,Romania
+18,1950,0,AU,,,,,,,Australia
+19,1950,0.06,VI,,,,,,,United States Virgin Islands
+20,1950,0,BE,,,,,,,Belgium
+21,1950,0.01,PL,,,,,,,Poland
+22,1950,0,CL,,,,,,,Chile
+23,1950,0,DE,,,,,,,Germany
+24,1950,13.82,LT,,,,,,,Lithuania
+25,1950,0.33,IS,,,,,,,Iceland
+26,1950,0,PR,,,,,,,Puerto Rico
+27,1950,2.53,GR,,,,,,,Greece
+28,1950,0,GU,,,,,,,Guam
+29,1950,0,GL,,,,,,,Greenland
+30,1950,0,CN,,,,,,,Cyprus No Mans Area
+31,1950,0,NZ,,,,,,,New Zealand
+32,1950,0.06,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+33,1950,0,UY,,,,,,,Uruguay
+34,1950,0.01,SE,,,,,,,Sweden
+35,1950,0.21,JP,,,,,,,Japan
+36,1950,0.01,BG,,,,,,,Bulgaria
+37,1950,8.52,CY,,,,,,,Cyprus
+38,1950,0,IL,,,,,,,Israel
+39,1950,0,MX,,,,,,,Mexico
+40,1950,4.5,ES,,,,,,,Spain
+41,1950,0,ZA,,,,,,,South Africa
+42,1950,3.04,MT,,,,,,,Malta
+43,1950,0.45,UA,,,,,,,Ukraine
+44,1950,0.01,DK,,,,,,,Denmark
+45,1950,0.02,LV,,,,,,,Latvia
+46,1950,0,CR,,,,,,,Costa Rica
+47,1950,0,CO,,,,,,,Colombia
+48,1950,0,BR,,,,,,,Brazil
+49,1950,0,SI,,,,,,,Slovenia
+50,1950,0,DO,,,,,,,Dominican Republic
+51,1950,0,NL,,,,,,,Netherlands
+52,1950,0,AR,,,,,,,Argentina
+53,1950,0.32,IT,,,,,,,Italy
+54,1950,0.04,HR,,,,,,,Croatia
+55,1960,0.28,JP,,,,,,,Japan
+56,1960,0.15,PL,,,,,,,Poland
+57,1960,0,GU,,,,,,,Guam
+58,1960,3.04,MT,,,,,,,Malta
+59,1960,0.03,LV,,,,,,,Latvia
+60,1960,13.82,LT,,,,,,,Lithuania
+61,1960,0,GL,,,,,,,Greenland
+62,1960,0,IL,,,,,,,Israel
+63,1960,0.33,IS,,,,,,,Iceland
+64,1960,0.07,CA,,,,,,,Canada
+65,1960,0,MX,,,,,,,Mexico
+66,1960,0.01,BG,,,,,,,Bulgaria
+67,1960,0,IN,,,,,,,India
+68,1960,0,NO,,,,,,,Norway
+69,1960,0.32,IT,,,,,,,Italy
+70,1960,0,BR,,,,,,,Brazil
+71,1960,0.85,ID,,,,,,,Indonesia
+72,1960,0,MP,,,,,,,Northern Mariana Islands
+73,1960,0,NL,,,,,,,Netherlands
+74,1960,0.56,IE,,,,,,,Ireland
+75,1960,0.01,NZ,,,,,,,New Zealand
+76,1960,0,BE,,,,,,,Belgium
+77,1960,0,PE,,,,,,,Peru
+78,1960,0,DE,,,,,,,Germany
+79,1960,2.02,PT,,,,,,,Portugal
+80,1960,0,EE,,,,,,,Estonia
+81,1960,0.15,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+82,1960,0,UY,,,,,,,Uruguay
+83,1960,0,EC,,,,,,,Ecuador
+84,1960,0,CN,,,,,,,Cyprus No Mans Area
+85,1960,0,AR,,,,,,,Argentina
+86,1960,0,DO,,,,,,,Dominican Republic
+87,1960,0,SI,,,,,,,Slovenia
+88,1960,0.25,FI,,,,,,,Finland
+89,1960,0.01,DK,,,,,,,Denmark
+90,1960,0,ZA,,,,,,,South Africa
+91,1960,8.52,CY,,,,,,,Cyprus
+92,1960,0.08,HR,,,,,,,Croatia
+93,1960,0.01,SE,,,,,,,Sweden
+94,1960,4.5,ES,,,,,,,Spain
+95,1960,0,CR,,,,,,,Costa Rica
+96,1960,0,CO,,,,,,,Colombia
+97,1960,0,AS,,,,,,,American Samoa
+98,1960,0.88,UA,,,,,,,Ukraine
+99,1960,0,RU,,,,,,,Russian Federation
+100,1960,0,SA,,,,,,,Saudi Arabia
+101,1960,0,RO,,,,,,,Romania
+102,1960,0.06,VI,,,,,,,United States Virgin Islands
+103,1960,2.53,GR,,,,,,,Greece
+104,1960,0.01,CL,,,,,,,Chile
+105,1960,19.45,FR,,,,,,,France
+106,1960,0,GE,,,,,,,Georgia
+107,1960,0.31,US,,,,,,,United States of America
+108,1960,0,PR,,,,,,,Puerto Rico
+109,1960,0,AU,,,,,,,Australia
+110,1970,8.52,CY,,,,,,,Cyprus
+111,1970,0.3,HR,,,,,,,Croatia
+112,1970,0.17,DE,,,,,,,Germany
+113,1970,0,IN,,,,,,,India
+114,1970,0.35,CR,,,,,,,Costa Rica
+115,1970,0.32,JP,,,,,,,Japan
+116,1970,2.53,GR,,,,,,,Greece
+117,1970,0,GL,,,,,,,Greenland
+118,1970,0,GU,,,,,,,Guam
+119,1970,0.01,BG,,,,,,,Bulgaria
+120,1970,0,GE,,,,,,,Georgia
+121,1970,0.23,CL,,,,,,,Chile
+122,1970,0.02,DK,,,,,,,Denmark
+123,1970,0.33,IS,,,,,,,Iceland
+124,1970,0.25,CA,,,,,,,Canada
+125,1970,0,DO,,,,,,,Dominican Republic
+126,1970,0,IL,,,,,,,Israel
+127,1970,0,CN,,,,,,,Cyprus No Mans Area
+128,1970,0.56,IE,,,,,,,Ireland
+129,1970,19.8,FR,,,,,,,France
+130,1970,0,EC,,,,,,,Ecuador
+131,1970,0.26,FI,,,,,,,Finland
+132,1970,0.85,ID,,,,,,,Indonesia
+133,1970,0,EE,,,,,,,Estonia
+134,1970,0.32,IT,,,,,,,Italy
+135,1970,0.07,LV,,,,,,,Latvia
+136,1970,13.82,LT,,,,,,,Lithuania
+137,1970,0,SA,,,,,,,Saudi Arabia
+138,1970,0.01,NO,,,,,,,Norway
+139,1970,0.38,US,,,,,,,United States of America
+140,1970,0.19,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+141,1970,0,MP,,,,,,,Northern Mariana Islands
+142,1970,0,PR,,,,,,,Puerto Rico
+143,1970,0,AR,,,,,,,Argentina
+144,1970,0.01,NZ,,,,,,,New Zealand
+145,1970,0,BE,,,,,,,Belgium
+146,1970,0.5,PL,,,,,,,Poland
+147,1970,0,RO,,,,,,,Romania
+148,1970,0.89,UA,,,,,,,Ukraine
+149,1970,0,NL,,,,,,,Netherlands
+150,1970,0,PE,,,,,,,Peru
+151,1970,0,SI,,,,,,,Slovenia
+152,1970,0,BR,,,,,,,Brazil
+153,1970,0,AU,,,,,,,Australia
+154,1970,0,RU,,,,,,,Russian Federation
+155,1970,0.02,ZA,,,,,,,South Africa
+156,1970,0.05,CO,,,,,,,Colombia
+157,1970,0.26,VI,,,,,,,United States Virgin Islands
+158,1970,0,AS,,,,,,,American Samoa
+159,1970,0,MX,,,,,,,Mexico
+160,1970,0.14,SE,,,,,,,Sweden
+161,1970,3.04,MT,,,,,,,Malta
+162,1970,2.02,PT,,,,,,,Portugal
+163,1970,4.5,ES,,,,,,,Spain
+164,1970,0,UY,,,,,,,Uruguay
+165,1980,1.51,FI,,,,,,,Finland
+166,1980,0.72,US,,,,,,,United States of America
+167,1980,0.23,CL,,,,,,,Chile
+168,1980,0,GE,,,,,,,Georgia
+169,1980,0.1,LV,,,,,,,Latvia
+170,1980,0.26,VI,,,,,,,United States Virgin Islands
+171,1980,0.01,AU,,,,,,,Australia
+172,1980,19.83,FR,,,,,,,France
+173,1980,0,RO,,,,,,,Romania
+174,1980,0.6,PR,,,,,,,Puerto Rico
+175,1980,0,EE,,,,,,,Estonia
+176,1980,0,AS,,,,,,,American Samoa
+177,1980,4.5,ES,,,,,,,Spain
+178,1980,0.75,CR,,,,,,,Costa Rica
+179,1980,0.47,SE,,,,,,,Sweden
+180,1980,0.71,HR,,,,,,,Croatia
+181,1980,0.05,ZA,,,,,,,South Africa
+182,1980,8.52,CY,,,,,,,Cyprus
+183,1980,0.08,RU,,,,,,,Russian Federation
+184,1980,0,SI,,,,,,,Slovenia
+185,1980,2.1,UA,,,,,,,Ukraine
+186,1980,0,DO,,,,,,,Dominican Republic
+187,1980,0,CN,,,,,,,Cyprus No Mans Area
+188,1980,0.04,AR,,,,,,,Argentina
+189,1980,0,SA,,,,,,,Saudi Arabia
+190,1980,12.5,EC,,,,,,,Ecuador
+191,1980,0.82,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+192,1980,4.16,DK,,,,,,,Denmark
+193,1980,4.41,DE,,,,,,,Germany
+194,1980,0.22,CO,,,,,,,Colombia
+195,1980,0.85,ID,,,,,,,Indonesia
+196,1980,0.01,NZ,,,,,,,New Zealand
+197,1980,0.1,NL,,,,,,,Netherlands
+198,1980,0.01,IL,,,,,,,Israel
+199,1980,2.04,PT,,,,,,,Portugal
+200,1980,0,MP,,,,,,,Northern Mariana Islands
+201,1980,0.07,BR,,,,,,,Brazil
+202,1980,0,IN,,,,,,,India
+203,1980,0.33,IT,,,,,,,Italy
+204,1980,0.11,NO,,,,,,,Norway
+205,1980,0.25,PE,,,,,,,Peru
+206,1980,0.56,IE,,,,,,,Ireland
+207,1980,0.01,BG,,,,,,,Bulgaria
+208,1980,0.34,IS,,,,,,,Iceland
+209,1980,0,MX,,,,,,,Mexico
+210,1980,0.27,CA,,,,,,,Canada
+211,1980,0,GU,,,,,,,Guam
+212,1980,13.82,LT,,,,,,,Lithuania
+213,1980,0.91,PL,,,,,,,Poland
+214,1980,3.04,MT,,,,,,,Malta
+215,1980,2.64,GR,,,,,,,Greece
+216,1980,4.34,GL,,,,,,,Greenland
+217,1980,7.76,JP,,,,,,,Japan
+218,1980,0,BE,,,,,,,Belgium
+219,1980,0,UY,,,,,,,Uruguay
+220,1985,3.04,MT,,,,,,,Malta
+221,1985,3.97,NL,,,,,,,Netherlands
+222,1985,7.76,JP,,,,,,,Japan
+223,1985,6.98,DK,,,,,,,Denmark
+224,1985,0.3,CO,,,,,,,Colombia
+225,1985,0.01,IL,,,,,,,Israel
+226,1985,0,MX,,,,,,,Mexico
+227,1985,0,SI,,,,,,,Slovenia
+228,1985,8.52,CY,,,,,,,Cyprus
+229,1985,13.82,LT,,,,,,,Lithuania
+230,1985,0.33,IT,,,,,,,Italy
+231,1985,0.05,ZA,,,,,,,South Africa
+232,1985,0.86,HR,,,,,,,Croatia
+233,1985,0.78,CR,,,,,,,Costa Rica
+234,1985,0.73,SE,,,,,,,Sweden
+235,1985,4.5,ES,,,,,,,Spain
+236,1985,2.11,UA,,,,,,,Ukraine
+237,1985,2.05,PT,,,,,,,Portugal
+238,1985,0.01,NZ,,,,,,,New Zealand
+239,1985,0.26,VI,,,,,,,United States Virgin Islands
+240,1985,11.79,DE,,,,,,,Germany
+241,1985,2.64,GR,,,,,,,Greece
+242,1985,0.7,PR,,,,,,,Puerto Rico
+243,1985,0,GE,,,,,,,Georgia
+244,1985,4.34,GL,,,,,,,Greenland
+245,1985,0,UY,,,,,,,Uruguay
+246,1985,0.92,PL,,,,,,,Poland
+247,1985,0,GU,,,,,,,Guam
+248,1985,19.86,FR,,,,,,,France
+249,1985,0,RO,,,,,,,Romania
+250,1985,0.56,IE,,,,,,,Ireland
+251,1985,0.85,US,,,,,,,United States of America
+252,1985,0.25,PE,,,,,,,Peru
+253,1985,0.16,NO,,,,,,,Norway
+254,1985,0,EE,,,,,,,Estonia
+255,1985,0.09,RU,,,,,,,Russian Federation
+256,1985,1.15,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+257,1985,0.01,IN,,,,,,,India
+258,1985,12.5,EC,,,,,,,Ecuador
+259,1985,0,MP,,,,,,,Northern Mariana Islands
+260,1985,0.86,ID,,,,,,,Indonesia
+261,1985,0.23,DO,,,,,,,Dominican Republic
+262,1985,0.49,SA,,,,,,,Saudi Arabia
+263,1985,2.15,FI,,,,,,,Finland
+264,1985,0.1,LV,,,,,,,Latvia
+265,1985,0.34,IS,,,,,,,Iceland
+266,1985,0.01,BG,,,,,,,Bulgaria
+267,1985,0,BE,,,,,,,Belgium
+268,1985,0,CN,,,,,,,Cyprus No Mans Area
+269,1985,0,AS,,,,,,,American Samoa
+270,1985,0.25,CL,,,,,,,Chile
+271,1985,0.04,AR,,,,,,,Argentina
+272,1985,4.72,AU,,,,,,,Australia
+273,1985,0.29,CA,,,,,,,Canada
+274,1985,0.12,BR,,,,,,,Brazil
+275,1990,12.51,EC,,,,,,,Ecuador
+276,1990,7.77,JP,,,,,,,Japan
+277,1990,0.12,LV,,,,,,,Latvia
+278,1990,13.82,LT,,,,,,,Lithuania
+279,1990,3.06,MT,,,,,,,Malta
+280,1990,0.21,BR,,,,,,,Brazil
+281,1990,0.31,CO,,,,,,,Colombia
+282,1990,4.51,NL,,,,,,,Netherlands
+283,1990,0.21,NZ,,,,,,,New Zealand
+284,1990,0,MP,,,,,,,Northern Mariana Islands
+285,1990,0.95,HR,,,,,,,Croatia
+286,1990,0.18,NO,,,,,,,Norway
+287,1990,1.51,BE,,,,,,,Belgium
+288,1990,0.42,IT,,,,,,,Italy
+289,1990,0,EE,,,,,,,Estonia
+290,1990,0.01,IL,,,,,,,Israel
+291,1990,0.01,BG,,,,,,,Bulgaria
+292,1990,0.01,CN,,,,,,,Cyprus No Mans Area
+293,1990,15.68,DE,,,,,,,Germany
+294,1990,0.24,DO,,,,,,,Dominican Republic
+295,1990,2.7,GR,,,,,,,Greece
+296,1990,4.4,GL,,,,,,,Greenland
+297,1990,0.25,CL,,,,,,,Chile
+298,1990,0,GU,,,,,,,Guam
+299,1990,8.52,CY,,,,,,,Cyprus
+300,1990,6.99,DK,,,,,,,Denmark
+301,1990,0.34,IS,,,,,,,Iceland
+302,1990,19.86,FR,,,,,,,France
+303,1990,0.02,IN,,,,,,,India
+304,1990,0.86,ID,,,,,,,Indonesia
+305,1990,2.22,FI,,,,,,,Finland
+306,1990,0.6,IE,,,,,,,Ireland
+307,1990,0.25,PE,,,,,,,Peru
+308,1990,0.34,CA,,,,,,,Canada
+309,1990,0.92,PL,,,,,,,Poland
+310,1990,0.18,MX,,,,,,,Mexico
+311,1990,0,GE,,,,,,,Georgia
+312,1990,0.1,RU,,,,,,,Russian Federation
+313,1990,1.02,US,,,,,,,United States of America
+314,1990,1.46,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+315,1990,0,RO,,,,,,,Romania
+316,1990,0.04,AR,,,,,,,Argentina
+317,1990,2.58,SA,,,,,,,Saudi Arabia
+318,1990,0.78,CR,,,,,,,Costa Rica
+319,1990,2.12,UA,,,,,,,Ukraine
+320,1990,0.3,SI,,,,,,,Slovenia
+321,1990,4.74,AU,,,,,,,Australia
+322,1990,0.08,ZA,,,,,,,South Africa
+323,1990,1.65,PR,,,,,,,Puerto Rico
+324,1990,0,UY,,,,,,,Uruguay
+325,1990,1.28,SE,,,,,,,Sweden
+326,1990,8.68,AS,,,,,,,American Samoa
+327,1990,2.25,PT,,,,,,,Portugal
+328,1990,4.58,ES,,,,,,,Spain
+329,1990,0.26,VI,,,,,,,United States Virgin Islands
+330,1995,0.02,IN,,,1658807,,,,India
+331,1995,16.09,DE,,,64096,164986.382,,,Germany
+332,1995,0.89,ID,,,743092,,,,Indonesia
+333,1995,,CZ,,,18679,,,,Czech Republic
+334,1995,4.4,GL,,,,,,,Greenland
+335,1995,0.07,AR,,,1474,1148679.2,,,Argentina
+336,1995,4.74,ES,,,225965,1080752,,,Spain
+337,1995,3.83,CO,,,36630,,,,Colombia
+338,1995,0.67,IE,,,27366,378543.3,,,Ireland
+339,1995,0.01,CN,,,21152498,11305373,,,Cyprus No Mans Area
+340,1995,1.81,GB,,,93838,898125.8272,,,United Kingdom of Great Britain and Northern Ireland
+341,1995,2.41,FI,,,17345,105598,,,Finland
+342,1995,2.58,SA,,,,,,,Saudi Arabia
+343,1995,0.34,IS,,,3485,1602741,,,Iceland
+344,1995,,TR,,,21607,582046,,,Turkey
+345,1995,3,UA,,,,,,,Ukraine
+346,1995,0.24,DO,,,,,,,Dominican Republic
+347,1995,0.38,CA,,,65207,858039.2937,,,Canada
+348,1995,20.01,FR,,,280786,616011,,,France
+349,1995,0.01,IL,,,16180,,,,Israel
+350,1995,7.09,DK,,,44730,2015899.2,,,Denmark
+351,1995,0,GU,,,,,,,Guam
+352,1995,2.72,GR,,,32644,,,,Greece
+353,1995,0.25,CL,,,206266,7684000,,,Chile
+354,1995,,HU,,,9360,,,,Hungary
+355,1995,1.57,SE,,,7554,379182,,,Sweden
+356,1995,0.08,ZA,,,,,,,South Africa
+357,1995,8.68,AS,,,,,,,American Samoa
+358,1995,0.48,SI,,,789,,,,Slovenia
+359,1995,0,UY,,,,,,,Uruguay
+360,1995,0.01,BG,,,,,,,Bulgaria
+361,1995,,AT,,,2918,,,,Austria
+362,1995,4.95,AU,,,22395,201149,,,Australia
+363,1995,4.85,NL,,,83938,,,,Netherlands
+364,1995,1.66,PR,,,,,,,Puerto Rico
+365,1995,0.21,NZ,,,70391,,,,New Zealand
+366,1995,0,MP,,,,,,,Northern Mariana Islands
+367,1995,0.97,HR,,,,,,,Croatia
+368,1995,0.28,VI,,,,,,,United States Virgin Islands
+369,1995,0.2,NO,,,277615,,,,Norway
+370,1995,1.52,BE,,,846,,,,Belgium
+371,1995,2.26,PT,,,4981,246011.211,,,Portugal
+372,1995,0.25,PE,,,5771,8886966,,,Peru
+373,1995,,MY,,,132745,,,,Malaysia
+374,1995,,CH,,,1161,,,,Switzerland
+375,1995,,VN,,,389069,990250,,,Viet Nam
+376,1995,,TW,,,286488,,,,Taiwan
+377,1995,0.95,PL,,,25111,241237.5,,,Poland
+378,1995,0,GE,,,,,,,Georgia
+379,1995,1.38,US,,,413454,5328640,,,United States of America
+380,1995,0.52,MX,,,25580,,,,Mexico
+381,1995,0.85,BR,,,46202,413666,,,Brazil
+382,1995,0.18,RU,,,68578,,,,Russian Federation
+383,1995,8.52,CY,,,,,,,Cyprus
+384,1995,3.93,RO,,,,,,,Romania
+385,1995,0.56,IT,,,214725,,,,Italy
+386,1995,,PH,,,940619,,,,Philippines
+387,1995,,TH,,,559504,2827447,,,Thailand
+388,1995,7.77,JP,,,1389676.495,6006910,,,Japan
+389,1995,,BD,,,317073,,,,Bangladesh
+390,1995,0.76,EE,,,315,,,,Estonia
+391,1995,,SK,,,1617,,,,Slovakia
+392,1995,0.35,LV,,,525,,,,Latvia
+393,1995,15.3,LT,,,1714,,,,Lithuania
+394,1995,0.91,CR,,,6756,,,,Costa Rica
+395,1995,3.06,MT,,,,,,,Malta
+396,1995,12.52,EC,,,,,,,Ecuador
+397,1996,,PL,,,27700,406598.7,,,Poland
+398,1996,,NO,,,321516,2570803.442,,,Norway
+399,1996,,SK,,,954,,,,Slovakia
+400,1996,,ES,,,233633,1054094,,,Spain
+401,1996,,CN,,,23465787,13402872,,,Cyprus No Mans Area
+402,1996,,NL,,,99871,,,,Netherlands
+403,1996,,NZ,,,74800,,,,New Zealand
+404,1996,,CR,,,6986,,,,Costa Rica
+405,1996,,PT,,,5364,221496.7935,,,Portugal
+406,1996,,PH,,,1007677,,,,Philippines
+407,1996,,JP,,,1349461.755,5973578,,,Japan
+408,1996,,BD,,,379087,,,,Bangladesh
+409,1996,,VN,,,308288,1058708,,,Viet Nam
+410,1996,,MY,,,109063,,,,Malaysia
+411,1996,,IN,,,1758739,,,,India
+412,1996,,BR,,,77690,422173,,,Brazil
+413,1996,,SI,,,869,,,,Slovenia
+414,1996,,RU,,,53309,,,,Russian Federation
+415,1996,,AU,,,25323,199330.087,,,Australia
+416,1996,,BE,,,946,,,,Belgium
+417,1996,,CA,,,72376,918663.197,,,Canada
+418,1996,,PE,,,7724,9486465,,,Peru
+419,1996,,MX,,,31339,,,,Mexico
+420,1996,,CZ,,,18200,,,,Czech Republic
+421,1996,,DK,,,41924,1704760.9,,,Denmark
+422,1996,,FI,,,17659,115922,,,Finland
+423,1996,,FR,,,285526,398490,,,France
+424,1996,,DE,,,83237,163438.937,,,Germany
+425,1996,,GR,,,39852,,,,Greece
+426,1996,,HU,,,8080,,,,Hungary
+427,1996,,IL,,,17553,,,,Israel
+428,1996,,IS,,,3687,2074961.002,,,Iceland
+429,1996,,IE,,,34925,337438.6,,,Ireland
+430,1996,,ID,,,881098,,,,Indonesia
+431,1996,,IT,,,189373,,,,Italy
+432,1996,,LT,,,1537,,,,Lithuania
+433,1996,,LV,,,380,,,,Latvia
+434,1996,,AT,,,2949,,,,Austria
+435,1996,,GB,,,109901,873896.7938,,,United Kingdom of Great Britain and Northern Ireland
+436,1996,,US,,,393346,5160328,,,United States of America
+437,1996,,EE,,,272,,,,Estonia
+438,1996,,CH,,,1161,,,,Switzerland
+439,1996,,TH,,,556155,2786125,,,Thailand
+440,1996,,TR,,,33201,473695,,,Turkey
+441,1996,,CL,,,323115,5990000,,,Chile
+442,1996,,AR,,,1322,1249542.7,,,Argentina
+443,1996,,CO,,,29990,,,,Colombia
+444,1996,,SE,,,8244,332760,,,Sweden
+445,1996,,TW,,,272336,,,,Taiwan
+446,1997,,GR,,,48838,,,,Greece
+447,1997,,NO,,,367617,2813202.542,,,Norway
+448,1997,,DE,,,65433,181753.334,,,Germany
+449,1997,,SK,,,1254,,,,Slovakia
+450,1997,,DK,,,39697,1845481.1,,,Denmark
+451,1997,,TR,,,45450,403940,,,Turkey
+452,1997,,PL,,,28680,381000,,,Poland
+453,1997,,PT,,,7185,204359.757,,,Portugal
+454,1997,,AR,,,1314,1343218.9,,,Argentina
+455,1997,,FR,,,287243,,,,France
+456,1997,,TW,,,270112,980389.022,,,Taiwan
+457,1997,,VN,,,332378,1093736,,,Viet Nam
+458,1997,,AU,,,26543,193654,,,Australia
+459,1997,,AT,,,3018,,,,Austria
+460,1997,,IL,,,18264,,,,Israel
+461,1997,,LT,,,1516,,,,Lithuania
+462,1997,,MX,,,39500,1221786,,,Mexico
+463,1997,,IT,,,195719,,,,Italy
+464,1997,,CR,,,7000,,,,Costa Rica
+465,1997,,ID,,,777547,,,,Indonesia
+466,1997,,BR,,,87676,465713,,,Brazil
+467,1997,,US,,,438356,5263443,,,United States of America
+468,1997,,PH,,,984437,,,,Philippines
+469,1997,,IE,,,36854,307982,,,Ireland
+470,1997,,IS,,,3663,2223885.002,,,Iceland
+471,1997,,NL,,,98210,,,,Netherlands
+472,1997,,SI,,,917,,,,Slovenia
+473,1997,,NZ,,,76850,,,,New Zealand
+474,1997,,BD,,,485864,,,,Bangladesh
+475,1997,,TH,,,539817,2679492,,,Thailand
+476,1997,,IN,,,1864322,,,,India
+477,1997,,HU,,,9334,,,,Hungary
+478,1997,,RU,,,59766,,,,Russian Federation
+479,1997,,FI,,,16426,117177,,,Finland
+480,1997,,JP,,,1339909.511,5984702,,,Japan
+481,1997,,GB,,,129715,861926.7684,,,United Kingdom of Great Britain and Northern Ireland
+482,1997,,CZ,,,17560,,,,Czech Republic
+483,1997,,PE,,,7931,7837650,,,Peru
+484,1997,,CH,,,1150,,,,Switzerland
+485,1997,,BE,,,846,,,,Belgium
+486,1997,,CL,,,375113,3463000,,,Chile
+487,1997,,CO,,,43710,,,,Colombia
+488,1997,,ES,,,241169,1016015,,,Spain
+489,1997,,SE,,,6683,353762.5515,,,Sweden
+490,1997,,EE,,,260,,,,Estonia
+491,1997,,CN,,,23747399,14752904,,,Cyprus No Mans Area
+492,1997,,MY,,,107984,,,,Malaysia
+493,1997,,CA,,,81676,977940.2554,,,Canada
+494,1997,,LV,,,345,,,,Latvia
+495,1998,,CO,,,45933,,,,Colombia
+496,1998,,NO,,,410757,2837860.514,,,Norway
+497,1998,,GB,,,137421,910920.0301,,,United Kingdom of Great Britain and Northern Ireland
+498,1998,,SI,,,909,,,,Slovenia
+499,1998,,DE,,,73020,199428.996,,,Germany
+500,1998,,NL,,,120094,,,,Netherlands
+501,1998,,GR,,,59926,,,,Greece
+502,1998,,BR,,,103915,432599,,,Brazil
+503,1998,,CA,,,91046,994575.2403,,,Canada
+504,1998,,PE,,,7175,4310271,,,Peru
+505,1998,,AR,,,1040,1120151.9,,,Argentina
+506,1998,,IE,,,42375,337071.63,,,Ireland
+507,1998,,HU,,,10222,,,,Hungary
+508,1998,,RU,,,66230,,,,Russian Federation
+509,1998,,NZ,,,93807,,,,New Zealand
+510,1998,,PH,,,997841,,,,Philippines
+511,1998,,IN,,,1908485,,,,India
+512,1998,,TH,,,594579,2708968,,,Thailand
+513,1998,,IS,,,3868,1682191,,,Iceland
+514,1998,,ES,,,315908,1106114,,,Spain
+515,1998,,BD,,,574812,,,,Bangladesh
+516,1998,,US,,,445119,4946298,,,United States of America
+517,1998,,PL,,,29791,286700,,,Poland
+518,1998,,ID,,,747007,,,,Indonesia
+519,1998,,IT,,,208625,,,,Italy
+520,1998,,LT,,,1516,,,,Lithuania
+521,1998,,MY,,,133635,,,,Malaysia
+522,1998,,TR,,,56700,432700,,,Turkey
+523,1998,,SK,,,648,,,,Slovakia
+524,1998,,IL,,,18556,,,,Israel
+525,1998,,EE,,,260,,,,Estonia
+526,1998,,PT,,,7536,209349.3038,,,Portugal
+527,1998,,LV,,,425,,,,Latvia
+528,1998,,CL,,,361430,5282000,,,Chile
+529,1998,,DK,,,42368,1564822.8,,,Denmark
+530,1998,,CN,,,25671893,15831965,,,Cyprus No Mans Area
+531,1998,,CR,,,7937,,,,Costa Rica
+532,1998,,TW,,,255205,1045740.009,,,Taiwan
+533,1998,,CZ,,,17231,,,,Czech Republic
+534,1998,,AU,,,24570,209659.629,,,Australia
+535,1998,,AT,,,2909,,,,Austria
+536,1998,,BE,,,846,,,,Belgium
+537,1998,,FI,,,16024,118471,,,Finland
+538,1998,,FR,,,267850,552198,,,France
+539,1998,,SE,,,5476,436654.2299,,,Sweden
+540,1998,,VN,,,353920,1140154,,,Viet Nam
+541,1998,,CH,,,1150,,,,Switzerland
+542,1998,,JP,,,1290515.107,5314695,,,Japan
+543,1998,,MX,,,41068,953567,,,Mexico
+544,1999,,IE,,,43856,269201,,,Ireland
+545,1999,,CR,,,9324,,,,Costa Rica
+546,1999,,IS,,,3897,1759573.171,,,Iceland
+547,1999,,TH,,,693762,2725207,,,Thailand
+548,1999,,BE,,,1597,30365.489,,,Belgium
+549,1999,,PH,,,1048679,,,,Philippines
+550,1999,,IT,,,210368,,,,Italy
+551,1999,,AT,,,3067,,,,Austria
+552,1999,,BD,,,593202,,,,Bangladesh
+553,1999,,EE,,,200,,,,Estonia
+554,1999,,TR,,,63000,523634,,,Turkey
+555,1999,,IL,,,18777,,,,Israel
+556,1999,,IN,,,2134814,,,,India
+557,1999,,CZ,,,18775,,,,Czech Republic
+558,1999,,MY,,,166974,,,,Malaysia
+559,1999,,TW,,,263059,1071467.234,,,Taiwan
+560,1999,,DK,,,42670,1417004,,,Denmark
+561,1999,,FI,,,15449,107305,,,Finland
+562,1999,,ID,,,882989,,,,Indonesia
+563,1999,,FR,,,264857,360396,,,France
+564,1999,,LT,,,1650,,,,Lithuania
+565,1999,,DE,,,79567,179393.964,,,Germany
+566,1999,,PE,,,8788,8392378,,,Peru
+567,1999,,GB,,,154800,822845.697,,,United Kingdom of Great Britain and Northern Ireland
+568,1999,,HU,,,11947,,,,Hungary
+569,1999,,VN,,,413468,1289593,,,Viet Nam
+570,1999,,BR,,,140657,418470,,,Brazil
+571,1999,,CL,,,305494,4547000,,,Chile
+572,1999,,CA,,,112916,1003062.592,,,Canada
+573,1999,,AU,,,29601,209799,,,Australia
+574,1999,,GR,,,84274,,,,Greece
+575,1999,,CO,,,52947,,,,Colombia
+576,1999,,JP,,,1315323.763,5239235,,,Japan
+577,1999,,NO,,,475932,2624958.889,,,Norway
+578,1999,,US,,,479212,5074925,,,United States of America
+579,1999,,ES,,,320469,1087077,,,Spain
+580,1999,,RU,,,71615,,,,Russian Federation
+581,1999,,PT,,,6268,189057.02,,,Portugal
+582,1999,,CH,,,1135,,,,Switzerland
+583,1999,,SK,,,872,,,,Slovakia
+584,1999,,NZ,,,91650,,,,New Zealand
+585,1999,,NL,,,108760,,,,Netherlands
+586,1999,,AR,,,1218,1020006.5,,,Argentina
+587,1999,,MX,,,48443,1096280.041,,,Mexico
+588,1999,,CN,,,28000956,15861123,,,Cyprus No Mans Area
+589,1999,,SI,,,1206,,,,Slovenia
+590,1999,,SE,,,6004,349846.1168,,,Sweden
+591,1999,,PL,,,33711,234800,,,Poland
+592,1999,,LV,,,468,,,,Latvia
+593,2000,,FJ,3.76,,,,,,Fiji
+594,2000,,BS,6,,,,,,Bahamas
+595,2000,,DJ,0,,,,,,Djibouti
+596,2000,0.34,IS,9.64,,3623,1929570.51,,,Iceland
+597,2000,0.02,IL,8.4,,20098,,,,Israel
+598,2000,10.16,FI,52,,15400,109610,,,Finland
+599,2000,,ST,0,,,,,,Sao Tome and Principe
+600,2000,1.06,MX,26.58,,53918,1193798,,,Mexico
+601,2000,,KE,43.1,,,,,,Kenya
+602,2000,,GM,32.82,,,,,,Gambia
+603,2000,,PH,29.23,,1100902,,,,Philippines
+604,2000,,AG,0,,,,,,Antigua and Barbuda
+605,2000,,LR,0,,,,,,Liberia
+606,2000,1.53,BE,72.46,,1871,27772.576,,,Belgium
+607,2000,,MM,9.29,,,,,,Myanmar
+608,2000,1.11,BR,47.78,,172450,467687,,,Brazil
+609,2000,,YE,0,,,,,,Yemen
+610,2000,0,UY,16.84,,,,,,Uruguay
+611,2000,,TN,7.32,,,,,,Tunisia
+612,2000,0.43,CA,19.99,,127665,1003499.788,,,Canada
+613,2000,0.02,GU,3.53,,,,,,Guam
+614,2000,0.97,HR,17.9,,,,,,Croatia
+615,2000,,SD,0,,,,,,Sudan
+616,2000,2.27,PT,37.09,,7537,169554.327,,,Portugal
+617,2000,,KI,0,,,,,,Kiribati
+618,2000,,PG,1.49,,,,,,Papua New Guinea
+619,2000,,TZ,39.65,,,,,,United Republic of Tanzania
+620,2000,,TH,47.54,,738155,2773665,,,Thailand
+621,2000,,LC,8.36,,,,,,Saint Lucia
+622,2000,,SL,24.05,,,,,,Sierra Leone
+623,2000,0.96,SI,31.41,,1181,,,,Slovenia
+624,2000,,AO,66.58,,,,,,Angola
+625,2000,,BJ,0,,,,,,Benin
+626,2000,7.1,DK,83.3,,43609,1544167.3,,,Denmark
+627,2000,,DZ,42.23,,,,,,Algeria
+628,2000,,KM,0,,,,,,Comoros
+629,2000,0,MP,2.79,,,,,,Northern Mariana Islands
+630,2000,,FO,0,,,,,,Faroe Islands
+631,2000,,LK,46.35,,,,,,Sri Lanka
+632,2000,,MZ,27.48,,,,,,Mozambique
+633,2000,,SR,74.24,,,,,,Suriname
+634,2000,,AL,9.24,,,,,,Albania
+635,2000,,CZ,,,19475,,,,Czech Republic
+636,2000,1.62,EE,6.32,,225,,,,Estonia
+637,2000,,SC,25.06,,,,,,Seychelles
+638,2000,,IR,58.15,,,,,,Iran (Islamic Republic of)
+639,2000,3.07,SE,37.78,,4834,340472.9713,,,Sweden
+640,2000,,MY,13.71,,167898,,,,Malaysia
+641,2000,,OM,7.07,,,,,,Oman
+642,2000,,AE,9.08,,,,,,United Arab Emirates
+643,2000,,TR,3.12,,79031,460521,,,Turkey
+644,2000,,CU,5.48,,,,,,Cuba
+645,2000,0.91,ID,6.85,,993727,,,,Indonesia
+646,2000,0.25,PE,17.7,,6596,10626323,,,Peru
+647,2000,0.21,NO,33.41,,491329,2731606.765,,,Norway
+648,2000,,KN,0,,,,,,Saint Kitts and Nevis
+649,2000,,KH,41.16,,,,,,Cambodia
+650,2000,0.95,PL,17.02,,35795,200139,,,Poland
+651,2000,,SN,17.78,,,,,,Senegal
+652,2000,0.14,ZA,38.16,,,,,,South Africa
+653,2000,12.52,EC,52.81,,,,,,Ecuador
+654,2000,4.75,ES,36.48,,311429,983808,,,Spain
+655,2000,,SK,,,887,,,,Slovakia
+656,2000,,MG,8.58,,,,,,Madagascar
+657,2000,3.83,CO,35.54,,61786,,,,Colombia
+658,2000,,DM,0,,,,,,Dominica
+659,2000,,HN,24.97,,,,,,Honduras
+660,2000,,MA,23.91,,,,,,Morocco
+661,2000,3.06,MT,50.16,,,,,,Malta
+662,2000,,MU,9.68,,,,,,Mauritius
+663,2000,,MR,37.24,,,,,,Mauritania
+664,2000,8.68,AS,14.29,,,,,,American Samoa
+665,2000,,AT,,,2847,,,,Austria
+666,2000,,GA,26.95,,,,,,Gabon
+667,2000,15.3,LT,50.43,,1996,,,,Lithuania
+668,2000,,QA,0,,,,,,Qatar
+669,2000,0.02,IN,19.18,,1942531,,,,India
+670,2000,,PK,14.58,,,,,,Pakistan
+671,2000,,ER,0,,,,,,Eritrea
+672,2000,4.17,RO,52.43,,,,,,Romania
+673,2000,,PA,23.46,,,,,,Panama
+674,2000,0.25,CL,18.85,,425058,4032000,,,Chile
+675,2000,,JM,26.6,,,,,,Jamaica
+676,2000,,NI,44.52,,,,,,Nicaragua
+677,2000,,MV,0,,,,,,Maldives
+678,2000,,TT,8.49,,,,,,Trinidad and Tobago
+679,2000,2.85,GR,27.37,,95418,,,,Greece
+680,2000,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+681,2000,,NA,22.48,,,,,,Namibia
+682,2000,,SV,0,,,,,,El Salvador
+683,2000,,IQ,0,,,,,,Iraq
+684,2000,,LB,0.79,,,,,,Lebanon
+685,2000,,SG,0,,,,,,Singapore
+686,2000,,BZ,26.2,,,,,,Belize
+687,2000,0.17,AR,27.07,,1784,857367.8,,,Argentina
+688,2000,,NR,0,,,,,,Nauru
+689,2000,,GD,0.12,,,,,,Grenada
+690,2000,1.11,CR,46.72,,9708,24279.4185,,,Costa Rica
+691,2000,,KW,12.94,,,,,,Kuwait
+692,2000,,GT,35.15,,,,,,Guatemala
+693,2000,2.58,SA,25.31,,,,,,Saudi Arabia
+694,2000,,NG,0,,,,,,Nigeria
+695,2000,0.01,CN,2.27,,29749708,15870924,,,Cyprus No Mans Area
+696,2000,,ME,0,,,,,,Montenegro
+697,2000,,BB,2.85,,,,,,Barbados
+698,2000,,MH,0,,,,,,Marshall Islands
+699,2000,11.92,NL,86.65,,75231,,,,Netherlands
+700,2000,,PW,22.95,,,,,,Palau
+701,2000,0.3,RU,22.79,,77132,,,,Russian Federation
+702,2000,,GN,69.28,,,,,,Guinea
+703,2000,,TW,,,256385,1076549.924,,,Taiwan
+704,2000,16.3,DE,35.25,,65891,184335.926,,,Germany
+705,2000,7.78,JP,50.66,,1291735.086,5021518,,,Japan
+706,2000,2,GB,77.03,,152485,746883.7094,,,United Kingdom of Great Britain and Northern Ireland
+707,2000,,BD,33.58,,657120,,,,Bangladesh
+708,2000,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+709,2000,,EG,27.9,,,,,,Egypt
+710,2000,,WS,54.15,,,,,,Samoa
+711,2000,,VU,2.96,,,,,,Vanuatu
+712,2000,,SB,1.19,,,,,,Solomon Islands
+713,2000,0.67,GE,35.64,,,,,,Georgia
+714,2000,,CH,,,1100,,,,Switzerland
+715,2000,0.24,DO,10.91,,,,,,Dominican Republic
+716,2000,,HT,0,,,,,,Haiti
+717,2000,0.69,IE,53.88,,51247,290943,,,Ireland
+718,2000,,HU,,,12886,,,,Hungary
+719,2000,3.07,UA,30.74,,,,,,Ukraine
+720,2000,,GH,19.56,,,,,,Ghana
+721,2000,8.52,CY,1.91,,,,,,Cyprus
+722,2000,0.55,NZ,42.71,,85640,,,,New Zealand
+723,2000,,VN,8.93,,513517,1419612,,,Viet Nam
+724,2000,1.09,LV,64.17,,325,,,,Latvia
+725,2000,4.44,IT,37.86,,216525,,,,Italy
+726,2000,1.8,PR,34.32,,,,,,Puerto Rico
+727,2000,5.08,AU,43.22,,32083,184753.3,,,Australia
+728,2000,,SO,0,,,,,,Somalia
+729,2000,,BH,0,,,,,,Bahrain
+730,2000,4.4,GL,26.08,,,,,,Greenland
+731,2000,0.01,BG,19.09,,,,,,Bulgaria
+732,2000,0.28,VI,11.48,,,,,,United States Virgin Islands
+733,2000,20.29,FR,20.98,,266802,371268,,,France
+734,2000,1.38,US,30.19,,456830,4889132,,,United States of America
+735,2000,,GQ,100,,,,,,Equatorial Guinea
+736,2000,,LY,0,,,,,,Libya
+737,2000,,TO,9.55,,,,,,Tonga
+738,2001,0.21,NO,33.41,,510748,2707932.395,,,Norway
+739,2001,,KN,0,,,,,,Saint Kitts and Nevis
+740,2001,0.69,IE,53.88,,60940,305127.2,,,Ireland
+741,2001,,SD,0,,,,,,Sudan
+742,2001,,ER,0,,,,,,Eritrea
+743,2001,12.02,NL,86.65,,57042,,,,Netherlands
+744,2001,,EG,27.9,,,,,,Egypt
+745,2001,,BB,2.85,,,,,,Barbados
+746,2001,,FO,0,,,,,,Faroe Islands
+747,2001,,DM,0,,,,,,Dominica
+748,2001,,BD,34.37,,712640,,,,Bangladesh
+749,2001,1.1,LV,64.17,,463,,,,Latvia
+750,2001,,SN,17.78,,,,,,Senegal
+751,2001,3.07,MT,50.16,,,,,,Malta
+752,2001,,LC,8.36,,,,,,Saint Lucia
+753,2001,0,MP,2.79,,,,,,Northern Mariana Islands
+754,2001,,SG,0,,,,,,Singapore
+755,2001,,AO,66.58,,,,,,Angola
+756,2001,,MA,23.91,,,,,,Morocco
+757,2001,0.03,BG,24.14,,,,,,Bulgaria
+758,2001,,NA,22.48,,,,,,Namibia
+759,2001,,BZ,26.82,,,,,,Belize
+760,2001,7.78,JP,50.76,,1311828.694,4752807,,,Japan
+761,2001,,SL,24.05,,,,,,Sierra Leone
+762,2001,,SB,1.19,,,,,,Solomon Islands
+763,2001,,CU,38.55,,,,,,Cuba
+764,2001,,LK,46.35,,,,,,Sri Lanka
+765,2001,,MZ,45.24,,,,,,Mozambique
+766,2001,2.6,NZ,42.8,,76024,98255.272,,,New Zealand
+767,2001,,GQ,100,,,,,,Equatorial Guinea
+768,2001,,ST,0,,,,,,Sao Tome and Principe
+769,2001,,BH,0,,,,,,Bahrain
+770,2001,,MG,8.58,,,,,,Madagascar
+771,2001,,KE,43.1,,,,,,Kenya
+772,2001,,SV,0,,,,,,El Salvador
+773,2001,1.16,BR,47.78,,205568,509946,,,Brazil
+774,2001,0.02,IL,8.4,,21318,,,,Israel
+775,2001,,AG,0,,,,,,Antigua and Barbuda
+776,2001,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+777,2001,,SO,0,,,,,,Somalia
+778,2001,15.3,LT,50.43,,2001,,,,Lithuania
+779,2001,,AT,,,2393,,,,Austria
+780,2001,4.44,IT,40.42,,218330,,,,Italy
+781,2001,,DJ,0,,,,,,Djibouti
+782,2001,,LB,0.79,,,,,,Lebanon
+783,2001,,BS,6,,,,,,Bahamas
+784,2001,,SC,25.06,,,,,,Seychelles
+785,2001,1.06,MX,26.58,,76063,1262553,,,Mexico
+786,2001,,BJ,0,,,,,,Benin
+787,2001,,WS,54.15,,,,,,Samoa
+788,2001,,KH,41.16,,,,,,Cambodia
+789,2001,8.52,CY,10.03,,,,,,Cyprus
+790,2001,0.97,HR,17.9,,,,,,Croatia
+791,2001,0.01,CN,2.78,,31102502,15563844,,,Cyprus No Mans Area
+792,2001,,KM,0,,,,,,Comoros
+793,2001,,NG,0,,,,,,Nigeria
+794,2001,,JM,26.6,,,,,,Jamaica
+795,2001,3.33,GR,55.54,,97512,,,,Greece
+796,2001,4.17,RO,52.43,,,,,,Romania
+797,2001,,PA,23.46,,,,,,Panama
+798,2001,,GD,0.12,,,,,,Grenada
+799,2001,,MU,9.68,,,,,,Mauritius
+800,2001,1.11,CR,48.43,,10520,27236.51732,,,Costa Rica
+801,2001,10.22,FI,52.06,,15739,103203,,,Finland
+802,2001,,HU,,,13056,,,,Hungary
+803,2001,1.38,US,30.23,,480362,5109948,,,United States of America
+804,2001,,TN,10.3,,,,,,Tunisia
+805,2001,,LR,0,,,,,,Liberia
+806,2001,,MM,9.29,,,,,,Myanmar
+807,2001,,TO,19.17,,,,,,Tonga
+808,2001,4.4,GL,26.08,,,,,,Greenland
+809,2001,3.22,SE,39.61,,6773,314856.1639,,,Sweden
+810,2001,1.85,PR,36.74,,,,,,Puerto Rico
+811,2001,0.25,CL,18.85,,631634,4515000,,,Chile
+812,2001,,SK,,,999,,,,Slovakia
+813,2001,,GH,19.56,,,,,,Ghana
+814,2001,,GT,35.2,,,,,,Guatemala
+815,2001,,MV,0,,,,,,Maldives
+816,2001,,NI,49.95,,,,,,Nicaragua
+817,2001,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+818,2001,3.07,UA,30.74,,,,,,Ukraine
+819,2001,20.3,FR,27.92,,251655,366125,,,France
+820,2001,,MH,0,,,,,,Marshall Islands
+821,2001,2.58,SA,25.31,,,,,,Saudi Arabia
+822,2001,0.3,AR,31.23,,1340,890767.3,,,Argentina
+823,2001,,TT,8.49,,,,,,Trinidad and Tobago
+824,2001,0.24,DO,10.91,,,,,,Dominican Republic
+825,2001,,CH,,,1135,,,,Switzerland
+826,2001,0.67,GE,35.64,,,,,,Georgia
+827,2001,,VU,3.3,,,,,,Vanuatu
+828,2001,,VN,8.93,,603098,1481175,,,Viet Nam
+829,2001,,GN,69.28,,,,,,Guinea
+830,2001,,IQ,0,,,,,,Iraq
+831,2001,,TZ,39.65,,,,,,United Republic of Tanzania
+832,2001,,HT,0,,,,,,Haiti
+833,2001,0.3,RU,22.79,,90449,,,,Russian Federation
+834,2001,,TW,,,313056,982480.3428,,,Taiwan
+835,2001,0.96,SI,31.41,,1262,,,,Slovenia
+836,2001,16.38,DE,41.97,,53409,174278.518,,,Germany
+837,2001,,ME,0,,,,,,Montenegro
+838,2001,2.01,GB,78.14,,170516,739133.0233,,,United Kingdom of Great Britain and Northern Ireland
+839,2001,,PK,14.58,,,,,,Pakistan
+840,2001,,PW,22.95,,,,,,Palau
+841,2001,,HN,24.97,,,,,,Honduras
+842,2001,5.08,AU,44.03,,35883,195700.74,,,Australia
+843,2001,,AE,18.17,,,,,,United Arab Emirates
+844,2001,,GM,32.82,,,,,,Gambia
+845,2001,,PH,34.27,,1220456,,,,Philippines
+846,2001,0.95,PL,17.08,,35460,207360,,,Poland
+847,2001,,TR,3.12,,67244,484410,,,Turkey
+848,2001,0.02,IN,19.18,,2120634,,,,India
+849,2001,,GA,26.95,,,,,,Gabon
+850,2001,,OM,7.07,,,,,,Oman
+851,2001,,IR,68,,,,,,Iran (Islamic Republic of)
+852,2001,,SR,74.24,,,,,,Suriname
+853,2001,0.34,IS,9.64,,4371,1942184,,,Iceland
+854,2001,,CZ,,,20098,,,,Czech Republic
+855,2001,,AL,9.24,,,,,,Albania
+856,2001,8.68,AS,14.29,,,,,,American Samoa
+857,2001,,FJ,3.79,,,,,,Fiji
+858,2001,,QA,0,,,,,,Qatar
+859,2001,0.25,PE,17.7,,7551,7955955,,,Peru
+860,2001,3.83,CO,35.54,,57660,,,,Colombia
+861,2001,12.53,EC,53.91,,,,,,Ecuador
+862,2001,1.53,BE,72.46,,1830,28610.279,,,Belgium
+863,2001,,DZ,56.21,,,,,,Algeria
+864,2001,0.91,ID,6.85,,1076749,,,,Indonesia
+865,2001,,YE,0,,,,,,Yemen
+866,2001,0,UY,16.84,,,,,,Uruguay
+867,2001,,KW,12.94,,,,,,Kuwait
+868,2001,2.27,PT,37.52,,8209,167369.2625,,,Portugal
+869,2001,4.77,ES,39.45,,311591,962825,,,Spain
+870,2001,,LY,0,,,,,,Libya
+871,2001,,PG,1.49,,,,,,Papua New Guinea
+872,2001,1.62,EE,6.45,,467,,,,Estonia
+873,2001,7.1,DK,83.3,,41573,1524509.8,,,Denmark
+874,2001,,KI,0,,,,,,Kiribati
+875,2001,,NR,0,,,,,,Nauru
+876,2001,,TH,47.54,,814121,2631702,,,Thailand
+877,2001,0.41,VI,11.48,,,,,,United States Virgin Islands
+878,2001,0.02,GU,3.53,,,,,,Guam
+879,2001,,MY,13.71,,177021,,,,Malaysia
+880,2001,0.43,CA,20,,153046,1053337.66,,,Canada
+881,2001,0.15,ZA,38.18,,,,,,South Africa
+882,2001,,MR,37.24,,,,,,Mauritania
+883,2002,3.33,SE,41.88,,5618,293514.6439,,,Sweden
+884,2002,3.83,CO,36.35,,57160,,,,Colombia
+885,2002,,TZ,39.65,,,,,,United Republic of Tanzania
+886,2002,,AE,18.17,,,,,,United Arab Emirates
+887,2002,,KW,13.02,,,,,,Kuwait
+888,2002,1.18,BR,47.97,,247678,516167,,,Brazil
+889,2002,,MR,37.24,,,,,,Mauritania
+890,2002,,BZ,27.02,,,,,,Belize
+891,2002,,MU,9.68,,,,,,Mauritius
+892,2002,,NA,22.48,,,,,,Namibia
+893,2002,,KE,43.1,,,,,,Kenya
+894,2002,,MH,4.78,,,,,,Marshall Islands
+895,2002,,TN,10.3,,,,,,Tunisia
+896,2002,0.96,SI,31.41,,1289,,,,Slovenia
+897,2002,,SC,25.06,,,,,,Seychelles
+898,2002,1.07,MX,27.86,,73670,1295489,,,Mexico
+899,2002,3.07,MT,50.37,,,,,,Malta
+900,2002,,BJ,0,,,,,,Benin
+901,2002,,KH,41.16,,,,,,Cambodia
+902,2002,8.68,AS,14.29,,,,,,American Samoa
+903,2002,0.15,ZA,38.22,,,,,,South Africa
+904,2002,,SL,24.05,,,,,,Sierra Leone
+905,2002,,TR,3.12,,61165,522744,,,Turkey
+906,2002,,SD,0,,,,,,Sudan
+907,2002,2.58,SA,25.31,,,,,,Saudi Arabia
+908,2002,,KI,0,,,,,,Kiribati
+909,2002,0.41,VI,11.48,,,,,,United States Virgin Islands
+910,2002,2.27,PT,37.52,,8288,173224.6912,,,Portugal
+911,2002,,MY,13.71,,183990,,,,Malaysia
+912,2002,,TH,47.54,,954608,2643711,,,Thailand
+913,2002,0,MP,2.79,,,,,,Northern Mariana Islands
+914,2002,,SO,0,,,,,,Somalia
+915,2002,,AG,0,,,,,,Antigua and Barbuda
+916,2002,,YE,0,,,,,,Yemen
+917,2002,,VN,13.24,,718041,1575640,,,Viet Nam
+918,2002,,NR,0,,,,,,Nauru
+919,2002,,LK,46.35,,,,,,Sri Lanka
+920,2002,0,UY,16.84,,,,,,Uruguay
+921,2002,,SR,74.24,,,,,,Suriname
+922,2002,1.53,BE,72.46,,1834,29389.254,,,Belgium
+923,2002,,AL,9.24,,,,,,Albania
+924,2002,0.25,PE,17.7,,11532,8741397,,,Peru
+925,2002,0.31,NO,45.11,,551300,2760947.12,,,Norway
+926,2002,,AO,66.58,,,,,,Angola
+927,2002,,DZ,56.21,,,,,,Algeria
+928,2002,0.95,PL,17.08,,32709,204402,,,Poland
+929,2002,,MA,23.91,,,,,,Morocco
+930,2002,5.39,AU,45.47,,38908.037,200594.83,,,Australia
+931,2002,,BS,8.12,,,,,,Bahamas
+932,2002,,TT,8.49,,,,,,Trinidad and Tobago
+933,2002,,VU,3.3,,,,,,Vanuatu
+934,2002,0.31,AR,31.25,,1457,889664.4,,,Argentina
+935,2002,,TW,,,346965,1029263.673,,,Taiwan
+936,2002,12.03,NL,86.65,,54429,,,,Netherlands
+937,2002,,BB,2.85,,,,,,Barbados
+938,2002,0.3,RU,22.87,,101483,,,,Russian Federation
+939,2002,,SG,3.25,,,,,,Singapore
+940,2002,,BD,34.37,,786604,,,,Bangladesh
+941,2002,,ME,0,,,,,,Montenegro
+942,2002,2.02,GB,78.78,,179036,687106.2152,,,United Kingdom of Great Britain and Northern Ireland
+943,2002,4.17,RO,52.43,,,,,,Romania
+944,2002,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+945,2002,0.97,HR,17.9,,,,,,Croatia
+946,2002,2.6,NZ,44.81,,86583,570905.9208,,,New Zealand
+947,2002,1.38,US,30.3,,498899,5100464,,,United States of America
+948,2002,,TO,19.17,,,,,,Tonga
+949,2002,,SB,1.19,,,,,,Solomon Islands
+950,2002,,BH,0,,,,,,Bahrain
+951,2002,1.11,CR,48.43,,17892,25969.71197,,,Costa Rica
+952,2002,1.85,PR,36.74,,,,,,Puerto Rico
+953,2002,3.07,UA,30.74,,,,,,Ukraine
+954,2002,,MV,0,,,,,,Maldives
+955,2002,4.77,ES,40.98,,257249,918245,,,Spain
+956,2002,,MZ,45.24,,,,,,Mozambique
+957,2002,,MM,9.29,,,,,,Myanmar
+958,2002,,EG,27.9,,,,,,Egypt
+959,2002,,LR,0,,,,,,Liberia
+960,2002,,WS,54.15,,,,,,Samoa
+961,2002,,SK,,,829,,,,Slovakia
+962,2002,,HN,24.97,,,,,,Honduras
+963,2002,,GT,35.42,,,,,,Guatemala
+964,2002,4.46,IT,40.72,,184285,,,,Italy
+965,2002,,GN,69.28,,,,,,Guinea
+966,2002,,DM,0,,,,,,Dominica
+967,2002,2.49,LV,67.55,,430,,,,Latvia
+968,2002,,PH,34.3,,1338394,,,,Philippines
+969,2002,,GM,32.82,,,,,,Gambia
+970,2002,0.69,IE,53.88,,62568,280898.1,,,Ireland
+971,2002,,KM,0,,,,,,Comoros
+972,2002,,QA,0,,,,,,Qatar
+973,2002,1.62,EE,6.45,,257,,,,Estonia
+974,2002,,NG,0,,,,,,Nigeria
+975,2002,0.34,IS,9.69,,3585,2132245,,,Iceland
+976,2002,,GA,62.27,,,,,,Gabon
+977,2002,,PW,28.78,,,,,,Palau
+978,2002,,CH,,,1135,,,,Switzerland
+979,2002,,PK,14.58,,,,,,Pakistan
+980,2002,,SV,0,,,,,,El Salvador
+981,2002,,LC,8.36,,,,,,Saint Lucia
+982,2002,16.38,DE,42.12,,49852,185153.062,,,Germany
+983,2002,,LB,0.79,,,,,,Lebanon
+984,2002,7.78,JP,52.24,,1385099.108,4436479,,,Japan
+985,2002,,NI,49.95,,,,,,Nicaragua
+986,2002,0.91,ID,6.85,,1137151,,,,Indonesia
+987,2002,,CZ,,,19210,,,,Czech Republic
+988,2002,,GQ,100,,,,,,Equatorial Guinea
+989,2002,10.22,FI,52.07,,15132,98153,,,Finland
+990,2002,,LY,0,,,,,,Libya
+991,2002,,FJ,4.07,,,,,,Fiji
+992,2002,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+993,2002,,HT,0,,,,,,Haiti
+994,2002,0.12,BG,46.19,,,,,,Bulgaria
+995,2002,0.06,IN,19.18,,2189445,,,,India
+996,2002,3.57,GR,63.12,,87928,91891.46,,,Greece
+997,2002,,JM,26.6,,,,,,Jamaica
+998,2002,0.24,CN,4.67,,33160273,15786034,,,Cyprus No Mans Area
+999,2002,15.51,LT,50.43,,1750,,,,Lithuania
+1000,2002,,GD,0.12,,,,,,Grenada
+1001,2002,0.25,CL,18.85,,617303,3921000,,,Chile
+1002,2002,,FO,0,,,,,,Faroe Islands
+1003,2002,,KN,0,,,,,,Saint Kitts and Nevis
+1004,2002,0.44,CA,20.29,,172046,1073988.451,,,Canada
+1005,2002,0.24,DO,10.91,,,,,,Dominican Republic
+1006,2002,,HU,,,11574,,,,Hungary
+1007,2002,,CU,51.22,,,,,,Cuba
+1008,2002,,SN,17.78,,,,,,Senegal
+1009,2002,,GH,19.56,,,,,,Ghana
+1010,2002,,AT,,,2333,,,,Austria
+1011,2002,4.4,GL,26.08,,,,,,Greenland
+1012,2002,0.04,IL,9.36,,22256,,,,Israel
+1013,2002,12.53,EC,57.91,,,,,,Ecuador
+1014,2002,,OM,7.07,,,,,,Oman
+1015,2002,0.67,GE,35.64,,,,,,Georgia
+1016,2002,,IR,68,,,,,,Iran (Islamic Republic of)
+1017,2002,,ER,0,,,,,,Eritrea
+1018,2002,,ST,0,,,,,,Sao Tome and Principe
+1019,2002,,PA,23.46,,,,,,Panama
+1020,2002,,PG,1.89,,,,,,Papua New Guinea
+1021,2002,,MG,8.58,,,,,,Madagascar
+1022,2002,8.52,CY,10.03,,,,,,Cyprus
+1023,2002,20.3,FR,28.01,,251758,374783,,,France
+1024,2002,0.02,GU,3.53,,,,,,Guam
+1025,2002,,IQ,0,,,,,,Iraq
+1026,2002,7.1,DK,83.3,,32026,1455295,,,Denmark
+1027,2002,,DJ,0,,,,,,Djibouti
+1028,2003,,NI,49.95,,,,,,Nicaragua
+1029,2003,,FO,0,,,,,,Faroe Islands
+1030,2003,,LK,46.35,,,,,,Sri Lanka
+1031,2003,,AT,,,2233,,,,Austria
+1032,2003,,TT,8.49,,,,,,Trinidad and Tobago
+1033,2003,0.69,IE,53.88,,62516,259102,,,Ireland
+1034,2003,,TW,,,363828,1110675.619,,,Taiwan
+1035,2003,,VU,3.3,,,,,,Vanuatu
+1036,2003,,MZ,49.17,,,,,,Mozambique
+1037,2003,,GN,69.28,,,,,,Guinea
+1038,2003,0.31,AR,31.25,,1647,842709.9,,,Argentina
+1039,2003,0.24,DO,10.91,,,,,,Dominican Republic
+1040,2003,,AO,66.58,,,,,,Angola
+1041,2003,,PW,28.78,,,,,,Palau
+1042,2003,,SD,0,,,,,,Sudan
+1043,2003,,LY,0,,,,,,Libya
+1044,2003,,KN,0,,,,,,Saint Kitts and Nevis
+1045,2003,0.67,GE,35.64,,,,,,Georgia
+1046,2003,,DZ,65.34,,,,,,Algeria
+1047,2003,0.33,NO,47.58,,584422,2542113.861,,,Norway
+1048,2003,1.58,BE,73.27,,1261,24828.761,,,Belgium
+1049,2003,0.3,RU,22.87,,108751,,,,Russian Federation
+1050,2003,,DJ,0,,,,,,Djibouti
+1051,2003,,CH,,,1100,,,,Switzerland
+1052,2003,,PG,1.89,,,,,,Papua New Guinea
+1053,2003,,MY,13.71,,192160,,,,Malaysia
+1054,2003,,PA,23.46,,,,,,Panama
+1055,2003,0.02,GU,3.53,,,,,,Guam
+1056,2003,2.27,PT,37.52,,8033,183862.7217,,,Portugal
+1057,2003,,GD,0.12,,,,,,Grenada
+1058,2003,,TH,47.54,,1064406,2651223,,,Thailand
+1059,2003,,HU,,,11870,,,,Hungary
+1060,2003,0.8,VI,26.3,,,,,,United States Virgin Islands
+1061,2003,8.81,DK,83.3,,37772,1054236.5,,,Denmark
+1062,2003,0.49,CA,20.3,,167798,1120060.318,,,Canada
+1063,2003,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1064,2003,,VN,17.98,,952502,1647133,,,Viet Nam
+1065,2003,1.38,US,30.36,,545971,5116560,,,United States of America
+1066,2003,,JM,26.6,,,,,,Jamaica
+1067,2003,5.39,AU,45.78,,39927.4,215329.42,,,Australia
+1068,2003,,GH,19.56,,,,,,Ghana
+1069,2003,,KI,0,,,,,,Kiribati
+1070,2003,1.11,CR,48.43,,20546,20480.02294,,,Costa Rica
+1071,2003,3.57,GR,63.12,,101434,89632,,,Greece
+1072,2003,4.17,RO,52.43,,,,,,Romania
+1073,2003,0.24,CN,4.67,,34891716,15480774,,,Cyprus No Mans Area
+1074,2003,,YE,0,,,,,,Yemen
+1075,2003,0.25,PE,17.7,,13621,6060984,,,Peru
+1076,2003,,IQ,0,,,,,,Iraq
+1077,2003,,AL,9.24,,,,,,Albania
+1078,2003,0.93,ID,7.57,,1228559,,,,Indonesia
+1079,2003,,CZ,,,19670,,,,Czech Republic
+1080,2003,16.39,DE,42.25,,74280,248925.857,,,Germany
+1081,2003,,SR,74.24,,,,,,Suriname
+1082,2003,,MV,0,,,,,,Maldives
+1083,2003,0,UY,16.84,,,,,,Uruguay
+1084,2003,,QA,0,,,,,,Qatar
+1085,2003,,FJ,4.91,,,,,,Fiji
+1086,2003,,GA,62.27,,,,,,Gabon
+1087,2003,,TO,19.17,,,,,,Tonga
+1088,2003,,GT,35.52,,,,,,Guatemala
+1089,2003,0.95,PL,17.08,,35436,160261,,,Poland
+1090,2003,,LR,96.66,,,,,,Liberia
+1091,2003,,PH,36.79,,1448504,,,,Philippines
+1092,2003,,GM,39.9,,,,,,Gambia
+1093,2003,,ME,0,,,,,,Montenegro
+1094,2003,0.34,IS,9.69,,6214,1979387.654,,,Iceland
+1095,2003,0.06,IN,19.18,,2316947,,,,India
+1096,2003,2.07,GB,79.39,,181838,640384.5523,,,United Kingdom of Great Britain and Northern Ireland
+1097,2003,,AG,0,,,,,,Antigua and Barbuda
+1098,2003,0.12,BG,46.19,,,,,,Bulgaria
+1099,2003,,WS,54.15,,,,,,Samoa
+1100,2003,1.62,EE,6.73,,372,,,,Estonia
+1101,2003,,SL,24.05,,,,,,Sierra Leone
+1102,2003,,MR,37.24,,,,,,Mauritania
+1103,2003,,BZ,27.14,,,,,,Belize
+1104,2003,2.49,LV,67.55,,637,,,,Latvia
+1105,2003,,DM,0,,,,,,Dominica
+1106,2003,,HN,24.97,,,,,,Honduras
+1107,2003,,AE,18.17,,,,,,United Arab Emirates
+1108,2003,,MM,9.29,,,,,,Myanmar
+1109,2003,,NR,0,,,,,,Nauru
+1110,2003,3.35,SE,41.88,,6334,283932.8884,,,Sweden
+1111,2003,12.03,NL,86.65,,66540,,,,Netherlands
+1112,2003,,BB,2.85,,,,,,Barbados
+1113,2003,,TN,10.3,,,,,,Tunisia
+1114,2003,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1115,2003,,NG,0,,,,,,Nigeria
+1116,2003,,SG,3.25,,,,,,Singapore
+1117,2003,10.22,FI,52.07,,12558,77792,,,Finland
+1118,2003,,BD,34.37,,856956,,,,Bangladesh
+1119,2003,,EG,36.99,,,,,,Egypt
+1120,2003,8.05,JP,57.99,,1301793.557,4721975,,,Japan
+1121,2003,0.15,ZA,38.28,,,,,,South Africa
+1122,2003,,SK,,,881,,,,Slovakia
+1123,2003,12.53,EC,57.91,,,,,,Ecuador
+1124,2003,1.28,BR,48.21,,273268,484593,,,Brazil
+1125,2003,,KM,0,,,,,,Comoros
+1126,2003,3.83,CO,36.35,,60895,,,,Colombia
+1127,2003,,SN,17.78,,,,,,Senegal
+1128,2003,3.07,MT,54.26,,,,,,Malta
+1129,2003,,IR,68,,,,,,Iran (Islamic Republic of)
+1130,2003,4.82,ES,43.26,,271279,876471,,,Spain
+1131,2003,,KH,41.16,,,,,,Cambodia
+1132,2003,1.07,MX,27.88,,84470,1303011,,,Mexico
+1133,2003,,CU,51.22,,,,,,Cuba
+1134,2003,15.51,LT,50.43,,2356,,,,Lithuania
+1135,2003,,SC,25.06,,,,,,Seychelles
+1136,2003,,OM,7.07,,,,,,Oman
+1137,2003,8.68,AS,14.31,,,,,,American Samoa
+1138,2003,,BJ,0,,,,,,Benin
+1139,2003,,MG,8.58,,,,,,Madagascar
+1140,2003,,ST,0,,,,,,Sao Tome and Principe
+1141,2003,,KE,43.1,,,,,,Kenya
+1142,2003,,NA,22.48,,,,,,Namibia
+1143,2003,,TR,3.12,,79943,463074,,,Turkey
+1144,2003,,LB,0.79,,,,,,Lebanon
+1145,2003,1.85,PR,36.74,,,,,,Puerto Rico
+1146,2003,0.96,SI,31.41,,1353,,,,Slovenia
+1147,2003,20.31,FR,29.59,,239601,334551,,,France
+1148,2003,,MH,4.78,,,,,,Marshall Islands
+1149,2003,,SO,0,,,,,,Somalia
+1150,2003,,HT,0,,,,,,Haiti
+1151,2003,,BH,0,,,,,,Bahrain
+1152,2003,2.58,SA,25.31,,,,,,Saudi Arabia
+1153,2003,,GQ,100,,,,,,Equatorial Guinea
+1154,2003,2.6,NZ,44.82,,84641,537359.3227,,,New Zealand
+1155,2003,4.47,IT,42.06,,191884,,,,Italy
+1156,2003,,BS,8.12,,,,,,Bahamas
+1157,2003,0,MP,2.79,,,,,,Northern Mariana Islands
+1158,2003,3.07,UA,30.74,,,,,,Ukraine
+1159,2003,0.25,CL,18.85,,607338,5317000,,,Chile
+1160,2003,,ER,0,,,,,,Eritrea
+1161,2003,,MA,23.91,,,,,,Morocco
+1162,2003,8.52,CY,13.91,,,,,,Cyprus
+1163,2003,,TZ,39.65,,,,,,United Republic of Tanzania
+1164,2003,,LC,8.36,,,,,,Saint Lucia
+1165,2003,,SB,1.19,,,,,,Solomon Islands
+1166,2003,,MU,9.68,,,,,,Mauritius
+1167,2003,0.05,IL,9.51,,20776,,,,Israel
+1168,2003,,SV,0,,,,,,El Salvador
+1169,2003,0.97,HR,17.9,,,,,,Croatia
+1170,2003,,KW,13.02,,,,,,Kuwait
+1171,2003,,PK,14.58,,,,,,Pakistan
+1172,2003,4.42,GL,26.08,,,,,,Greenland
+1173,2004,,PK,14.58,,,,,,Pakistan
+1174,2004,1.11,CR,48.61,,24708,16107.08209,,,Costa Rica
+1175,2004,,IR,68,,,,,,Iran (Islamic Republic of)
+1176,2004,12.54,EC,60.69,,,,,,Ecuador
+1177,2004,,OM,7.07,,,,,,Oman
+1178,2004,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1179,2004,,GN,69.28,,,,,,Guinea
+1180,2004,,JM,26.6,,,,,,Jamaica
+1181,2004,3.08,UA,30.74,,,,,,Ukraine
+1182,2004,,PA,23.46,,,,,,Panama
+1183,2004,,TR,3.12,,94450,504897,,,Turkey
+1184,2004,,HU,,,12744,,,,Hungary
+1185,2004,,TT,8.49,,,,,,Trinidad and Tobago
+1186,2004,21.42,FR,52.12,,242167,321291,,,France
+1187,2004,3.84,CO,36.35,,60072,,,,Colombia
+1188,2004,2.58,SA,25.31,,,,,,Saudi Arabia
+1189,2004,4.84,ES,44.51,,301981,700715,,,Spain
+1190,2004,,MZ,57.55,,,,,,Mozambique
+1191,2004,0.67,GE,35.64,,,,,,Georgia
+1192,2004,1.38,US,30.36,,607570,5168640,,,United States of America
+1193,2004,,LR,96.66,,,,,,Liberia
+1194,2004,,GD,0.12,,,,,,Grenada
+1195,2004,,VU,3.3,,,,,,Vanuatu
+1196,2004,,MR,37.24,,,,,,Mauritania
+1197,2004,,CH,,,1205,,,,Switzerland
+1198,2004,2.75,SI,53.77,,1571,,,,Slovenia
+1199,2004,10.28,FI,53.54,,12821,91751,,,Finland
+1200,2004,,HT,0,,,,,,Haiti
+1201,2004,,KW,13.02,,,,,,Kuwait
+1202,2004,,MV,0,,,,,,Maldives
+1203,2004,,NG,0,,,,,,Nigeria
+1204,2004,32.89,DE,67.77,,57233,251428.202,,,Germany
+1205,2004,,PW,46.13,,,,,,Palau
+1206,2004,0.46,RU,22.87,,110018,,,,Russian Federation
+1207,2004,,TN,10.3,,,,,,Tunisia
+1208,2004,3.12,GB,80.86,,207203,654079.4144,,,United Kingdom of Great Britain and Northern Ireland
+1209,2004,,TO,19.17,,,,,,Tonga
+1210,2004,,TW,,,327437,947071.5417,,,Taiwan
+1211,2004,8.68,AS,14.31,,,,,,American Samoa
+1212,2004,3.65,SE,45.61,,5989,261207.9647,,,Sweden
+1213,2004,,AE,18.17,,,,,,United Arab Emirates
+1214,2004,,MH,5.69,,,,,,Marshall Islands
+1215,2004,,HN,24.97,,,,,,Honduras
+1216,2004,17.82,EE,97.66,,252,,,,Estonia
+1217,2004,0.31,AR,34.22,,1848,877372.7,,,Argentina
+1218,2004,,NA,22.48,,,,,,Namibia
+1219,2004,,TZ,50.96,,,,,,United Republic of Tanzania
+1220,2004,4.17,RO,52.43,,,,,,Romania
+1221,2004,0.3,ZA,39.74,,,,,,South Africa
+1222,2004,0.28,CL,20.63,,696157,4738000,,,Chile
+1223,2004,,IQ,0,,,,,,Iraq
+1224,2004,3.57,GR,63.38,,97143,91133.98,,,Greece
+1225,2004,,SK,,,1180,,,,Slovakia
+1226,2004,9.71,DO,59.56,,,,,,Dominican Republic
+1227,2004,,MU,10.91,,,,,,Mauritius
+1228,2004,,GT,35.52,,,,,,Guatemala
+1229,2004,,SN,22.11,,,,,,Senegal
+1230,2004,4.42,GL,26.08,,,,,,Greenland
+1231,2004,,LC,13.25,,,,,,Saint Lucia
+1232,2004,2.6,NZ,44.84,,92220,523541.5703,,,New Zealand
+1233,2004,,SB,1.24,,,,,,Solomon Islands
+1234,2004,,BH,0,,,,,,Bahrain
+1235,2004,,GQ,100,,,,,,Equatorial Guinea
+1236,2004,4.5,IT,45.73,,118217,288283.5539,,,Italy
+1237,2004,,BS,8.12,,,,,,Bahamas
+1238,2004,,MA,27.36,,,,,,Morocco
+1239,2004,8.52,CY,13.91,,,,,,Cyprus
+1240,2004,,ER,0,,,,,,Eritrea
+1241,2004,0,MP,2.79,,,,,,Northern Mariana Islands
+1242,2004,1.85,PR,36.74,,,,,,Puerto Rico
+1243,2004,,SO,0,,,,,,Somalia
+1244,2004,,AG,0,,,,,,Antigua and Barbuda
+1245,2004,0.12,BG,46.19,,,,,,Bulgaria
+1246,2004,,LK,46.35,,,,,,Sri Lanka
+1247,2004,1.61,BE,73.75,,739,23918.832,,,Belgium
+1248,2004,,AT,,,2267,,,,Austria
+1249,2004,,KN,0,,,,,,Saint Kitts and Nevis
+1250,2004,0.36,NO,50.15,,636802,2505931.466,,,Norway
+1251,2004,,AO,66.58,,,,,,Angola
+1252,2004,,FO,0,,,,,,Faroe Islands
+1253,2004,0.72,IE,57.22,,58359,306028,,,Ireland
+1254,2004,,DZ,65.35,,,,,,Algeria
+1255,2004,,LY,0,,,,,,Libya
+1256,2004,,SV,0,,,,,,El Salvador
+1257,2004,,SD,0,,,,,,Sudan
+1258,2004,0.98,HR,17.9,,,,,,Croatia
+1259,2004,,BD,34.37,,914752,,,,Bangladesh
+1260,2004,,MG,8.58,,,,,,Madagascar
+1261,2004,1.28,BR,48.21,,269699,500116,,,Brazil
+1262,2004,,KM,0,,,,,,Comoros
+1263,2004,3.07,MT,54.26,,,,,,Malta
+1264,2004,,KH,41.16,,,,,,Cambodia
+1265,2004,,CU,51.22,,,,,,Cuba
+1266,2004,15.52,LT,52.84,,2697,12403.08142,,,Lithuania
+1267,2004,,SC,25.06,,,,,,Seychelles
+1268,2004,,BJ,0,,,,,,Benin
+1269,2004,,ST,0,,,,,,Sao Tome and Principe
+1270,2004,,KE,43.1,,,,,,Kenya
+1271,2004,,DJ,0,,,,,,Djibouti
+1272,2004,1.38,MX,34.47,,104348,1264980.7,,,Mexico
+1273,2004,,WS,54.15,,,,,,Samoa
+1274,2004,2.49,LV,73.06,,545,125031,,,Latvia
+1275,2004,,SL,24.05,,,,,,Sierra Leone
+1276,2004,,BZ,27.14,,,,,,Belize
+1277,2004,,BB,2.85,,,,,,Barbados
+1278,2004,,DM,0,,,,,,Dominica
+1279,2004,,NR,0,,,,,,Nauru
+1280,2004,,EG,36.99,,,,,,Egypt
+1281,2004,12.06,NL,86.65,,78598,,,,Netherlands
+1282,2004,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1283,2004,8.12,JP,59.82,,1261003.286,4455077,,,Japan
+1284,2004,,SG,3.25,,,,,,Singapore
+1285,2004,,LB,0.79,,,,,,Lebanon
+1286,2004,,NI,49.95,,,,,,Nicaragua
+1287,2004,0.05,IL,9.51,,22303,,,,Israel
+1288,2004,,QA,0,,,,,,Qatar
+1289,2004,,GA,62.27,,,,,,Gabon
+1290,2004,24.12,PL,71.19,,35131,122671.9693,,,Poland
+1291,2004,,PH,37.37,,1717028,,,,Philippines
+1292,2004,,GM,39.9,,,,,,Gambia
+1293,2004,,YE,0,,,,,,Yemen
+1294,2004,,MM,9.29,,,,,,Myanmar
+1295,2004,0.27,CN,6.13,,37172411,15961932,,,Cyprus No Mans Area
+1296,2004,,PG,1.89,,,,,,Papua New Guinea
+1297,2004,,MY,13.71,,202218,,,,Malaysia
+1298,2004,0.06,IN,19.18,,2804362,,,,India
+1299,2004,0.02,GU,3.53,,,,,,Guam
+1300,2004,,TH,47.54,,1259984,2635969,,,Thailand
+1301,2004,0.8,VI,26.3,,,,,,United States Virgin Islands
+1302,2004,0.53,CA,20.32,,145018,1176228.549,,,Canada
+1303,2004,11.46,DK,83.83,,42814,1105546.5,,,Denmark
+1304,2004,,VN,17.98,,1213617,1733434,,,Viet Nam
+1305,2004,,ME,0,,,,,,Montenegro
+1306,2004,5.41,AU,45.87,,45083,231829.51,,,Australia
+1307,2004,,GH,19.56,,,,,,Ghana
+1308,2004,,KI,0,,,,,,Kiribati
+1309,2004,2.27,PT,39.04,,6700,185217.1481,,,Portugal
+1310,2004,,FJ,11.47,,,,,,Fiji
+1311,2004,0.34,IS,10.15,,8868,1709102,,,Iceland
+1312,2004,,CZ,,,19384,,,,Czech Republic
+1313,2004,,AL,21.52,,,,,,Albania
+1314,2004,0.01,UY,16.84,,,,,,Uruguay
+1315,2004,0.94,ID,7.57,,1468612,,,,Indonesia
+1316,2004,,SR,74.24,,,,,,Suriname
+1317,2004,0.25,PE,17.7,,22114,9574257,,,Peru
+1318,2005,,NI,49.95,,,,,,Nicaragua
+1319,2005,,SD,0,,,,,,Sudan
+1320,2005,,DJ,0,,,,,,Djibouti
+1321,2005,,WS,54.15,,,,,,Samoa
+1322,2005,,DZ,74.44,,,,,,Algeria
+1323,2005,,AL,33.35,,,,,,Albania
+1324,2005,,KW,13.02,,,,,,Kuwait
+1325,2005,,KE,43.1,,,,,,Kenya
+1326,2005,,BZ,27.15,,,,,,Belize
+1327,2005,0.8,VI,26.3,,,,,,United States Virgin Islands
+1328,2005,,HN,24.97,,,,,,Honduras
+1329,2005,,SL,24.05,,,,,,Sierra Leone
+1330,2005,,BB,2.85,,,,,,Barbados
+1331,2005,,TH,47.54,,1304232,2615565,,,Thailand
+1332,2005,,DM,0,,,,,,Dominica
+1333,2005,,IQ,0,,,,,,Iraq
+1334,2005,,LR,96.66,,,,,,Liberia
+1335,2005,,MR,37.24,,,,,,Mauritania
+1336,2005,,NR,0,,,,,,Nauru
+1337,2005,,PA,23.46,,,,,,Panama
+1338,2005,,MG,8.58,,,,,,Madagascar
+1339,2005,,GH,19.56,,,,,,Ghana
+1340,2005,,IR,68,,,,,,Iran (Islamic Republic of)
+1341,2005,,FO,0,,,,,,Faroe Islands
+1342,2005,,KM,0,,,,,,Comoros
+1343,2005,,SN,22.11,,,,,,Senegal
+1344,2005,,KH,41.16,,,,,,Cambodia
+1345,2005,,MZ,57.55,,,,,,Mozambique
+1346,2005,,LY,0,,,,,,Libya
+1347,2005,,CU,51.22,,,,,,Cuba
+1348,2005,1.38,US,30.4,,513920,5084781,,,United States of America
+1349,2005,,ME,0,,,,,,Montenegro
+1350,2005,,SC,25.06,,,,,,Seychelles
+1351,2005,,BJ,0,,,,,,Benin
+1352,2005,,OM,7.07,,,,,,Oman
+1353,2005,,JM,26.6,,,,,,Jamaica
+1354,2005,,ST,0,,,,,,Sao Tome and Principe
+1355,2005,4.84,ES,44.62,,225029,703266,,,Spain
+1356,2005,,NG,0,,,,,,Nigeria
+1357,2005,,AG,28.72,,,,,,Antigua and Barbuda
+1358,2005,,PW,51.9,,,,,,Palau
+1359,2005,,GA,62.27,,,,,,Gabon
+1360,2005,,KI,0,,,,,,Kiribati
+1361,2005,,BS,8.12,,,,,,Bahamas
+1362,2005,,PK,14.58,,,,,,Pakistan
+1363,2005,,LB,0.79,,,,,,Lebanon
+1364,2005,,MM,9.29,,,,,,Myanmar
+1365,2005,,MA,37.75,,,,,,Morocco
+1366,2005,,GT,38.47,,,,,,Guatemala
+1367,2005,,BH,0,,,,,,Bahrain
+1368,2005,,GQ,100,,,,,,Equatorial Guinea
+1369,2005,,TO,19.17,,,,,,Tonga
+1370,2005,3.13,GB,82.49,,172813,715435.0395,,,United Kingdom of Great Britain and Northern Ireland
+1371,2005,3.08,UA,30.74,,,,,,Ukraine
+1372,2005,,TT,8.49,,,,,,Trinidad and Tobago
+1373,2005,,ER,0,,,,,,Eritrea
+1374,2005,,FJ,11.53,,,,,,Fiji
+1375,2005,,NA,22.48,,,,,,Namibia
+1376,2005,,SO,0,,,,,,Somalia
+1377,2005,,PH,37.38,,1895848,,,,Philippines
+1378,2005,,SB,1.27,,,,,,Solomon Islands
+1379,2005,,GN,69.28,,,,,,Guinea
+1380,2005,,MH,5.69,,,,,,Marshall Islands
+1381,2005,,EG,36.99,,,,,,Egypt
+1382,2005,5,SE,49.48,,5880,240580.3267,,,Sweden
+1383,2005,,TN,10.3,,,,,,Tunisia
+1384,2005,,GD,0.12,,,,,,Grenada
+1385,2005,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1386,2005,,MY,13.71,,215834,,,,Malaysia
+1387,2005,,MV,0,,,,,,Maldives
+1388,2005,,KN,0,,,,,,Saint Kitts and Nevis
+1389,2005,,SG,3.25,,,,,,Singapore
+1390,2005,,BD,34.37,,882091,,,,Bangladesh
+1391,2005,,PG,1.89,,,,,,Papua New Guinea
+1392,2005,,QA,0,,,,,,Qatar
+1393,2005,,HT,0,,,,,,Haiti
+1394,2005,,SR,74.24,,,,,,Suriname
+1395,2005,,SV,14.92,,,,,,El Salvador
+1396,2005,,LC,13.25,,,,,,Saint Lucia
+1397,2005,,LK,46.35,,,,,,Sri Lanka
+1398,2005,0.01,UY,16.84,,,,,,Uruguay
+1399,2005,,MU,10.91,,,,,,Mauritius
+1400,2005,,AO,66.58,,,,,,Angola
+1401,2005,,GM,39.9,,,,,,Gambia
+1402,2005,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1403,2005,0.25,PE,17.7,,25981,9353292,,,Peru
+1404,2005,4.17,RO,52.43,,,,,,Romania
+1405,2005,,CH,,,1214,,,,Switzerland
+1406,2005,9.71,DO,59.56,,,,,,Dominican Republic
+1407,2005,0.06,IL,9.51,,22409,,,,Israel
+1408,2005,0.57,CA,23.63,,154587,1121948.814,,,Canada
+1409,2005,,AT,,,2420,,,,Austria
+1410,2005,2.27,PT,42.04,,6696,177107.6193,,,Portugal
+1411,2005,21.94,FR,58.48,,244925,294994,,,France
+1412,2005,0.72,IE,60.08,,60050,302060.9912,,,Ireland
+1413,2005,0.02,GU,3.53,,,,,,Guam
+1414,2005,10.07,BE,94.01,,414,21640.329,,,Belgium
+1415,2005,0.29,CL,20.84,,739368,4462000,,,Chile
+1416,2005,12.54,EC,60.69,,,,,,Ecuador
+1417,2005,4.42,GL,26.08,,,,,,Greenland
+1418,2005,2.75,SI,53.77,,1346,,,,Slovenia
+1419,2005,,TZ,52.08,,,,,,United Republic of Tanzania
+1420,2005,,CZ,,,20455,,,,Czech Republic
+1421,2005,12.06,NL,89.98,,71370,,,,Netherlands
+1422,2005,0.59,NO,50.28,,661877,2381620.657,,,Norway
+1423,2005,,SK,,,955,,,,Slovakia
+1424,2005,8,CO,45.43,,61000,,,,Colombia
+1425,2005,0.12,BG,46.41,,,,,,Bulgaria
+1426,2005,2.58,SA,25.31,,,,,,Saudi Arabia
+1427,2005,0.06,IN,19.18,,2973126,,,,India
+1428,2005,17.82,EE,97.66,,555,96223.907,,,Estonia
+1429,2005,10.52,FI,58.33,,14355,88155,,,Finland
+1430,2005,1.3,BR,48.82,,257784,506826,,,Brazil
+1431,2005,0.34,IS,10.15,,8256,1411447,,,Iceland
+1432,2005,0.95,ID,7.57,,2124093,4408499,,,Indonesia
+1433,2005,1.6,MX,42.6,,133131,1169838.989,,,Mexico
+1434,2005,5.47,AU,46.4,,44852,236300.9,,,Australia
+1435,2005,5.29,IT,59.53,,182443,268368.1527,,,Italy
+1436,2005,32.96,DE,67.78,,44685,252710.756,,,Germany
+1437,2005,16.19,LT,54.02,,2013,10040.69061,,,Lithuania
+1438,2005,0.98,HR,17.9,,,,,,Croatia
+1439,2005,8.54,CY,23.8,,,,,,Cyprus
+1440,2005,,YE,0,,,,,,Yemen
+1441,2005,8.68,AS,14.31,,,,,,American Samoa
+1442,2005,0,MP,2.79,,,,,,Northern Mariana Islands
+1443,2005,3.1,MT,54.64,,,,,,Malta
+1444,2005,16.25,DK,86.53,,39012,916425.1,,,Denmark
+1445,2005,1.11,CR,48.61,,24038,16753.84361,,,Costa Rica
+1446,2005,2.49,LV,73.06,,542,150261,,,Latvia
+1447,2005,,TW,,,307194,987537.6116,,,Taiwan
+1448,2005,3.57,GR,63.58,,106208,90445.09,,,Greece
+1449,2005,,HU,,,13661,,,,Hungary
+1450,2005,0.32,AR,36.94,,2057,868367.9,,,Argentina
+1451,2005,2.6,NZ,44.9,,105302,510713.9767,,,New Zealand
+1452,2005,0.67,GE,35.64,,,,,,Georgia
+1453,2005,,VN,17.98,,1452300,1791100,,,Viet Nam
+1454,2005,0.46,RU,22.87,,114997,,,,Russian Federation
+1455,2005,8.12,JP,60.26,,1254142.959,4456890,,,Japan
+1456,2005,1.85,PR,36.74,,,,,,Puerto Rico
+1457,2005,,VU,3.3,,,,,,Vanuatu
+1458,2005,,TR,3.85,,119567,380381,,,Turkey
+1459,2005,0.27,CN,6.13,,38943267,15971084,,,Cyprus No Mans Area
+1460,2005,24.14,PL,72.24,,37920,122535.0693,,,Poland
+1461,2005,0.3,ZA,39.74,,,,,,South Africa
+1462,2005,,AE,36.35,,,,,,United Arab Emirates
+1463,2006,,HT,0,,,,,,Haiti
+1464,2006,,LK,46.35,,,,,,Sri Lanka
+1465,2006,0.67,GE,35.64,,,,,,Georgia
+1466,2006,22.19,FR,61.89,,237375,325910,,,France
+1467,2006,,PK,14.58,,,,,,Pakistan
+1468,2006,,GN,69.28,,,,,,Guinea
+1469,2006,0.59,NO,51.99,,712373,2232080.175,,,Norway
+1470,2006,,AO,66.58,,,,,,Angola
+1471,2006,,TR,3.85,,129333,488966,,,Turkey
+1472,2006,17.82,EE,97.66,,703,97741.05866,,,Estonia
+1473,2006,,NR,0,,,,,,Nauru
+1474,2006,,KE,43.1,,,,,,Kenya
+1475,2006,8.54,CY,23.8,,,,,,Cyprus
+1476,2006,24.14,PL,72.24,,35867,102885.153,,,Poland
+1477,2006,,YE,0,,,,,,Yemen
+1478,2006,0.01,UY,16.84,,,,,,Uruguay
+1479,2006,,JM,26.6,,,,,,Jamaica
+1480,2006,16.31,DK,86.53,,37188,872534.5,,,Denmark
+1481,2006,,NI,49.95,,,,,,Nicaragua
+1482,2006,,SR,74.24,,,,,,Suriname
+1483,2006,10.54,FI,58.49,,12891,102439,,,Finland
+1484,2006,,IQ,0,,,,,,Iraq
+1485,2006,9.71,DO,59.56,,,,,,Dominican Republic
+1486,2006,0.25,PE,17.7,,28393,6983459,,,Peru
+1487,2006,,AL,33.35,,,,,,Albania
+1488,2006,,NG,0,,,,,,Nigeria
+1489,2006,,IR,68,,,,,,Iran (Islamic Republic of)
+1490,2006,,SD,0,,,,,,Sudan
+1491,2006,12.54,EC,60.69,,,,,,Ecuador
+1492,2006,,SK,,,1263,,,,Slovakia
+1493,2006,,OM,7.07,,,,,,Oman
+1494,2006,,HN,24.97,,,,,,Honduras
+1495,2006,,CH,,,1214,,,,Switzerland
+1496,2006,32.97,DE,67.8,,35379,261841.199,,,Germany
+1497,2006,,GH,19.56,,,,,,Ghana
+1498,2006,,PW,51.9,,,,,,Palau
+1499,2006,,AT,,,2503,,,,Austria
+1500,2006,,BZ,27.15,,,,,,Belize
+1501,2006,,ER,0,,,,,,Eritrea
+1502,2006,0.06,IL,9.51,,22117,,,,Israel
+1503,2006,,KN,0,,,,,,Saint Kitts and Nevis
+1504,2006,1.61,MX,43.2,,154451,1213680.214,,,Mexico
+1505,2006,,GQ,100,,,,,,Equatorial Guinea
+1506,2006,5.35,IT,61.53,,173586,285831.4965,,,Italy
+1507,2006,,BJ,0,,,,,,Benin
+1508,2006,,LC,13.25,,,,,,Saint Lucia
+1509,2006,,SC,25.06,,,,,,Seychelles
+1510,2006,,SV,14.92,,,,,,El Salvador
+1511,2006,0.73,IE,64.55,,53122,274526.579,,,Ireland
+1512,2006,8.12,JP,60.27,,1224189.454,4469529,,,Japan
+1513,2006,,EG,40.07,,,,,,Egypt
+1514,2006,3.1,MT,54.64,,,,,,Malta
+1515,2006,,KH,41.16,,,,,,Cambodia
+1516,2006,,DM,0,,,,,,Dominica
+1517,2006,2.49,LV,73.06,,565,140061,,,Latvia
+1518,2006,,SN,22.11,,,,,,Senegal
+1519,2006,,WS,54.15,,,,,,Samoa
+1520,2006,,DJ,0,,,,,,Djibouti
+1521,2006,,ST,82.49,,,,,,Sao Tome and Principe
+1522,2006,,KM,0,,,,,,Comoros
+1523,2006,,CU,51.22,,,,,,Cuba
+1524,2006,16.19,LT,54.02,,2224,100998.6685,,,Lithuania
+1525,2006,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1526,2006,,AG,28.72,,,,,,Antigua and Barbuda
+1527,2006,,SL,24.05,,,,,,Sierra Leone
+1528,2006,,QA,20,,,,,,Qatar
+1529,2006,,GT,38.61,,,,,,Guatemala
+1530,2006,,SO,0,,,,,,Somalia
+1531,2006,0,MP,2.79,,,,,,Northern Mariana Islands
+1532,2006,4.58,GR,77.25,,113384,96694.25,,,Greece
+1533,2006,,BS,8.12,,,,,,Bahamas
+1534,2006,,GD,0.12,,,,,,Grenada
+1535,2006,,HU,,,14686,,,,Hungary
+1536,2006,,PA,23.46,,,,,,Panama
+1537,2006,,SB,1.27,,,,,,Solomon Islands
+1538,2006,4.42,GL,26.08,,,,,,Greenland
+1539,2006,0.02,GU,3.53,,,,,,Guam
+1540,2006,,BH,0,,,,,,Bahrain
+1541,2006,,FO,0,,,,,,Faroe Islands
+1542,2006,,PG,1.89,,,,,,Papua New Guinea
+1543,2006,,GM,39.9,,,,,,Gambia
+1544,2006,0.35,IS,10.61,,8241,1323384,,,Iceland
+1545,2006,,GA,62.27,,,,,,Gabon
+1546,2006,,BD,34.37,,892049,,,,Bangladesh
+1547,2006,,CZ,,,20431,,,,Czech Republic
+1548,2006,0.06,IN,19.18,,3182817,,,,India
+1549,2006,,PH,37.38,,2092274,,,,Philippines
+1550,2006,,SG,3.25,,,,,,Singapore
+1551,2006,,FJ,16.21,,,,,,Fiji
+1552,2006,12.06,NL,89.98,,45553,,,,Netherlands
+1553,2006,,BB,2.85,,,,,,Barbados
+1554,2006,0.96,ID,7.89,,2479247,4512191,,,Indonesia
+1555,2006,2.61,NZ,44.91,,107524,467599.0994,,,New Zealand
+1556,2006,2.34,PT,42.68,,7894,177298.9539,,,Portugal
+1557,2006,,DZ,74.44,,,,,,Algeria
+1558,2006,,LY,0,,,,,,Libya
+1559,2006,0.29,CL,20.84,,832329,4133000,,,Chile
+1560,2006,,TW,,,316165,963314.3194,,,Taiwan
+1561,2006,1.33,BR,48.82,,271697,527872,,,Brazil
+1562,2006,2.75,SI,53.77,,1369,934.3,,,Slovenia
+1563,2006,,NA,22.48,,,,,,Namibia
+1564,2006,0.3,ZA,39.74,,,,,,South Africa
+1565,2006,,MG,10.01,,,,,,Madagascar
+1566,2006,,AE,36.35,,,,,,United Arab Emirates
+1567,2006,,MV,0,,,,,,Maldives
+1568,2006,5.04,SE,49.78,,7549,250990.83,,,Sweden
+1569,2006,3.08,UA,30.74,,,,,,Ukraine
+1570,2006,2.58,SA,25.31,,,,,,Saudi Arabia
+1571,2006,,KW,13.02,,,,,,Kuwait
+1572,2006,,LR,96.66,,,,,,Liberia
+1573,2006,,TO,19.17,,,,,,Tonga
+1574,2006,8,CO,53.63,,70132,,,,Colombia
+1575,2006,,ME,0,,,,,,Montenegro
+1576,2006,0.27,CN,6.13,,40911091.49,16931196,,,Cyprus No Mans Area
+1577,2006,,TN,10.3,,,,,,Tunisia
+1578,2006,,MM,9.29,,,,,,Myanmar
+1579,2006,18.87,US,30.74,,519967,5043553,,,United States of America
+1580,2006,,VU,3.3,,,,,,Vanuatu
+1581,2006,,MY,13.71,,228317,,,,Malaysia
+1582,2006,,LB,0.79,,,,,,Lebanon
+1583,2006,,MA,40.71,,,,,,Morocco
+1584,2006,10.07,BE,94.01,,128,20415.845,,,Belgium
+1585,2006,4.17,RO,52.43,,,,,,Romania
+1586,2006,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1587,2006,5.55,AU,47.45,,51649.48,197041.9,,,Australia
+1588,2006,0.32,AR,36.94,,2528,1073752.2,,,Argentina
+1589,2006,,TZ,52.08,,,,,,United Republic of Tanzania
+1590,2006,0.58,CA,23.73,,171629,1090407.277,,,Canada
+1591,2006,1.15,CR,48.61,,19962,16197.28296,,,Costa Rica
+1592,2006,3.13,GB,82.72,,171848,618965.9072,,,United Kingdom of Great Britain and Northern Ireland
+1593,2006,,MZ,57.55,,,,,,Mozambique
+1594,2006,,KI,32.92,,,,,,Kiribati
+1595,2006,8.68,AS,14.31,,,,,,American Samoa
+1596,2006,,VN,17.98,,1672727,1823700,,,Viet Nam
+1597,2006,0.8,VI,26.3,,,,,,United States Virgin Islands
+1598,2006,,MU,10.91,,,,,,Mauritius
+1599,2006,0.12,BG,46.41,,,,,,Bulgaria
+1600,2006,,MR,37.24,,,,,,Mauritania
+1601,2006,,TT,8.49,,,,,,Trinidad and Tobago
+1602,2006,5.1,ES,59.17,,297891.2,777558,,,Spain
+1603,2006,1.23,HR,20.85,,,,,,Croatia
+1604,2006,0.46,RU,22.87,,106343,,,,Russian Federation
+1605,2006,,TH,47.54,,1354297,2484803,,,Thailand
+1606,2006,,MH,6.69,,,,,,Marshall Islands
+1607,2006,1.85,PR,36.74,,,,,,Puerto Rico
+1608,2007,,MG,10.02,,,,,,Madagascar
+1609,2007,0.46,RU,22.87,,105803,,,,Russian Federation
+1610,2007,12.08,NL,89.98,,56841,,,,Netherlands
+1611,2007,,PH,37.38,,2214785,,,,Philippines
+1612,2007,,PA,23.46,,,,,,Panama
+1613,2007,,FJ,16.55,,,,,,Fiji
+1614,2007,,MA,40.71,,,,,,Morocco
+1615,2007,,TZ,52.08,,,,,,United Republic of Tanzania
+1616,2007,,SG,3.25,,,,,,Singapore
+1617,2007,,GM,40.17,,,,,,Gambia
+1618,2007,2.57,PT,42.68,,7416,189943.4869,,,Portugal
+1619,2007,,SB,3.08,,,,,,Solomon Islands
+1620,2007,1.33,BR,48.82,,289048,539967,,,Brazil
+1621,2007,29.81,NZ,46.07,,111908,470878.3293,,,New Zealand
+1622,2007,,PG,1.89,,,,,,Papua New Guinea
+1623,2007,0.02,GU,3.53,,,,,,Guam
+1624,2007,,BH,0,,,,,,Bahrain
+1625,2007,,GA,62.27,,,,,,Gabon
+1626,2007,3.08,UA,30.74,,,,,,Ukraine
+1627,2007,,BD,34.37,,945812,,,,Bangladesh
+1628,2007,,CZ,,,20447,,,,Czech Republic
+1629,2007,1.47,BG,99.65,,,,,,Bulgaria
+1630,2007,4.42,GL,26.08,,,,,,Greenland
+1631,2007,,LY,0,,,,,,Libya
+1632,2007,2.61,SA,25.31,,,,,,Saudi Arabia
+1633,2007,,TT,8.49,,,,,,Trinidad and Tobago
+1634,2007,0.06,IN,19.18,,3114762,,,,India
+1635,2007,,GH,19.56,,,,,,Ghana
+1636,2007,0.35,IS,10.61,,4823,1406076,,,Iceland
+1637,2007,,MY,13.71,,268508,,,,Malaysia
+1638,2007,,BB,2.85,,,,,,Barbados
+1639,2007,8.12,JP,60.28,,1284425.415,4396822,,,Japan
+1640,2007,,EG,40.07,,,,,,Egypt
+1641,2007,,TN,22.48,,,,,,Tunisia
+1642,2007,3.1,MT,54.65,,,,,,Malta
+1643,2007,,MU,11.06,,,,,,Mauritius
+1644,2007,,KH,41.16,,,,,,Cambodia
+1645,2007,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1646,2007,,DM,0,,,,,,Dominica
+1647,2007,,MH,6.69,,,,,,Marshall Islands
+1648,2007,2.49,LV,73.06,,729,154966,,,Latvia
+1649,2007,,SN,22.11,,,,,,Senegal
+1650,2007,8.68,AS,14.31,,,,,,American Samoa
+1651,2007,,WS,54.15,,,,,,Samoa
+1652,2007,,DJ,0,,,,,,Djibouti
+1653,2007,,MR,37.24,,,,,,Mauritania
+1654,2007,,KM,0,,,,,,Comoros
+1655,2007,,ST,82.49,,,,,,Sao Tome and Principe
+1656,2007,,CU,51.22,,,,,,Cuba
+1657,2007,5.1,ES,59.6,,287985.4,836786,,,Spain
+1658,2007,,TR,3.85,,140743,589129,,,Turkey
+1659,2007,16.19,LT,54.02,,3377,154647.9734,,,Lithuania
+1660,2007,0.32,AR,36.94,,2957,919156.4,,,Argentina
+1661,2007,10.07,BE,94.01,,128,21992.718,,,Belgium
+1662,2007,,SV,15,,,,,,El Salvador
+1663,2007,0.3,ZA,39.74,,,,,,South Africa
+1664,2007,1.23,ID,8.25,,3137376,4734280,,,Indonesia
+1665,2007,,QA,59.99,,,,,,Qatar
+1666,2007,,FO,0,,,,,,Faroe Islands
+1667,2007,2.75,SI,53.77,,1352,916.4,,,Slovenia
+1668,2007,,SL,24.05,,,,,,Sierra Leone
+1669,2007,5.62,AU,48.81,,57936.12,188509.03,,,Australia
+1670,2007,0.74,IE,65.05,,57104,214818.3509,,,Ireland
+1671,2007,,AT,,,2539,,,,Austria
+1672,2007,,BZ,27.15,,,,,,Belize
+1673,2007,,ER,0,,,,,,Eritrea
+1674,2007,,ME,0,,,,,,Montenegro
+1675,2007,0.06,IL,9.51,,21434,,,,Israel
+1676,2007,1.73,MX,45.21,,140062.252,1291863.295,,,Mexico
+1677,2007,,KN,0,,,,,,Saint Kitts and Nevis
+1678,2007,,GQ,100,,,,,,Equatorial Guinea
+1679,2007,5.16,SE,49.79,,5365,227870.9058,,,Sweden
+1680,2007,,MV,0,,,,,,Maldives
+1681,2007,,AE,36.35,,,,,,United Arab Emirates
+1682,2007,5.43,IT,62.97,,181126,276459.0071,,,Italy
+1683,2007,,BJ,0,,,,,,Benin
+1684,2007,,LC,26.25,,,,,,Saint Lucia
+1685,2007,,SC,25.06,,,,,,Seychelles
+1686,2007,,HU,,,15864,,,,Hungary
+1687,2007,1.23,HR,20.85,,,,,,Croatia
+1688,2007,16.35,DK,86.54,,31168,665181.6,,,Denmark
+1689,2007,,OM,7.07,,,,,,Oman
+1690,2007,,LB,0.79,,,,,,Lebanon
+1691,2007,,LK,46.35,,,,,,Sri Lanka
+1692,2007,,HT,0,,,,,,Haiti
+1693,2007,0.59,NO,51.99,,841560,2325401.886,,,Norway
+1694,2007,5.48,RO,88.6,,,,,,Romania
+1695,2007,,NI,49.95,,,,,,Nicaragua
+1696,2007,,IQ,0,,,,,,Iraq
+1697,2007,,AO,66.58,,,,,,Angola
+1698,2007,10.54,FI,58.54,,13025,117638,,,Finland
+1699,2007,,IR,68,,,,,,Iran (Islamic Republic of)
+1700,2007,,MM,9.29,,,,,,Myanmar
+1701,2007,23.03,FR,64.74,,237451,310958.1,,,France
+1702,2007,,PK,14.58,,,,,,Pakistan
+1703,2007,1.85,PR,36.74,,,,,,Puerto Rico
+1704,2007,0.01,UY,16.84,,,,,,Uruguay
+1705,2007,,SR,74.24,,,,,,Suriname
+1706,2007,,GN,69.28,,,,,,Guinea
+1707,2007,,TH,47.54,,1370456,2079351,,,Thailand
+1708,2007,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1709,2007,,SD,0,,,,,,Sudan
+1710,2007,,KW,13.02,,,,,,Kuwait
+1711,2007,9.71,DO,59.56,,,,,,Dominican Republic
+1712,2007,,AL,38.69,,,,,,Albania
+1713,2007,8,CO,53.63,,66565,,,,Colombia
+1714,2007,12.55,EC,60.69,,,,,,Ecuador
+1715,2007,,SK,,,1199,,,,Slovakia
+1716,2007,18.07,EE,97.67,,772,106879.9429,,,Estonia
+1717,2007,,TW,,,325018,1178337.472,,,Taiwan
+1718,2007,0.25,PE,17.7,,39531,7178697,,,Peru
+1719,2007,,NA,22.48,,,,,,Namibia
+1720,2007,,DZ,74.44,,,,,,Algeria
+1721,2007,,VU,3.3,,,,,,Vanuatu
+1722,2007,,CH,,,1216,,,,Switzerland
+1723,2007,,HN,24.97,,,,,,Honduras
+1724,2007,0.27,CN,6.13,,42530160.3,14662681,,,Cyprus No Mans Area
+1725,2007,18.87,US,30.76,,526045,4952508,,,United States of America
+1726,2007,,TO,19.17,,,,,,Tonga
+1727,2007,,NG,0,,,,,,Nigeria
+1728,2007,,KI,32.92,,,,,,Kiribati
+1729,2007,,BS,8.12,,,,,,Bahamas
+1730,2007,0.58,CA,23.73,,152486,1012152.767,,,Canada
+1731,2007,,GD,0.12,,,,,,Grenada
+1732,2007,,NR,0,,,,,,Nauru
+1733,2007,4.58,GR,77.25,,113297,93639.34,,,Greece
+1734,2007,,KE,43.1,,,,,,Kenya
+1735,2007,3.13,GB,82.74,,174200,613287.9659,,,United Kingdom of Great Britain and Northern Ireland
+1736,2007,0,MP,2.79,,,,,,Northern Mariana Islands
+1737,2007,,MZ,57.55,,,,,,Mozambique
+1738,2007,0.8,VI,26.3,,,,,,United States Virgin Islands
+1739,2007,,SO,0,,,,,,Somalia
+1740,2007,1.15,CR,48.61,,25765,14768.95307,,,Costa Rica
+1741,2007,8.55,CY,23.8,,,,,,Cyprus
+1742,2007,,GT,38.61,,,,,,Guatemala
+1743,2007,,PW,56.37,,,,,,Palau
+1744,2007,42.22,DE,72.07,,44994,267939.094,,,Germany
+1745,2007,,YE,0,,,,,,Yemen
+1746,2007,,LR,96.66,,,,,,Liberia
+1747,2007,0.29,CL,22.19,,806166,3687282,,,Chile
+1748,2007,,JM,26.6,,,,,,Jamaica
+1749,2007,,VN,17.98,,2100400,1876300,,,Viet Nam
+1750,2007,0.67,GE,35.64,,,,,,Georgia
+1751,2007,24.28,PL,87.21,,35628,106343.3582,,,Poland
+1752,2007,,AG,28.72,,,,,,Antigua and Barbuda
+1753,2008,1.15,CR,48.61,,27059,14778.41318,,,Costa Rica
+1754,2008,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1755,2008,,JM,26.6,,,,,,Jamaica
+1756,2008,,KE,43.1,,,,,,Kenya
+1757,2008,5.44,IT,63.02,,149002.759,227010.8041,,,Italy
+1758,2008,,NI,49.95,,,,,,Nicaragua
+1759,2008,,NR,0,,,,,,Nauru
+1760,2008,,DM,0,,,,,,Dominica
+1761,2008,8.55,LV,77.68,,584,157585,,,Latvia
+1762,2008,9.71,DO,59.56,,,,,,Dominican Republic
+1763,2008,8,CO,53.63,,68200,,,,Colombia
+1764,2008,,TW,,,330861,1009448.122,,,Taiwan
+1765,2008,,SV,15.32,,,,,,El Salvador
+1766,2008,,NA,32.79,,,,,,Namibia
+1767,2008,1.23,HR,20.85,,,,,,Croatia
+1768,2008,,WS,54.15,,,,,,Samoa
+1769,2008,,CH,,,1216,,,,Switzerland
+1770,2008,,EG,40.07,,,,,,Egypt
+1771,2008,,DJ,0,,,,,,Djibouti
+1772,2008,,MU,11.06,,,,,,Mauritius
+1773,2008,8.12,JP,60.65,,1186721.915,4373337,,,Japan
+1774,2008,8.57,CY,35.59,,,,,,Cyprus
+1775,2008,,IQ,0,,,,,,Iraq
+1776,2008,,MH,6.69,,,,,,Marshall Islands
+1777,2008,0.32,AR,36.94,,2700,934335,,,Argentina
+1778,2008,,KI,32.92,,,,,,Kiribati
+1779,2008,,MR,37.24,,,,,,Mauritania
+1780,2008,16.35,DK,86.54,,36066,692184.9,,,Denmark
+1781,2008,8.68,AS,14.31,,,,,,American Samoa
+1782,2008,,MV,0,,,,,,Maldives
+1783,2008,,CU,51.48,,,,,,Cuba
+1784,2008,4.58,GR,77.7,,115068,83820.99,,,Greece
+1785,2008,,AT,,,2087,,,,Austria
+1786,2008,,IR,68,,,,,,Iran (Islamic Republic of)
+1787,2008,,PK,14.58,,,,,,Pakistan
+1788,2008,,GN,69.28,,,,,,Guinea
+1789,2008,,CZ,,,20395,,,,Czech Republic
+1790,2008,0.29,CL,22.19,,870845,3939377,,,Chile
+1791,2008,,GA,62.27,,,,,,Gabon
+1792,2008,0.36,IS,10.61,,5098,1308007,,,Iceland
+1793,2008,0.67,GE,35.64,,,,,,Georgia
+1794,2008,1.64,BR,57.47,,331553,530612,,,Brazil
+1795,2008,,GM,40.26,,,,,,Gambia
+1796,2008,,MA,40.71,,,,,,Morocco
+1797,2008,,LR,96.66,,,,,,Liberia
+1798,2008,,PG,1.89,,,,,,Papua New Guinea
+1799,2008,,GT,38.61,,,,,,Guatemala
+1800,2008,0.02,GU,3.53,,,,,,Guam
+1801,2008,,MZ,57.55,,,,,,Mozambique
+1802,2008,44.68,DE,74.31,,43977,247682.613,,,Germany
+1803,2008,,LY,0,,,,,,Libya
+1804,2008,4.42,GL,26.31,,,,,,Greenland
+1805,2008,,PW,56.37,,,,,,Palau
+1806,2008,,HU,,,15687,,,,Hungary
+1807,2008,6.29,BG,99.65,,,,,,Bulgaria
+1808,2008,,GH,19.56,,,,,,Ghana
+1809,2008,,PA,23.46,,,,,,Panama
+1810,2008,0.74,CA,25.81,,155549,937111.5289,,,Canada
+1811,2008,,GD,0.12,,,,,,Grenada
+1812,2008,24.75,FR,69.88,,238248.6,285861.4,,,France
+1813,2008,,NG,0,,,,,,Nigeria
+1814,2008,10.56,FI,58.59,,13439,111369,,,Finland
+1815,2008,,PH,37.38,,2407698.098,,,,Philippines
+1816,2008,,GQ,100,,,,,,Equatorial Guinea
+1817,2008,,KN,0,,,,,,Saint Kitts and Nevis
+1818,2008,,KW,13.02,,,,,,Kuwait
+1819,2008,0.06,IL,12.71,,20017,,,,Israel
+1820,2008,12.6,EC,60.69,,,,,,Ecuador
+1821,2008,,SK,,,1071,,,,Slovakia
+1822,2008,,ER,0,,,,,,Eritrea
+1823,2008,,ME,0,,,,,,Montenegro
+1824,2008,,MY,13.71,,354579,,,,Malaysia
+1825,2008,16.19,LT,54.02,,3008,28933.91645,,,Lithuania
+1826,2008,0.74,IE,66.5,,44867.5,201931.9675,,,Ireland
+1827,2008,0.27,CN,6.13,,44072886.74,13772291,,,Cyprus No Mans Area
+1828,2008,,HN,24.97,,,,,,Honduras
+1829,2008,5.63,AU,49.55,,60804.08,181669.5,,,Australia
+1830,2008,,FO,0,,,,,,Faroe Islands
+1831,2008,,QA,59.99,,,,,,Qatar
+1832,2008,18.07,EE,97.67,,813,113635.6689,,,Estonia
+1833,2008,1.32,ID,8.25,,3854944,4701933,,,Indonesia
+1834,2008,,OM,7.07,,,,,,Oman
+1835,2008,,HT,0,,,,,,Haiti
+1836,2008,10.07,BE,94.01,,126,20058.002,,,Belgium
+1837,2008,,LB,0.79,,,,,,Lebanon
+1838,2008,,MM,9.29,,,,,,Myanmar
+1839,2008,,FJ,16.55,,,,,,Fiji
+1840,2008,0.06,IN,19.18,,3855763,,,,India
+1841,2008,,MG,10.79,,,,,,Madagascar
+1842,2008,,ST,82.49,,,,,,Sao Tome and Principe
+1843,2008,,LC,26.25,,,,,,Saint Lucia
+1844,2008,,AG,28.73,,,,,,Antigua and Barbuda
+1845,2008,0.46,RU,22.87,,115680,,,,Russian Federation
+1846,2008,0.01,UY,16.84,,,,,,Uruguay
+1847,2008,,SG,3.25,,,,,,Singapore
+1848,2008,,BD,34.37,,1005542,,,,Bangladesh
+1849,2008,3.1,MT,54.67,,,,,,Malta
+1850,2008,,SR,74.24,,,,,,Suriname
+1851,2008,,TZ,52.08,,,,,,United Republic of Tanzania
+1852,2008,,VU,3.3,,,,,,Vanuatu
+1853,2008,,KH,41.16,,,,,,Cambodia
+1854,2008,,AL,38.69,,,,,,Albania
+1855,2008,3.08,UA,30.74,,,,,,Ukraine
+1856,2008,2.61,SA,25.31,,,,,,Saudi Arabia
+1857,2008,29.81,NZ,46.24,,112358,438203.5465,,,New Zealand
+1858,2008,,SD,0,,,,,,Sudan
+1859,2008,,BH,0,,,,,,Bahrain
+1860,2008,2.75,SI,53.77,,1315,693.5,,,Slovenia
+1861,2008,0.25,PE,21.02,,43120,7362905,,,Peru
+1862,2008,,SN,22.11,,,,,,Senegal
+1863,2008,,YE,30.64,,,,,,Yemen
+1864,2008,24.28,PL,87.31,,36813,92546.261,,,Poland
+1865,2008,,BZ,27.15,,,,,,Belize
+1866,2008,1.81,MX,52.74,,159309.048,1397637.687,,,Mexico
+1867,2008,,TH,47.54,,1330861,1644832,,,Thailand
+1868,2008,18.87,US,30.8,,501326,4514685,,,United States of America
+1869,2008,1.85,PR,36.74,,,,,,Puerto Rico
+1870,2008,,VN,17.98,,2477450,1865000,,,Viet Nam
+1871,2008,2.65,PT,58.57,,7352,201822.2464,,,Portugal
+1872,2008,3.5,GB,82.74,,175702,587452.7088,,,United Kingdom of Great Britain and Northern Ireland
+1873,2008,0.8,VI,26.3,,,,,,United States Virgin Islands
+1874,2008,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+1875,2008,5.48,RO,88.6,,,,,,Romania
+1876,2008,,BJ,0,,,,,,Benin
+1877,2008,,TO,19.17,,,,,,Tonga
+1878,2008,,BB,2.85,,,,,,Barbados
+1879,2008,,SC,25.06,,,,,,Seychelles
+1880,2008,12.08,NL,89.98,,46895.7,415986.986,,,Netherlands
+1881,2008,,SL,24.05,,,,,,Sierra Leone
+1882,2008,,DZ,74.44,,,,,,Algeria
+1883,2008,,TT,8.49,,,,,,Trinidad and Tobago
+1884,2008,,TN,22.48,,,,,,Tunisia
+1885,2008,,AE,36.35,,,,,,United Arab Emirates
+1886,2008,6.97,SE,56.04,,7595,222776.16,,,Sweden
+1887,2008,0.3,ZA,39.74,,,,,,South Africa
+1888,2008,0,MP,2.79,,,,,,Northern Mariana Islands
+1889,2008,,LK,46.35,,,,,,Sri Lanka
+1890,2008,,SO,0,,,,,,Somalia
+1891,2008,,KM,0,,,,,,Comoros
+1892,2008,,TR,3.85,,152896,453113,,,Turkey
+1893,2008,0.59,NO,52.02,,848359,2375138.224,,,Norway
+1894,2008,,AO,66.58,,,,,,Angola
+1895,2008,5.34,ES,59.75,,255291.24,891294,,,Spain
+1896,2008,,SB,3.08,,,,,,Solomon Islands
+1897,2008,,BS,8.12,,,,,,Bahamas
+1898,2009,,VN,17.98,,2571080,1989600,,,Viet Nam
+1899,2009,,QA,59.99,,,,,,Qatar
+1900,2009,22.24,NL,89.98,,55640.6,355788.257,,,Netherlands
+1901,2009,,AO,66.58,,,,,,Angola
+1902,2009,,NR,0,,,,,,Nauru
+1903,2009,2.16,ID,15.67,,4712846.53,4812235,,,Indonesia
+1904,2009,,SR,74.24,,,,,,Suriname
+1905,2009,,BB,2.85,,,,,,Barbados
+1906,2009,0.06,IN,19.18,,3798842,,,,India
+1907,2009,,PK,14.58,,,,,,Pakistan
+1908,2009,1.23,HR,20.85,,,,,,Croatia
+1909,2009,,KE,43.1,,,,,,Kenya
+1910,2009,,FO,0,,,,,,Faroe Islands
+1911,2009,,GN,69.28,,,,,,Guinea
+1912,2009,,SL,24.05,,,,,,Sierra Leone
+1913,2009,,BZ,27.15,,,,,,Belize
+1914,2009,,GT,38.63,,,,,,Guatemala
+1915,2009,,ER,0,,,,,,Eritrea
+1916,2009,,TH,47.54,,1416668,1663846,,,Thailand
+1917,2009,,NA,67.88,,,,,,Namibia
+1918,2009,0.67,GE,35.64,,,,,,Georgia
+1919,2009,,AG,28.73,,,,,,Antigua and Barbuda
+1920,2009,,SO,0,,,,,,Somalia
+1921,2009,,KI,32.92,,,,,,Kiribati
+1922,2009,2.65,PT,59.77,,6728.1,174716.0959,,,Portugal
+1923,2009,1.38,IE,73.06,,47511.675,282105.5536,,,Ireland
+1924,2009,45.29,DE,74.47,,38907,215102.339,,,Germany
+1925,2009,27.3,FR,71.9,,234002,214213.3,,,France
+1926,2009,1.15,CR,48.63,,24754.3,14152.33016,,,Costa Rica
+1927,2009,,HU,,,14825,,,,Hungary
+1928,2009,26.87,MP,47.94,,,,,,Northern Mariana Islands
+1929,2009,,AT,,,2141,,,,Austria
+1930,2009,,PW,56.37,,,,,,Palau
+1931,2009,24.3,PL,87.32,,36503,129851.4958,,,Poland
+1932,2009,0.8,VI,26.3,,,,,,United States Virgin Islands
+1933,2009,,FJ,16.55,,,,,,Fiji
+1934,2009,4.42,GL,26.31,,,,,,Greenland
+1935,2009,,GD,0.12,,,,,,Grenada
+1936,2009,,AL,38.69,,,,,,Albania
+1937,2009,,OM,7.07,,,,,,Oman
+1938,2009,,PA,23.46,,,,,,Panama
+1939,2009,12.62,DO,70.66,,,,,,Dominican Republic
+1940,2009,,NG,0,,,,,,Nigeria
+1941,2009,,IR,68,,,,,,Iran (Islamic Republic of)
+1942,2009,,GM,40.26,,,,,,Gambia
+1943,2009,,SD,0,,,,,,Sudan
+1944,2009,18.07,EE,97.67,,653.6,110520.5058,,,Estonia
+1945,2009,,DZ,74.44,,,,,,Algeria
+1946,2009,23.78,GU,3.53,,,,,,Guam
+1947,2009,,BH,0,,,,,,Bahrain
+1948,2009,,GH,19.56,,,,,,Ghana
+1949,2009,,SB,3.08,,,,,,Solomon Islands
+1950,2009,29.81,NZ,46.24,,104958,434965.0328,,,New Zealand
+1951,2009,12.65,EC,60.69,,,,,,Ecuador
+1952,2009,,SK,,,834.9,,,,Slovakia
+1953,2009,0.36,IS,12.28,,5165,1162094,,,Iceland
+1954,2009,,PG,1.89,,,,,,Papua New Guinea
+1955,2009,,LK,46.35,,,,,,Sri Lanka
+1956,2009,0.41,PE,51.64,,44317,6887735,,,Peru
+1957,2009,,JM,26.6,,,,,,Jamaica
+1958,2009,,HN,24.97,,,,,,Honduras
+1959,2009,,PH,37.38,,2477392.44,,,,Philippines
+1960,2009,,YE,30.64,,,,,,Yemen
+1961,2009,,BS,8.14,,,,,,Bahamas
+1962,2009,4.59,GR,78.05,,122011,81821.37,,,Greece
+1963,2009,,SG,3.25,,,,,,Singapore
+1964,2009,0.13,UY,16.85,,,,,,Uruguay
+1965,2009,8.57,CY,35.59,,,,,,Cyprus
+1966,2009,,BD,34.37,,1064285,,,,Bangladesh
+1967,2009,17.83,DK,86.88,,35130.4,778759.5,,,Denmark
+1968,2009,,CZ,,,20071,,,,Czech Republic
+1969,2009,,GA,62.27,,,,,,Gabon
+1970,2009,,HT,0,,,,,,Haiti
+1971,2009,,NI,49.95,,,,,,Nicaragua
+1972,2009,,CH,,,1249,,,,Switzerland
+1973,2009,1.86,PR,36.74,,,,,,Puerto Rico
+1974,2009,,IQ,0,,,,,,Iraq
+1975,2009,0.65,NO,52.69,,961839.85,2483120.357,,,Norway
+1976,2009,,TW,,,290856,802531.2587,,,Taiwan
+1977,2009,10.56,FI,58.72,,13627,117318,,,Finland
+1978,2009,8.01,CO,53.63,,80623,,,,Colombia
+1979,2009,10.12,BE,94.01,,576,17712.785,,,Belgium
+1980,2009,,MG,11.98,,,,,,Madagascar
+1981,2009,,DM,0,,,,,,Dominica
+1982,2009,2.61,SA,25.31,,,,,,Saudi Arabia
+1983,2009,3.09,UA,30.74,,,,,,Ukraine
+1984,2009,,TT,8.49,,,,,,Trinidad and Tobago
+1985,2009,,VC,26.33,,,,,,Saint Vincent and the Grenadines
+1986,2009,,KH,41.16,,,,,,Cambodia
+1987,2009,5.99,AU,53.58,,71672.163,172449.37,,,Australia
+1988,2009,,MA,40.74,,,,,,Morocco
+1989,2009,8.12,JP,60.68,,1243358.129,4147377,,,Japan
+1990,2009,3.1,MT,54.67,,,,,,Malta
+1991,2009,,EG,40.07,,,,,,Egypt
+1992,2009,,LY,0,,,,,,Libya
+1993,2009,6.29,BG,99.65,,,,,,Bulgaria
+1994,2009,1.28,RU,23.57,,117310,,,,Russian Federation
+1995,2009,,VU,3.3,,,,,,Vanuatu
+1996,2009,3.58,GB,83.31,,196597.82,584188.8352,,,United Kingdom of Great Britain and Northern Ireland
+1997,2009,,TZ,52.08,,,,,,United Republic of Tanzania
+1998,2009,,SN,22.11,,,,,,Senegal
+1999,2009,8.55,LV,77.68,,517.2,162889,,,Latvia
+2000,2009,2.75,SI,53.77,,1306.6,865.8,,,Slovenia
+2001,2009,,ST,82.49,,,,,,Sao Tome and Principe
+2002,2009,5.35,ES,60.27,,271567.364,703944.7,,,Spain
+2003,2009,16.23,LT,70.31,,3421.6,32913.12793,,,Lithuania
+2004,2009,,TR,3.85,,159639,425046,,,Turkey
+2005,2009,8.68,AS,14.31,,,,,,American Samoa
+2006,2009,,KM,0,,,,,,Comoros
+2007,2009,,CU,51.48,,,,,,Cuba
+2008,2009,,MH,6.69,,,,,,Marshall Islands
+2009,2009,,TN,22.48,,,,,,Tunisia
+2010,2009,,MU,11.06,,,,,,Mauritius
+2011,2009,0.3,ZA,39.74,,,,,,South Africa
+2012,2009,,MV,0,,,,,,Maldives
+2013,2009,,AE,36.35,,,,,,United Arab Emirates
+2014,2009,0.35,AR,38.94,,2582.95,771932.3,,,Argentina
+2015,2009,7.29,SE,56.07,,8540,200837.4241,,,Sweden
+2016,2009,,DJ,0,,,,,,Djibouti
+2017,2009,,ME,0,,,,,,Montenegro
+2018,2009,,WS,54.15,,,,,,Samoa
+2019,2009,,MY,13.71,,472502.3,,,,Malaysia
+2020,2009,,MZ,57.55,,,,,,Mozambique
+2021,2009,,LR,96.66,,,,,,Liberia
+2022,2009,1.65,BR,57.47,,365127,585919,,,Brazil
+2023,2009,0.75,CA,26.29,,155928,960231.5314,,,Canada
+2024,2009,,VE,32.64,,,,,,Venezuela (Bolivarian Republic of)
+2025,2009,,MR,37.24,,,,,,Mauritania
+2026,2009,5.48,IT,70.7,,162431.5,242437.497,,,Italy
+2027,2009,0.27,CN,6.78,,46062875.71,13935749,,,Cyprus No Mans Area
+2028,2009,,GQ,100,,,,,,Equatorial Guinea
+2029,2009,,LB,0.79,,,,,,Lebanon
+2030,2009,,MM,9.29,,,,,,Myanmar
+2031,2009,12.91,RO,88.6,,,,,,Romania
+2032,2009,,BJ,0,,,,,,Benin
+2033,2009,,SC,25.06,,,,,,Seychelles
+2034,2009,0.29,CL,22.32,,881084,3821714,,,Chile
+2035,2009,,LC,26.25,,,,,,Saint Lucia
+2036,2009,,KN,0,,,,,,Saint Kitts and Nevis
+2037,2009,,TO,19.17,,,,,,Tonga
+2038,2009,18.87,US,30.82,,481224,4371391,,,United States of America
+2039,2009,,KW,13.02,,,,,,Kuwait
+2040,2009,,SV,15.32,,,,,,El Salvador
+2041,2009,1.94,MX,53.78,,156956.641,1414226.001,,,Mexico
+2042,2009,0.06,IL,12.85,,19177,,,,Israel
+2043,2010,2.65,PT,59.77,25.75222222,8224.575,217337.4814,,,Portugal
+2044,2010,0.35,AR,38.94,90.48888889,2654.35,763656.3,,,Argentina
+2045,2010,,OM,7.07,23.43714286,,,,,Oman
+2046,2010,0.27,CN,6.78,7131.44,47789756.78,14339187,,,Cyprus No Mans Area
+2047,2010,,LK,46.35,44.13444444,,,,,Sri Lanka
+2048,2010,7.32,SE,56.12,31.81142857,10644,205309.5694,,,Sweden
+2049,2010,18.07,EE,97.67,12.03625,573.04,104324.7299,,,Estonia
+2050,2010,27.6,FR,71.91,72.76555556,203409,254876.4,,,France
+2051,2010,8.68,AS,14.31,,,,,,American Samoa
+2052,2010,,HT,0,2.343333333,,,,,Haiti
+2053,2010,,DZ,74.44,11.90375,,,,,Algeria
+2054,2010,,AE,36.35,9.97625,,,,,United Arab Emirates
+2055,2010,0.67,GE,35.64,7.751666667,,,,,Georgia
+2056,2010,,ME,0,0.298571429,,,,,Montenegro
+2057,2010,26.87,MP,47.94,,,,,,Northern Mariana Islands
+2058,2010,,MY,13.71,223.8477778,581242.92,,,,Malaysia
+2059,2010,,BF,,7.4,,,,,Burkina Faso
+2060,2010,,BY,,8.58,,,,,Belarus
+2061,2010,0.67,NO,52.69,428.6922222,1019801.94,2549381.049,,,Norway
+2062,2010,5.35,ES,60.28,136.4177778,256785.65,755465.3,,,Spain
+2063,2010,,TH,47.54,344.0833333,1286122,1601320,,,Thailand
+2064,2010,,BW,,0.06,,,,,Botswana
+2065,2010,,GN,69.28,18.94666667,,,,,Guinea
+2066,2010,,PK,14.58,66.06111111,,,,,Pakistan
+2067,2010,,MH,6.7,,,,,,Marshall Islands
+2068,2010,,NA,82.95,42.51444444,,,,,Namibia
+2069,2010,,BA,,1.9825,,,,,Bosnia and Herzegovina
+2070,2010,,AO,66.58,51.72,,,,,Angola
+2071,2010,1.86,PR,36.74,,,,,,Puerto Rico
+2072,2010,10.56,FI,58.72,41.9675,11772,121850,,,Finland
+2073,2010,,KW,13.02,1.336,,,,,Kuwait
+2074,2010,,TR,3.85,,167721,445680,,,Turkey
+2075,2010,19.02,US,30.83,534.8822222,496699,4540234,,,United States of America
+2076,2010,,MU,11.06,0.99125,,,,,Mauritius
+2077,2010,0.3,ZA,39.74,71.75666667,,,,,South Africa
+2078,2010,,TW,,,315225.6,854086.226,,,Taiwan
+2079,2010,,MV,0,20.46833333,,,,,Maldives
+2080,2010,,MM,9.29,312.66,,,,,Myanmar
+2081,2010,,TN,22.56,10.95555556,,,,,Tunisia
+2082,2010,,HN,41.01,4.9475,,,,,Honduras
+2083,2010,12.65,EC,64.62,74.71,,,,,Ecuador
+2084,2010,,AZ,,0.71,,,,,Azerbaijan
+2085,2010,4.4,CL,23.67,376.156,713241,3048322,,,Chile
+2086,2010,,NI,49.95,7.245,,,,,Nicaragua
+2087,2010,,MA,40.74,143.04875,,,,,Morocco
+2088,2010,,SR,74.24,7.032,,,,,Suriname
+2089,2010,,YE,30.64,23.42857143,,,,,Yemen
+2090,2010,17.83,DK,86.91,96.25333333,36175,821377.9,,,Denmark
+2091,2010,,TZ,52.08,56.58333333,,,,,United Republic of Tanzania
+2092,2010,,LY,0,8.35,,,,,Libya
+2093,2010,0.19,UY,29.36,8.25,,,,,Uruguay
+2094,2010,,TO,19.17,,,,,,Tonga
+2095,2010,1.29,RU,23.57,466.31,120998,,,,Russian Federation
+2096,2010,6.29,BG,99.65,2.075555556,,,,,Bulgaria
+2097,2010,1.23,HR,20.85,8.3525,,,,,Croatia
+2098,2010,,NR,0,,,,,,Nauru
+2099,2010,,VU,3.3,12.66625,,,,,Vanuatu
+2100,2010,24.3,PL,87.32,36.74666667,30751,108395.3214,,,Poland
+2101,2010,,JM,26.6,2.746666667,,,,,Jamaica
+2102,2010,0.9,CA,31.22,113.807,162341,951528.729,,,Canada
+2103,2010,8.57,CY,35.59,0.92,,,,,Cyprus
+2104,2010,,MZ,57.55,18.15666667,,,,,Mozambique
+2105,2010,,LR,96.66,1.674285714,,,,,Liberia
+2106,2010,,IQ,0,7.936,,,,,Iraq
+2107,2010,,KE,43.1,16.95888889,,,,,Kenya
+2108,2010,,AF,,3.25,,,,,Afghanistan
+2109,2010,0.41,PE,51.64,441.339,89021,4261607,,,Peru
+2110,2010,2.75,SI,53.77,0.2175,778.4,763.2,,,Slovenia
+2111,2010,4.37,GB,84.24,91.47888889,201363.85,608806.6925,,,United Kingdom of Great Britain and Northern Ireland
+2112,2010,1.15,CR,48.63,5.59625,26839,13648.83936,,,Costa Rica
+2113,2010,6,AU,53.99,29.07888889,75678.85,173552.85,,,Australia
+2114,2010,,TT,8.49,1.991428571,,,,,Trinidad and Tobago
+2115,2010,,AT,,1.26,2167,,,,Austria
+2116,2010,,AM,,1.873333333,,,,,Armenia
+2117,2010,10.67,BE,94.01,2.87,539,19772.709,,,Belgium
+2118,2010,2.61,SA,25.31,13.07428571,,,,,Saudi Arabia
+2119,2010,,SD,0,,,,,,Sudan
+2120,2010,,VE,32.64,26.34333333,,,,,Venezuela (Bolivarian Republic of)
+2121,2010,,MG,12.5,15.61444444,,,,,Madagascar
+2122,2010,,IR,68,82.96,,,,,Iran (Islamic Republic of)
+2123,2010,,NG,0,102.19,,,,,Nigeria
+2124,2010,0.8,VI,26.3,,,,,,United States Virgin Islands
+2125,2010,,AL,63.39,0.85,,,,,Albania
+2126,2010,12.62,DO,70.66,1.97,,,,,Dominican Republic
+2127,2010,12.91,RO,88.6,1.4575,,,,,Romania
+2128,2010,3.09,UA,30.74,25.86666667,,,,,Ukraine
+2129,2010,,VN,17.98,618.8775,2701317,2067056,,,Viet Nam
+2130,2010,8.07,CO,53.63,23.07714286,80367,,,,Colombia
+2131,2010,1.71,BR,57.47,133.0177778,411777,537247,,,Brazil
+2132,2010,,LB,0.79,0.761666667,,,,,Lebanon
+2133,2010,,KI,32.92,5.317777778,,,,,Kiribati
+2134,2010,,ST,82.49,0.806666667,,,,,Sao Tome and Principe
+2135,2010,,MR,37.24,34.53125,,,,,Mauritania
+2136,2010,,GM,40.26,6.665714286,,,,,Gambia
+2137,2010,0.06,IN,19.18,945.0922222,3790021,,,,India
+2138,2010,,BH,0,,,,,,Bahrain
+2139,2010,,TG,,3.45375,,,,,Togo
+2140,2010,23.78,GU,3.53,,,,,,Guam
+2141,2010,29.81,NZ,46.49,60.79111111,110592,429950.3377,,,New Zealand
+2142,2010,,ZW,,6.99,,,,,Zimbabwe
+2143,2010,,DM,0,0.1775,,,,,Dominica
+2144,2010,,KH,41.16,61.12222222,,,,,Cambodia
+2145,2010,4.42,GL,26.31,,,,,,Greenland
+2146,2010,5.48,IT,70.7,43.16111111,153493.71,224758.2332,,,Italy
+2147,2010,,LS,,0.35,,,,,Lesotho
+2148,2010,,BB,2.85,0.546666667,,,,,Barbados
+2149,2010,,TJ,,1.21,,,,,Tajikistan
+2150,2010,2.17,ID,16.15,1289.872222,6277924.49,5386309,,,Indonesia
+2151,2010,,TD,,45.515,,,,,Chad
+2152,2010,,GH,19.56,51.32,,,,,Ghana
+2153,2010,,ZM,,43.345,,,,,Zambia
+2154,2010,,SC,25.55,14.51833333,,,,,Seychelles
+2155,2010,,SN,22.11,51.2275,,,,,Senegal
+2156,2010,,MN,,0.1,,,,,Mongolia
+2157,2010,,CD,,56.865,,,,,Democratic Republic of the Congo
+2158,2010,,GQ,100,,,,,,Equatorial Guinea
+2159,2010,,VC,26.33,7.374444444,,,,,Saint Vincent and the Grenadines
+2160,2010,22.24,NL,93.31,55.70666667,67040.1,386749.71,,,Netherlands
+2161,2010,,GA,62.27,4.69,,,,,Gabon
+2162,2010,,MW,,50.465,,,,,Malawi
+2163,2010,,BD,34.37,337.24,1308515,,,,Bangladesh
+2164,2010,,UZ,,10.73,,,,,Uzbekistan
+2165,2010,,CZ,,,20420,,,,Czech Republic
+2166,2010,,UG,,169.6033333,,,,,Uganda
+2167,2010,,ML,,102.08,,,,,Mali
+2168,2010,,HU,,10.23,14245,,,,Hungary
+2169,2010,,PH,37.38,560.7355556,2545967,,,,Philippines
+2170,2010,,SV,15.32,5.51,,,,,El Salvador
+2171,2010,,LC,26.25,0.282857143,,,,,Saint Lucia
+2172,2010,0.36,IS,12.28,120.7433333,5050,1093034,,,Iceland
+2173,2010,,EG,43.01,144.9766667,,,,,Egypt
+2174,2010,,PG,1.89,28.47,,,,,Papua New Guinea
+2175,2010,,ET,,9.04,,,,,Ethiopia
+2176,2010,,BJ,0,5.02,,,,,Benin
+2177,2010,,SG,3.25,,,,,,Singapore
+2178,2010,3.43,MT,62.21,0.678571429,,,,,Malta
+2179,2010,8.12,JP,60.69,593.2722222,1151101.337,4122104,,,Japan
+2180,2010,,KG,,0.38,,,,,Kyrgyzstan
+2181,2010,,FJ,16.55,4.737777778,,,,,Fiji
+2182,2010,,TM,,7.515,,,,,Turkmenistan
+2183,2010,,WS,54.15,1.60625,,,,,Samoa
+2184,2010,,GY,,9.134,,,,,Guyana
+2185,2010,,CM,,22.69625,,,,,Cameroon
+2186,2010,,CH,,1.68,1261,,,,Switzerland
+2187,2010,,SL,24.05,28.58285714,,,,,Sierra Leone
+2188,2010,,KN,0,3.107142857,,,,,Saint Kitts and Nevis
+2189,2010,,KM,13,12.69,,,,,Comoros
+2190,2010,,SK,,2.31,702.4,,,,Slovakia
+2191,2010,,SO,0,,,,,,Somalia
+2192,2010,,KZ,,23.525,,,,,Kazakhstan
+2193,2010,1.39,IE,75.31,43.88,46490.3,318055.0272,,,Ireland
+2194,2010,,QA,59.99,,,,,,Qatar
+2195,2010,,RW,,13.1,,,,,Rwanda
+2196,2010,45.29,DE,74.5,35.48,40694,214067.002,,,Germany
+2197,2010,,NE,,20.035,,,,,Niger
+2198,2010,0.06,IL,12.85,3.38875,19895,,,,Israel
+2199,2010,,CU,62.51,6.151111111,,,,,Cuba
+2200,2010,1.94,MX,54.84,183.7633333,126238,1318827.817,,,Mexico
+2201,2010,,PW,56.37,,,,,,Palau
+2202,2010,,PA,23.46,20.96333333,,,,,Panama
+2203,2010,,BZ,27.18,45.26111111,,,,,Belize
+2204,2010,,GD,0.12,0.242222222,,,,,Grenada
+2205,2010,4.68,GR,85.52,21.26777778,121244,70089.08,,,Greece
+2206,2010,,SB,3.08,4.95,,,,,Solomon Islands
+2207,2010,,JO,,0.2575,,,,,Jordan
+2208,2010,16.23,LT,70.31,17.00555556,3190.99,33106.31691,,,Lithuania
+2209,2010,,GT,38.63,6.445714286,,,,,Guatemala
+2210,2010,,DJ,0,0.318,,,,,Djibouti
+2211,2010,,AG,28.73,0.371666667,,,,,Antigua and Barbuda
+2212,2010,,CF,,17.585,,,,,Central African Republic
+2213,2010,,ER,0,,,,,,Eritrea
+2214,2010,,NP,,49.73,,,,,Nepal
+2215,2010,16.36,LV,96.19,23.62428571,548.8,164489,,,Latvia
+2216,2010,,BS,8.18,2.0225,,,,,Bahamas
+2217,2010,,PY,,10.38,,,,,Paraguay
+2218,2010,,FO,0,,,,,,Faroe Islands
+2219,2011,,TH,47.54,337.3977778,1202005.43,1610418,,,Thailand
+2220,2011,,SV,25.43,7.39625,,,,,El Salvador
+2221,2011,0.91,CA,31.28,110.941,169706,854258.275,,,Canada
+2222,2011,,GT,38.63,5.902857143,,,,,Guatemala
+2223,2011,,BZ,27.19,31.39222222,,,,,Belize
+2224,2011,,TO,19.17,,,,,,Tonga
+2225,2011,,MW,,42.625,,,,,Malawi
+2226,2011,,BJ,0,4.90625,,,,,Benin
+2227,2011,0.27,CN,6.78,7312.232222,49147606.1,13567186,,,Cyprus No Mans Area
+2228,2011,1.86,PR,36.74,,,,,,Puerto Rico
+2229,2011,,GQ,100,,,,,,Equatorial Guinea
+2230,2011,,MM,9.29,310.5644444,,,,,Myanmar
+2231,2011,,TW,,,319245.385,893802.4582,,,Taiwan
+2232,2011,0.07,IL,13.1,3.485,20817,,,,Israel
+2233,2011,,VE,32.64,25.13777778,,,,,Venezuela (Bolivarian Republic of)
+2234,2011,,LS,,0.35,,,,,Lesotho
+2235,2011,5.48,IT,70.7,42.44111111,164150.7,212369.4253,,,Italy
+2236,2011,,KN,0,4.438571429,,,,,Saint Kitts and Nevis
+2237,2011,,LB,0.79,0.763333333,,,,,Lebanon
+2238,2011,,KW,13.02,0.872,,,,,Kuwait
+2239,2011,12.91,RO,88.6,1.45125,,,,,Romania
+2240,2011,,VU,3.3,7.4175,,,,,Vanuatu
+2241,2011,,SC,25.55,12.58,,,,,Seychelles
+2242,2011,19.02,US,30.85,619.7377778,397292,5244355,,,United States of America
+2243,2011,4.4,CL,23.67,443.65,969539,3466963,,,Chile
+2244,2011,1.94,MX,56.12,189.8077778,137128,1340382.335,,,Mexico
+2245,2011,,ZW,,9.79,,,,,Zimbabwe
+2246,2011,8.12,JP,60.69,531.8222222,907971.587,3824097,,,Japan
+2247,2011,,ZM,,39.945,,,,,Zambia
+2248,2011,,MY,13.71,211.7222222,526692.5,,,,Malaysia
+2249,2011,,ME,0,0.338571429,,,,,Montenegro
+2250,2011,,WS,54.15,1.43125,,,,,Samoa
+2251,2011,,DJ,0,0.334,,,,,Djibouti
+2252,2011,7.36,SE,56.51,27.82285714,13441,177999.023,,,Sweden
+2253,2011,,NP,,52.45,,,,,Nepal
+2254,2011,0.35,AR,38.94,88.5,3193.25,733129.9,,,Argentina
+2255,2011,16.36,LV,96.19,22.26714286,545.5,154679,,,Latvia
+2256,2011,,CH,,1.78,1466,,,,Switzerland
+2257,2011,,SK,,2.77,834.5,,,,Slovakia
+2258,2011,,MV,0,20.14,,,,,Maldives
+2259,2011,0.32,ZA,39.74,61.14,,,,,South Africa
+2260,2011,,MU,11.06,0.98,,,,,Mauritius
+2261,2011,,RW,,17.26,,,,,Rwanda
+2262,2011,,PY,,10.965,,,,,Paraguay
+2263,2011,,TN,22.56,12.08555556,,,,,Tunisia
+2264,2011,,CU,62.51,5.406666667,,,,,Cuba
+2265,2011,,MH,6.7,,,,,,Marshall Islands
+2266,2011,,TR,3.85,,188890,477658.4,,,Turkey
+2267,2011,8.68,AS,14.31,,,,,,American Samoa
+2268,2011,,MR,37.24,46.50125,,,,,Mauritania
+2269,2011,,KM,13,7.634,,,,,Comoros
+2270,2011,,NE,,26.63,,,,,Niger
+2271,2011,5.54,ES,62.59,142.4322222,277253.823,712676.69,,,Spain
+2272,2011,16.23,LT,70.31,15.76555556,3279.61,30659.66359,,,Lithuania
+2273,2011,2.75,SI,53.77,0.28625,1396.6,718.6,,,Slovenia
+2274,2011,,MN,,0.08,,,,,Mongolia
+2275,2011,,SN,22.11,53.43625,,,,,Senegal
+2276,2011,6.08,AU,56.41,28.95555556,76662.49,165163.77,,,Australia
+2277,2011,,LR,96.66,1.817142857,,,,,Liberia
+2278,2011,,MZ,57.55,21.59444444,,,,,Mozambique
+2279,2011,,UZ,,17.23,,,,,Uzbekistan
+2280,2011,,LC,26.25,0.271428571,,,,,Saint Lucia
+2281,2011,,UG,,174.3766667,,,,,Uganda
+2282,2011,6.29,BG,99.65,1.683333333,,,,,Bulgaria
+2283,2011,,ML,,110.22,,,,,Mali
+2284,2011,3.43,MT,62.39,0.577142857,,,,,Malta
+2285,2011,1.29,RU,23.57,487.9544444,129651,,,,Russian Federation
+2286,2011,,TZ,52.08,57.22111111,,,,,United Republic of Tanzania
+2287,2011,,EG,43.01,151.3522222,,,,,Egypt
+2288,2011,,LY,0,5.001666667,,,,,Libya
+2289,2011,7.83,GB,84.29,90.13555556,198967.6,602753.1996,,,United Kingdom of Great Britain and Northern Ireland
+2290,2011,1.71,BR,57.97,133.4988889,436084,525981,,,Brazil
+2291,2011,,TM,,7.515,,,,,Turkmenistan
+2292,2011,,VC,26.33,8.508888889,,,,,Saint Vincent and the Grenadines
+2293,2011,3.09,UA,30.74,22.61444444,,,,,Ukraine
+2294,2011,,TG,,3.0175,,,,,Togo
+2295,2011,,DM,0,0.17,,,,,Dominica
+2296,2011,,KH,41.16,70.31666667,,,,,Cambodia
+2297,2011,,MG,14.55,15.29,,,,,Madagascar
+2298,2011,2.61,SA,25.31,11.50857143,,,,,Saudi Arabia
+2299,2011,36.27,BE,94.01,2.82125,101,20137.753,,,Belgium
+2300,2011,,TJ,,1.38,,,,,Tajikistan
+2301,2011,,AE,36.35,9.44625,,,,,United Arab Emirates
+2302,2011,,TT,8.49,1.874285714,,,,,Trinidad and Tobago
+2303,2011,,MA,40.74,120.66875,,,,,Morocco
+2304,2011,,ER,0,,,,,,Eritrea
+2305,2011,26.87,MP,47.94,,,,,,Northern Mariana Islands
+2306,2011,,NA,82.95,46.05555556,,,,,Namibia
+2307,2011,,TD,,47.515,,,,,Chad
+2308,2011,,HN,41.01,7.685,,,,,Honduras
+2309,2011,,AZ,,0.526666667,,,,,Azerbaijan
+2310,2011,29.81,NZ,46.57,60.83555556,117266,436354.1555,,,New Zealand
+2311,2011,,AT,,1.625,2904.3,,,,Austria
+2312,2011,12.65,EC,64.62,90.66111111,,,,,Ecuador
+2313,2011,,NG,0,107.07625,,,,,Nigeria
+2314,2011,4.43,GL,29.67,,,,,,Greenland
+2315,2011,,AM,,2.363333333,,,,,Armenia
+2316,2011,,KG,,0.45,,,,,Kyrgyzstan
+2317,2011,,GM,40.26,5.934285714,,,,,Gambia
+2318,2011,,GH,19.56,52.12142857,,,,,Ghana
+2319,2011,,CD,,56.0575,,,,,Democratic Republic of the Congo
+2320,2011,23.78,GU,3.53,,,,,,Guam
+2321,2011,,SD,0,,,,,,Sudan
+2322,2011,,AL,63.39,0.797777778,,,,,Albania
+2323,2011,,SG,3.25,,,,,,Singapore
+2324,2011,12.62,DO,70.66,2.02,,,,,Dominican Republic
+2325,2011,,PG,1.89,23.37125,,,,,Papua New Guinea
+2326,2011,0.46,PE,51.64,836.665,92200.35,8218191,,,Peru
+2327,2011,,AF,,4,,,,,Afghanistan
+2328,2011,0.36,IS,12.7,128.8355556,5308.5,,,,Iceland
+2329,2011,,CZ,,,21010,,,,Czech Republic
+2330,2011,,IQ,0,9.566,,,,,Iraq
+2331,2011,,IR,68,91.86125,,,,,Iran (Islamic Republic of)
+2332,2011,,DZ,76.58,13.0075,,,,,Algeria
+2333,2011,0.67,NO,52.71,397.6177778,1143893.34,2149952.143,,,Norway
+2334,2011,,PA,23.46,19.71888889,,,,,Panama
+2335,2011,0.67,GE,35.64,4.533333333,,,,,Georgia
+2336,2011,,BF,,7.655,,,,,Burkina Faso
+2337,2011,,AG,28.73,0.51,,,,,Antigua and Barbuda
+2338,2011,,BW,,0.23,,,,,Botswana
+2339,2011,29.36,FR,75.02,77.22111111,193662.2,367667.54,,,France
+2340,2011,,SO,0,,,,,,Somalia
+2341,2011,45.3,DE,75.26,34.12875,39141,222505.384,,,Germany
+2342,2011,,PW,56.37,,,,,,Palau
+2343,2011,,GN,69.28,20.45,,,,,Guinea
+2344,2011,,PK,14.58,66.23333333,,,,,Pakistan
+2345,2011,,BA,,1.32,,,,,Bosnia and Herzegovina
+2346,2011,,BY,,8.705,,,,,Belarus
+2347,2011,,AO,66.58,57.05333333,,,,,Angola
+2348,2011,,CM,,23.8225,,,,,Cameroon
+2349,2011,11.35,FI,59.82,41.245,11275,119445,,,Finland
+2350,2011,,GD,0.12,0.258888889,,,,,Grenada
+2351,2011,,ST,82.49,1.018333333,,,,,Sao Tome and Principe
+2352,2011,4.68,GR,85.52,19.34,110809.1,62847.42,,,Greece
+2353,2011,,BS,8.18,1.89625,,,,,Bahamas
+2354,2011,,HT,0,2.853333333,,,,,Haiti
+2355,2011,,CF,,17.585,,,,,Central African Republic
+2356,2011,18.92,EE,97.67,10.24625,388.34,89595.27928,,,Estonia
+2357,2011,,OM,7.07,22.67428571,,,,,Oman
+2358,2011,,SB,3.22,5.073333333,,,,,Solomon Islands
+2359,2011,,LK,46.35,48.74888889,,,,,Sri Lanka
+2360,2011,,NI,49.95,6.16125,,,,,Nicaragua
+2361,2011,,GA,62.27,5.238571429,,,,,Gabon
+2362,2011,,BH,0,,,,,,Bahrain
+2363,2011,,BB,2.85,0.305,,,,,Barbados
+2364,2011,,FJ,16.55,5.186666667,,,,,Fiji
+2365,2011,,NR,0,,,,,,Nauru
+2366,2011,0.06,IN,19.18,890.4122222,3677584,,,,India
+2367,2011,24.3,PL,87.32,37.89166667,29037,109172.4348,,,Poland
+2368,2011,1.23,HR,20.85,10.53375,,,,,Croatia
+2369,2011,,HU,,11.315,15584,,,,Hungary
+2370,2011,,SR,74.24,7.118,,,,,Suriname
+2371,2011,2.18,ID,16.45,1516.352222,7937071.54,5753051,,,Indonesia
+2372,2011,,YE,30.64,22.48571429,,,,,Yemen
+2373,2011,,KE,43.1,22.63111111,,,,,Kenya
+2374,2011,,VN,17.98,652.7125,2860990,2176954,,,Viet Nam
+2375,2011,,FO,0,,,,,,Faroe Islands
+2376,2011,0.82,VI,31.47,,,,,,United States Virgin Islands
+2377,2011,,SL,24.05,28.86857143,,,,,Sierra Leone
+2378,2011,2.81,CR,48.63,5.205,27713.5,16354.4044,,,Costa Rica
+2379,2011,,JO,,0.2725,,,,,Jordan
+2380,2011,,QA,59.99,,,,,,Qatar
+2381,2011,2.98,PT,65.92,25.03666667,9165.39,233988.2,,,Portugal
+2382,2011,1.39,IE,77.91,31.96777778,44266.32,206071.4068,,,Ireland
+2383,2011,,KZ,,17.875,,,,,Kazakhstan
+2384,2011,,KI,32.92,7.468888889,,,,,Kiribati
+2385,2011,8.57,CY,35.59,0.978333333,,,,,Cyprus
+2386,2011,22.24,NL,93.31,45.98777778,43894.9,351757.029,,,Netherlands
+2387,2011,8.07,CO,53.69,24.45285714,83681,,,,Colombia
+2388,2011,,BD,34.47,347.1944444,1523759,,,,Bangladesh
+2389,2011,,JM,26.6,2.758333333,,,,,Jamaica
+2390,2011,,PH,37.38,536.3044444,2608120,,,,Philippines
+2391,2011,17.83,DK,86.91,83.81333333,35918,714442.5,,,Denmark
+2392,2011,0.23,UY,31.09,9.927777778,,,,,Uruguay
+2393,2011,,ET,,12.035,,,,,Ethiopia
+2394,2011,,GY,,8.69,,,,,Guyana
+2395,2012,,GW,,,,,0,,Guinea Bissau
+2396,2012,,GF,,,,,2242.13,,
+2397,2012,,FK,,,,,44982.57,,
+2398,2012,,BA,,0.985,,,,296111088.5,Bosnia and Herzegovina
+2399,2012,,PY,,10.9,,,,341580673.2,Paraguay
+2400,2012,,TR,3.85,,212805,396322,13120.58,6703000429,Turkey
+2401,2012,,SC,25.55,11.44666667,,,,,Seychelles
+2402,2012,,BY,,8.23,,,,1223823032,Belarus
+2403,2012,,MA,40.74,145.95125,,,12397.93,1264023036,Morocco
+2404,2012,,MU,11.06,0.8575,,,0,555192352.4,Mauritius
+2405,2012,,HK,,,,,0,,
+2406,2012,,LC,26.25,0.3,,,,30324550.1,Saint Lucia
+2407,2012,,RW,,19.49,,,,92804393.63,Rwanda
+2408,2012,,ET,,14.5,,,,481927089.5,Ethiopia
+2409,2012,,WS,54.15,1.48875,,,0,19857484.31,Samoa
+2410,2012,,KN,0,3.128571429,,,5287.96,,Saint Kitts and Nevis
+2411,2012,,SK,,3.26,1310.56,,,2652548658,Slovakia
+2412,2012,,MW,,64.31,,,,73681377.43,Malawi
+2413,2012,,JO,,0.31,,,,447914381.5,Jordan
+2414,2012,,KP,,,,,0,,North Korea
+2415,2012,,TN,36.34,12.90666667,,,0,647118222,Tunisia
+2416,2012,,PW,56.37,,,,,,Palau
+2417,2012,,ST,82.49,1.235,,,,,Sao Tome and Principe
+2418,2012,,NA,82.95,52.25666667,,,,482724850.7,Namibia
+2419,2012,,TH,47.54,332.4144444,1272700,1500200,0,14060606550,Thailand
+2420,2012,,PK,14.58,68.19555556,,,0,1582474366,Pakistan
+2421,2012,,KZ,,18.84,,,,2123002935,Kazakhstan
+2422,2012,,NE,,23.3,,,,57963716.9,Niger
+2423,2012,,BW,,0.38,,,,144187831.1,Botswana
+2424,2012,,UZ,,25.89,,,,491634391.9,Uzbekistan
+2425,2012,,NI,49.95,7.26875,,,,274156346.6,Nicaragua
+2426,2012,,MR,37.24,54.7125,,,0,334391582.4,Mauritania
+2427,2012,,SO,0,,,,0,,Somalia
+2428,2012,,WF,,,,,0,,
+2429,2012,,PM,,,,,0,,
+2430,2012,,NC,,,,,0,,Northern Cyprus
+2431,2012,,FM,,,,,0,,Federated States of Micronesia
+2432,2012,,KR,,,,,65975.22,,South Korea
+2433,2012,,VE,32.64,26.59888889,,,0,,Venezuela (Bolivarian Republic of)
+2434,2012,,QA,59.99,,,,0,1170946456,Qatar
+2435,2012,,UG,,167.8466667,,,,243291690.8,Uganda
+2436,2012,,YE,30.64,32.94571429,,,,238036189,Yemen
+2437,2012,,CM,,24.98,,,0,452286018.2,Cameroon
+2438,2012,,BF,,10.3,,,,,Burkina Faso
+2439,2012,,CZ,,,20763,,,,Czech Republic
+2440,2012,,CK,,,,,0,,
+2441,2012,,MM,9.29,316.7333333,,,0,389405535.5,Myanmar
+2442,2012,,TD,,50.015,,,,,Chad
+2443,2012,,AE,45,9.14375,,,0,4961667721,United Arab Emirates
+2444,2012,,LS,,0.45,,,,34839179.71,Lesotho
+2445,2012,,TJ,,0.99,,,,,Tajikistan
+2446,2012,,AT,,1.715,3125.5,,,5431680930,Austria
+2447,2012,,SN,22.11,57.78875,,,0,351485327.5,Senegal
+2448,2012,,VN,17.98,698.8225,3104501,2310063,0,6192135931,Viet Nam
+2449,2012,,PG,1.89,32.54625,,,,,Papua New Guinea
+2450,2012,,NG,0,115.33375,,,0,,Nigeria
+2451,2012,,TZ,52.08,63.30333333,,,,,United Republic of Tanzania
+2452,2012,,ZM,,46.815,,,,246194485.7,Zambia
+2453,2012,,CD,,55.2175,,,,,Democratic Republic of the Congo
+2454,2012,,TG,,2.4175,,,0,64075115.87,Togo
+2455,2012,,VU,3.3,7.9325,,,4620.34,,Vanuatu
+2456,2012,,VC,26.33,1.131111111,,,8780.38,,Saint Vincent and the Grenadines
+2457,2012,,NR,0,,,,0,,Nauru
+2458,2012,,GY,,10.82,,,,,Guyana
+2459,2012,,SG,3.25,,,,0,7501587033,Singapore
+2460,2012,,TM,,7.515,,,,,Turkmenistan
+2461,2012,,PH,37.38,527.3466667,2541965,,,,Philippines
+2462,2012,,AM,,3.236666667,,,,138126694.7,Armenia
+2463,2012,,SL,33.33,29.08285714,,,0,,Sierra Leone
+2464,2012,,ME,0,0.317142857,,,0,129259968.7,Montenegro
+2465,2012,,SD,0,5.091428571,,,,232221833.1,Sudan
+2466,2012,,BN,,,,,0,,Brunei
+2467,2012,,BO,,,,,0,,Bolivia
+2468,2012,,AW,,,,,0,,
+2469,2012,,NP,,56,,,,209544717,Nepal
+2470,2012,,TO,19.17,,,,,,Tonga
+2471,2012,,CF,,16.09,,,,15888980.08,Central African Republic
+2472,2012,,ZW,,10.37,,,,173575252.4,Zimbabwe
+2473,2012,,OM,7.07,27.39,,,,961335020.8,Oman
+2474,2012,,SB,3.22,5.085555556,,,,,Solomon Islands
+2475,2012,,HU,,10.925,15133,,0,4019790097,Hungary
+2476,2012,,TW,,,347900,908081.917,6575.1,,Taiwan
+2477,2012,,AF,,4.78,,,0,,Afghanistan
+2478,2012,,MN,,0.06,,,0,167122627.3,Mongolia
+2479,2012,,LK,47.58,53.63,,,,910579941.2,Sri Lanka
+2480,2012,,SR,74.24,7.868,,,,,Suriname
+2481,2012,,PA,23.46,20.64444444,,,,,Panama
+2482,2012,,AZ,,0.426666667,,,0,430451206.2,Azerbaijan
+2483,2012,,TT,8.49,1.724285714,,,,,Trinidad and Tobago
+2484,2012,,KG,,0.39,,,,118823522.2,Kyrgyzstan
+2485,2012,,CH,,1.735,1471,,0,,Switzerland
+2486,2012,,ML,,72.22,,,,,Mali
+2487,2012,,MZ,75.43,23.22,,,0,,Mozambique
+2488,2012,,GM,40.26,5.155714286,,,0,8322735.901,Gambia
+2489,2012,,EG,43.01,152.4411111,,,,3133269464,Egypt
+2490,2012,,KI,32.92,9.563333333,,,,7289901.769,Kiribati
+2491,2012,8.07,CO,53.69,23.09,89654,41486.05605,,2170284049,Colombia
+2492,2012,5.56,ES,62.71,132.44,269595.676,732943.94,162214.6,17007333536,Spain
+2493,2012,,KE,43.1,20.07777778,,,0,477549305,Kenya
+2494,2012,,ER,0,,,,,,Eritrea
+2495,2012,11.35,FI,59.83,43.7425,12659,132587,8048.42,2248352494,Finland
+2496,2012,0.32,ZA,39.74,80.57333333,,,1535.3,3253460805,South Africa
+2497,2012,4.43,GL,29.67,,,,42587.87,95682509.61,Greenland
+2498,2012,,JM,26.6,2.078333333,,,,250647977.8,Jamaica
+2499,2012,,KM,13,7.258,,,11701.53,,Comoros
+2500,2012,3.32,UA,30.74,19.79,,,18223.52,2164206873,Ukraine
+2501,2012,0.27,CN,6.78,7660.3,52082585.66,13915891,873647.89,40206104221,Cyprus No Mans Area
+2502,2012,,IQ,0,15.224,,,,,Iraq
+2503,2012,,KH,41.16,71.18777778,,,,259148064,Cambodia
+2504,2012,8.17,SE,56.74,23.62142857,13757,150382.828,34825.99,9615400637,Sweden
+2505,2012,9.05,GB,84.29,94.12111111,205594.7,634857.238,100351.24,22903383141,United Kingdom of Great Britain and Northern Ireland
+2506,2012,,CU,70.06,5.384444444,,,302.4,,Cuba
+2507,2012,2.75,SI,53.77,0.205,1154.3,328.6,0,832804369.5,Slovenia
+2508,2012,19.32,EE,97.67,8.54,581.398,73681.43594,29319.83,715904765.9,Estonia
+2509,2012,23.78,GU,3.53,,,,,,Guam
+2510,2012,12.91,RO,88.6,1.74625,,,0,2843585804,Romania
+2511,2012,,LR,96.66,1.961428571,,,1321.42,,Liberia
+2512,2012,1.39,IE,77.91,37.94888889,36102.01,225424.0637,61746.13,2246519539,Ireland
+2513,2012,,GQ,100,,,,0,,Equatorial Guinea
+2514,2012,29.81,NZ,46.57,60.22222222,100161,439063.9936,31153.74,1612781205,New Zealand
+2515,2012,1.23,HR,20.85,9.35375,,,0,1050251240,Croatia
+2516,2012,,LB,12.65,0.746666667,,,,564518181.3,Lebanon
+2517,2012,42.56,AR,39.92,82.33555556,2958.42,691983.5,306775.86,1766413581,Argentina
+2518,2012,2.61,SA,25.31,11.12857143,,,0,7821525622,Saudi Arabia
+2519,2012,0.07,IL,13.32,3.1025,20342.4,,0,2594816147,Israel
+2520,2012,2.81,CR,48.64,5.29125,27287,17542.21122,,695831732.8,Costa Rica
+2521,2012,,KW,13.02,0.868,,,,1166689570,Kuwait
+2522,2012,1.29,RU,23.57,498.3,146455,,729565.79,12234550537,Russian Federation
+2523,2012,,IR,68,104.23875,,,1290.25,1319245299,Iran (Islamic Republic of)
+2524,2012,19.03,US,31.14,603.5344444,420386,5223551,259296.44,66641027716,United States of America
+2525,2012,22.24,NL,93.31,43.71,46224.4,343711.666,102892.67,12258243705,Netherlands
+2526,2012,,GD,30.21,0.252222222,,,,15296451.04,Grenada
+2527,2012,,AG,28.73,0.995,,,,,Antigua and Barbuda
+2528,2012,16.36,LV,96.19,13.58,574.54,94111,7483.63,570734486.2,Latvia
+2529,2012,1.71,BR,57.97,144.5555556,480880,582038.486,0,10548520076,Brazil
+2530,2012,,BS,9.87,2.05875,,,,202954723.7,Bahamas
+2531,2012,,GH,19.56,56.21285714,,,10689.22,,Ghana
+2532,2012,1.95,MX,56.54,191.6111111,143746.64,1348582.295,0,13438821843,Mexico
+2533,2012,11.23,AU,58.43,28.19444444,81832.82,159294.22,2210.71,10324780252,Australia
+2534,2012,,BH,0,,,,0,586311180.9,Bahrain
+2535,2012,,BZ,31.22,19.75888889,,,10011.09,48446349.34,Belize
+2536,2012,36.27,BE,94.01,3.1175,277,21893.726,21982.45,11261001133,Belgium
+2537,2012,,BD,34.47,362.4255556,1726066,,,1900130079,Bangladesh
+2538,2012,3.43,MT,62.63,0.934285714,,,606.39,512660453.1,Malta
+2539,2012,,BB,2.85,0.226666667,,,,92797152.32,Barbados
+2540,2012,4.68,GR,85.52,19.11222222,110973.468,60725.48,44607.41,2602541960,Greece
+2541,2012,,FJ,16.55,4.997777778,,,0,164000839.8,Fiji
+2542,2012,,AO,66.58,62.38333333,,,0,,Angola
+2543,2012,8.13,JP,61.43,537.3577778,1073820.781,3746759,1925.44,27467883194,Japan
+2544,2012,4.4,CL,23.67,408.446,1075547,3008910,24669.98,2308657228,Chile
+2545,2012,,HN,41.01,8.08,,,0,328994996.8,Honduras
+2546,2012,0.82,VI,31.47,,,,,,United States Virgin Islands
+2547,2012,0.23,UY,31.09,8.472222222,,,116362.75,233151645.9,Uruguay
+2548,2012,,FO,16.67,,,,64207.19,,Faroe Islands
+2549,2012,,HT,0,2.87,,,,,Haiti
+2550,2012,0.91,CA,31.28,101.585,184910,823562.3147,83714.16,16816738291,Canada
+2551,2012,,AL,63.39,1.338888889,,,0,124640362,Albania
+2552,2012,,GN,69.28,22.08,,,0,,Guinea
+2553,2012,,BJ,0,5.1075,,,,,Benin
+2554,2012,0.67,GE,35.64,2.12,,,0,298979635.1,Georgia
+2555,2012,,DZ,76.58,13.53375,,,,2385164671,Algeria
+2556,2012,6.29,BG,99.65,1.728888889,,,645.19,1057923772,Bulgaria
+2557,2012,42.15,FR,76.26,75.33888889,205151.9,303857.9073,273194.07,22663794685,France
+2558,2012,,GT,38.63,5.391428571,,,,515275195.1,Guatemala
+2559,2012,,LY,0,5.835,,,0,,Libya
+2560,2012,1.86,PR,36.74,,,,,,Puerto Rico
+2561,2012,5.48,IT,70.9,37.71666667,137041,196782.5337,92171.71,20781150778,Italy
+2562,2012,,GA,62.27,5.221428571,,,,,Gabon
+2563,2012,16.23,LT,70.31,7.841111111,3581.96,28373.88771,9120.67,1449565809,Lithuania
+2564,2012,,SV,25.43,6.8425,,,,306106763.6,El Salvador
+2565,2012,,MH,7.62,,,,,,Marshall Islands
+2566,2012,17.83,DK,86.91,60.15333333,34585.54,503854.9,165706.15,6766470916,Denmark
+2567,2012,2.23,ID,18.17,1716.334444,9599764.824,5856860,0,5872420713,Indonesia
+2568,2012,45.3,DE,75.27,30.095,26360,189222.649,49558.14,35315028618,Germany
+2569,2012,26.87,MP,47.94,,,,,,Northern Mariana Islands
+2570,2012,,MG,14.78,14.23,,,0,96884510.42,Madagascar
+2571,2012,12.62,DO,70.66,1.8375,,,,635221124.7,Dominican Republic
+2572,2012,24.3,PL,87.32,38.44166667,32261,118532.4704,30869.23,11791139941,Poland
+2573,2012,0.36,IS,15.21,153.7888889,7431.3,1336180.665,240800.14,332545662.6,Iceland
+2574,2012,,DM,0,0.1575,,,2111.41,,Dominica
+2575,2012,,MY,13.71,234.6844444,634875.9,,0,6569654513,Malaysia
+2576,2012,,MV,0,20.00166667,,,,161368576.4,Maldives
+2577,2012,8.68,AS,14.31,,,,,,American Samoa
+2578,2012,0.06,IN,19.18,1012.178889,4213980,,0,11829755709,India
+2579,2012,0.46,PE,51.64,494.938,72292.85,4819159,1384.43,1351843383,Peru
+2580,2012,2.98,PT,65.92,23.22777778,10317.8,208704.8,46667.47,3938931073,Portugal
+2581,2012,8.57,CY,35.59,0.943333333,,,6584.88,1517958607,Cyprus
+2582,2012,12.66,EC,69.94,92.75222222,,,,969557468.3,Ecuador
+2583,2012,0.73,NO,52.82,401.3788889,1321119.2,2009563.849,166753.26,6012099673,Norway
+2584,2012,,DJ,0,0.436,,,0,,Djibouti
+2585,2013,,FJ,16.55,4.598888889,,,0,120489713.9,Fiji
+2586,2013,,JO,,0.37,,,,500494313.6,Jordan
+2587,2013,,HT,10.83,2.883333333,,,,,Haiti
+2588,2013,0.46,PE,51.64,601.054,125692.89,5849192,2637.58,1376007637,Peru
+2589,2013,,FO,16.67,,,,119659.11,,Faroe Islands
+2590,2013,,MR,37.24,48.47875,,,0,,Mauritania
+2591,2013,,SD,0,5.171428571,,,,,Sudan
+2592,2013,0.36,IS,15.21,154.5433333,7053,1356931.851,270721.23,418592506.5,Iceland
+2593,2013,,AL,70.65,1.408888889,,,0,132701091.7,Albania
+2594,2013,,BJ,0,5.385,,,,,Benin
+2595,2013,,GN,69.28,26.035,,,0,62672506.28,Guinea
+2596,2013,,AF,,5.56,,,0,,Afghanistan
+2597,2013,,PK,14.58,69.37666667,,,0,2207354143,Pakistan
+2598,2013,,KZ,,17.755,,,,1835253768,Kazakhstan
+2599,2013,,DM,0,0.1325,,,5078.99,,Dominica
+2600,2013,,MU,11.06,1.04,,,0,442351062.3,Mauritius
+2601,2013,,DZ,76.58,12.90625,,,,,Algeria
+2602,2013,,SC,25.55,12.355,,,,,Seychelles
+2603,2013,,WF,,,,,0,,
+2604,2013,,UG,,172.4366667,,,,159999549.4,Uganda
+2605,2013,0.23,UY,31.09,6.601111111,,,100866.31,302283069.9,Uruguay
+2606,2013,,GF,,,,,1050.06,,
+2607,2013,19.08,US,31.81,614.3122222,429011,5200375,286970.35,72409801423,United States of America
+2608,2013,4.4,CL,23.67,333.461,1045718,2288872,18679.67,2571085497,Chile
+2609,2013,,EG,43.01,161.6,,,,2471946991,Egypt
+2610,2013,,KP,,,,,0,,North Korea
+2611,2013,,BB,2.85,0.498333333,,,,,Barbados
+2612,2013,,UZ,,37.51,,,,960421373.5,Uzbekistan
+2613,2013,,AW,,,,,0,,
+2614,2013,,TH,47.54,313.5955556,998117,1614536,0,12427131192,Thailand
+2615,2013,,SL,33.33,29.29571429,,,0,,Sierra Leone
+2616,2013,,HN,41.01,8.11875,,,0,398912361.2,Honduras
+2617,2013,3.43,MT,62.63,1.088571429,,,7566.03,822852427.4,Malta
+2618,2013,,HU,,10.695,14918,,0,3880444525,Hungary
+2619,2013,,QA,59.99,,,,0,1148164819,Qatar
+2620,2013,,MV,0,21.64,,,,174350176.9,Maldives
+2621,2013,0.82,VI,31.47,,,,,,United States Virgin Islands
+2622,2013,,MN,,0.06,,,0,176735551.2,Mongolia
+2623,2013,,OM,7.07,29.50142857,,,,,Oman
+2624,2013,,SR,74.24,7.89,,,,,Suriname
+2625,2013,0.67,GE,35.64,2.695,,,0,337744550.9,Georgia
+2626,2013,0.93,CA,31.28,105.68,168015,863194.1453,114089.79,16890890062,Canada
+2627,2013,,CH,,1.8,1593,,36.99,,Switzerland
+2628,2013,,HK,,,,,0,,
+2629,2013,6.29,BG,99.65,2.424444444,,,7442.98,868278635.8,Bulgaria
+2630,2013,,MW,,57.975,,,,,Malawi
+2631,2013,,FK,,,,,50800.31,,
+2632,2013,,AG,28.73,0.77,,,,,Antigua and Barbuda
+2633,2013,,SG,3.25,,,,0,9474904222,Singapore
+2634,2013,1.71,BR,63.24,138.1144444,477634.465,531464.557,134.67,10150448376,Brazil
+2635,2013,,GM,40.26,6.252857143,,,0,84878380.58,Gambia
+2636,2013,,BA,,0.8075,,,,295712924.1,Bosnia and Herzegovina
+2637,2013,,BN,,,,,0,,Brunei
+2638,2013,,PY,,11.175,,,,371893470.6,Paraguay
+2639,2013,,GH,19.56,47.60571429,,,7221.32,853181554.2,Ghana
+2640,2013,,CZ,,,19357.4,,,,Czech Republic
+2641,2013,,GW,,,,,0,,Guinea Bissau
+2642,2013,,PA,23.46,23.21333333,,,,473924015.1,Panama
+2643,2013,42.56,AR,39.92,97.17,3825.12,822065.5,362025.7,2418464549,Argentina
+2644,2013,,LS,,0.55,,,,,Lesotho
+2645,2013,,TG,,2.505,,,128.73,,Togo
+2646,2013,11.25,AU,61.12,27.66444444,80061.471,157283.5,17855.41,8419446007,Australia
+2647,2013,,SB,3.22,5.378888889,,,,23028241.43,Solomon Islands
+2648,2013,0.8,NO,53.61,386.8188889,1247865.082,1931100.41,274893.23,6100868553,Norway
+2649,2013,,PH,37.38,508.1166667,2373386,,,,Philippines
+2650,2013,,AZ,,0.376666667,,,0,418494385.1,Azerbaijan
+2651,2013,,BH,0,,,,0,928154511,Bahrain
+2652,2013,,BS,9.87,1.595,,,,,Bahamas
+2653,2013,,AT,,1.795,3237,,,6028916842,Austria
+2654,2013,,MH,7.85,,,,,,Marshall Islands
+2655,2013,,GD,30.21,0.298888889,,,,16714890.96,Grenada
+2656,2013,,BD,34.47,378.9266667,1859808,,,1969774956,Bangladesh
+2657,2013,,TM,,7.515,,,,,Turkmenistan
+2658,2013,,LK,49.97,58.11444444,,,,679374039,Sri Lanka
+2659,2013,12.62,DO,70.66,1.83625,,,,783298880.2,Dominican Republic
+2660,2013,,PG,1.89,27.2375,,,,,Papua New Guinea
+2661,2013,,GT,38.78,5.98,,,,570520270.9,Guatemala
+2662,2013,,AM,,5.266666667,,,,154941145.6,Armenia
+2663,2013,8.98,JP,66.58,529.29,1027951.485,3715471,2971.58,26892808666,Japan
+2664,2013,0.06,IN,19.18,1024.71,4492502,,0,,India
+2665,2013,4.69,GR,85.52,19.79555556,113999.85,63638,122582.48,4367505909,Greece
+2666,2013,,TJ,,1.58,,,,68411649.1,Tajikistan
+2667,2013,,PW,56.37,,,,,12237586.58,Palau
+2668,2013,,AO,66.58,67.84333333,,,0,1157528231,Angola
+2669,2013,,VC,26.33,4.391111111,,,12236.93,,Saint Vincent and the Grenadines
+2670,2013,12.66,EC,69.94,93.94777778,,,,1025055583,Ecuador
+2671,2013,42.6,FR,77.14,82.19888889,200401.1,357358.6104,1035662.54,20453615398,France
+2672,2013,,KG,,0.42,,,,104033001.2,Kyrgyzstan
+2673,2013,,ML,,101.56,,,,135611922.3,Mali
+2674,2013,,SO,0,,,,0,,Somalia
+2675,2013,16.37,LV,96.19,16.67428571,643.21,115715,27604.46,528050189.4,Latvia
+2676,2013,36.27,BE,94.01,3.235,212,22793.11,124048.18,10859738791,Belgium
+2677,2013,,BZ,31.22,4.647777778,,,7460.43,41618942.61,Belize
+2678,2013,1.95,MX,57.88,193.0611111,111499.753,1456107.454,0,13933617925,Mexico
+2679,2013,1.86,PR,36.74,,,,,,Puerto Rico
+2680,2013,10.26,GB,84.29,93.90555556,225762.183,628288.6659,541219.51,21789105656,United Kingdom of Great Britain and Northern Ireland
+2681,2013,,TZ,52.08,59.01222222,,,,,United Republic of Tanzania
+2682,2013,,CF,,15.09,,,,,Central African Republic
+2683,2013,,MM,9.29,316.6433333,,,0,535734007.6,Myanmar
+2684,2013,2.61,SA,25.31,11.60285714,,,0,8023951915,Saudi Arabia
+2685,2013,0.07,IL,13.34,3.4775,22251.6,,16525.38,2274071783,Israel
+2686,2013,,BO,,,,,0,,Bolivia
+2687,2013,2.81,CR,48.65,6.11375,30352,15372.57461,,816367990.2,Costa Rica
+2688,2013,,MG,14.78,13.01666667,,,0,93615676.65,Madagascar
+2689,2013,,KW,13.02,0.988,,,,1119656556,Kuwait
+2690,2013,,AE,45.44,9.2225,,,0,5952947220,United Arab Emirates
+2691,2013,,CK,,,,,0,,
+2692,2013,,CU,70.06,5.737777778,,,0,,Cuba
+2693,2013,,BF,,10.41,,,,,Burkina Faso
+2694,2013,3.05,SI,59.16,0.2025,1225.7,236.5,0,1190317566,Slovenia
+2695,2013,,KN,0,2.531428571,,,861.82,,Saint Kitts and Nevis
+2696,2013,,KI,32.92,9.308888889,,,,6134708.778,Kiribati
+2697,2013,,NA,82.98,54.04777778,,,,519204755.4,Namibia
+2698,2013,,TD,,60.03,,,,,Chad
+2699,2013,,VN,17.98,725.465,3221095,2401899,0,7052564797,Viet Nam
+2700,2013,,SK,,3.09,1106.2,,,2544684070,Slovakia
+2701,2013,,NP,,57.52,,,,291287562.7,Nepal
+2702,2013,,FM,,,,,0,,Federated States of Micronesia
+2703,2013,29.81,NZ,46.57,60.11555556,97123,437530.5652,53063.76,1512964301,New Zealand
+2704,2013,,PM,,,,,0,,
+2705,2013,2.32,ID,18.81,2157.182222,13301407.94,6125187,598.49,6900800645,Indonesia
+2706,2013,,LB,12.65,0.715,,,,629839617,Lebanon
+2707,2013,,LY,0,6.001666667,,,0,,Libya
+2708,2013,8.68,AS,14.31,,,,,,American Samoa
+2709,2013,45.34,DE,76.95,32.55,25289,210016.655,141608.7,33556327238,Germany
+2710,2013,,VE,32.64,26.75666667,,,0,,Venezuela (Bolivarian Republic of)
+2711,2013,23.78,GU,3.53,,,,,,Guam
+2712,2013,,WS,54.15,1.40125,,,0,26064682.17,Samoa
+2713,2013,19.32,EE,97.67,8.8125,733.214,76616.69399,38244.98,570896413.9,Estonia
+2714,2013,13.42,RO,88.6,1.91875,,,0,2537829341,Romania
+2715,2013,,LR,96.66,2.104285714,,,823.39,,Liberia
+2716,2013,8.57,CY,35.59,1.088333333,,,10477.6,275131208.5,Cyprus
+2717,2013,,MZ,75.43,24.75888889,,,0,,Mozambique
+2718,2013,,CM,,26.025,,,0,448367917.6,Cameroon
+2719,2013,,RW,,23.55,,,,,Rwanda
+2720,2013,,DJ,0,0.342,,,0,,Djibouti
+2721,2013,1.39,IE,77.91,34.45888889,34198.2,242634.6383,262327.06,2316499264,Ireland
+2722,2013,,VU,3.3,7.7375,,,4077.58,,Vanuatu
+2723,2013,,MA,40.74,157.585,,,46408.85,1265426597,Morocco
+2724,2013,,NC,,,,,0,,Northern Cyprus
+2725,2013,2.41,HR,66.23,10.9775,,,29869.62,847559414.7,Croatia
+2726,2013,,SV,25.43,6.87625,,,,356762282.3,El Salvador
+2727,2013,2.98,PT,65.92,22.95888889,10067.21,207108.872,121925.01,4226477998,Portugal
+2728,2013,1.38,RU,23.57,502.4944444,155540,,890573.41,16742246789,Russian Federation
+2729,2013,,GQ,100,,,,0,,Equatorial Guinea
+2730,2013,,TR,3.85,,233863.6,339046.9,79944.86,5926806358,Turkey
+2731,2013,11.28,ZA,40.05,48.63,,,19309.13,2918848632,South Africa
+2732,2013,8.29,CO,53.69,22.86142857,89398,35559.96846,,1631395223,Colombia
+2733,2013,,ST,82.49,1.451666667,,,,,Sao Tome and Principe
+2734,2013,,ME,0,0.341428571,,,0,104821161.8,Montenegro
+2735,2013,,ET,,19.21,,,,,Ethiopia
+2736,2013,,YE,30.64,33.62428571,,,,127743952.2,Yemen
+2737,2013,,TT,8.49,1.878571429,,,,,Trinidad and Tobago
+2738,2013,3.32,UA,30.74,25.2,,,24973.11,2258926198,Ukraine
+2739,2013,,NI,49.95,8.33875,,,,275918248,Nicaragua
+2740,2013,,BY,,7.12,,,,1231766587,Belarus
+2741,2013,11.36,FI,59.85,45.3475,13613,138240,32822.31,2833501269,Finland
+2742,2013,0.33,CN,7.08,8012.202222,55029057.76,14000822,4527535.34,37110649545,Cyprus No Mans Area
+2743,2013,,MY,13.71,224.36,530701.795,,0,7853470057,Malaysia
+2744,2013,,JM,26.6,2.655,,,,340921462.6,Jamaica
+2745,2013,,KH,41.16,81.05222222,,,,396310116.8,Cambodia
+2746,2013,,IQ,0,14.186,,,,,Iraq
+2747,2013,20.88,LT,79.99,10.56555556,4210.88,79814.30417,21420.19,1641757173,Lithuania
+2748,2013,5.48,IT,71.02,35.42,140879,172624.2484,779636.85,18067124138,Italy
+2749,2013,22.25,NL,93.31,41.55222222,46620,345084.687,349776.71,15069230099,Netherlands
+2750,2013,,GY,,9.898,,,,503452992.6,Guyana
+2751,2013,,NE,,22.6,,,,82234207.12,Niger
+2752,2013,,SN,22.11,59.02375,,,0,,Senegal
+2753,2013,,TO,19.17,,,,,,Tonga
+2754,2013,,BW,,0.43,,,,,Botswana
+2755,2013,,IR,68,109.86125,,,5587.45,1744187200,Iran (Islamic Republic of)
+2756,2013,,ZM,,47.73,,,,310387073.9,Zambia
+2757,2013,,ER,0,,,,,,Eritrea
+2758,2013,,KR,,,,,83784.82,,South Korea
+2759,2013,,CD,,57.5725,,,,,Democratic Republic of the Congo
+2760,2013,,TW,,,351658.913,925300.7817,45459.57,,Taiwan
+2761,2013,26.87,MP,47.94,,,,,,Northern Mariana Islands
+2762,2013,5.56,ES,62.71,134.7066667,229307.638,868277.66,658240.69,13054333047,Spain
+2763,2013,,KE,43.1,20.78222222,,,0,676969950.6,Kenya
+2764,2013,17.83,DK,86.91,78.46555556,37707.2,663044.3,378193.33,7826690049,Denmark
+2765,2013,,ZW,,11.745,,,,156090903.2,Zimbabwe
+2766,2013,,NR,0,,,,0,,Nauru
+2767,2013,8.3,SE,56.74,28.66714286,13366,178236.8039,96047.43,8974585348,Sweden
+2768,2013,,KM,13,8.748,,,3656.64,4559028.017,Comoros
+2769,2013,,NG,0,125.02,,,0,2483178716,Nigeria
+2770,2013,,GA,62.27,5.234285714,,,,,Gabon
+2771,2013,,TN,39.58,13.43111111,,,0,716012455.9,Tunisia
+2772,2013,24.3,PL,87.32,41.56333333,35208.13,132306.7539,71311.46,9324687164,Poland
+2773,2013,,LC,26.25,0.307142857,,,,30904737.36,Saint Lucia
+2774,2013,4.43,GL,29.67,,,,53910.51,,Greenland
+2775,2014,,BZ,31.22,9.266666667,,,5048.2,39408207.19,Belize
+2776,2014,,NE,,23.665,,,,91726357.52,Niger
+2777,2014,,SN,22.11,57.475,,,6103.11,,Senegal
+2778,2014,,MN,,0.05,,,0,115137689.6,Mongolia
+2779,2014,,BO,,,,,0,,Bolivia
+2780,2014,42.56,AR,39.92,92.65888889,4002.71,791151.588,379564.82,2290743225,Argentina
+2781,2014,,DM,0,0.26,,,4529.58,,Dominica
+2782,2014,11.25,AU,61.24,26.83333333,75031.81,153503.91,29147,9357651025,Australia
+2783,2014,,NP,,64.9,,,,,Nepal
+2784,2014,,VC,26.33,9.045555556,,,10558.12,,Saint Vincent and the Grenadines
+2785,2014,,ST,82.49,1.666666667,,,,,Sao Tome and Principe
+2786,2014,,WS,54.15,0.93875,,,0,17834669.24,Samoa
+2787,2014,,CU,70.06,6.256666667,,,0,,Cuba
+2788,2014,,KM,13,1.85,,,5987.52,6139650.97,Comoros
+2789,2014,,AW,,,,,276,,
+2790,2014,20.88,LT,79.99,17.10111111,3835.8,142882.2895,28049.22,959257112.9,Lithuania
+2791,2014,,KH,41.16,82.81333333,,,,552392396.2,Cambodia
+2792,2014,0.67,GE,35.64,3.281666667,,,0,270454279.2,Georgia
+2793,2014,,ML,,81.95,,,,173128669.7,Mali
+2794,2014,,DJ,0,0.462,,,0,,Djibouti
+2795,2014,,SC,25.55,12.51833333,,,,408410464.5,Seychelles
+2796,2014,,BJ,0,6.12375,,,,159851465.3,Benin
+2797,2014,0.4,IS,15.21,122.6288889,8433.5,1078344.262,239047.04,373737731.5,Iceland
+2798,2014,,SL,33.33,29.50714286,,,0,,Sierra Leone
+2799,2014,,VU,3.3,8.73625,,,4413.9,,Vanuatu
+2800,2014,13.42,RO,88.6,2.11625,,,869.49,3160773135,Romania
+2801,2014,9.4,HR,81.68,11.68625,,,120683.98,810667229.7,Croatia
+2802,2014,1.38,RU,23.57,492.29,163600,,813983.82,10464065466,Russian Federation
+2803,2014,19.32,EE,97.67,8.75375,870.475,76986.42304,40099.06,620116826.8,Estonia
+2804,2014,,TZ,52.08,57.49,,,,,United Republic of Tanzania
+2805,2014,,CF,,14.59,,,,,Central African Republic
+2806,2014,2.61,SA,25.31,13.22142857,,,0,6058877363,Saudi Arabia
+2807,2014,2.81,CR,48.65,5.18875,26765.5,15648.71787,,704485807.8,Costa Rica
+2808,2014,,AE,45.44,9.24875,,,0,5434806366,United Arab Emirates
+2809,2014,29.81,NZ,46.69,61.38777778,109873.85,432712.1646,63894.94,1409316613,New Zealand
+2810,2014,3.05,SI,59.16,0.22625,1396.3,251,602.09,1926480599,Slovenia
+2811,2014,,TD,,60.04,,,,,Chad
+2812,2014,8.38,CO,54.39,26.27714286,92002,38702.99784,,1866214250,Colombia
+2813,2014,,TR,3.85,,235133,266077.6,102898.33,8261598412,Turkey
+2814,2014,11.28,ZA,40.05,68.49555556,,,26395.13,2474926076,South Africa
+2815,2014,8.45,ES,85.27,149.64,288009.863,1079019.3,928231.84,13805133230,Spain
+2816,2014,,CM,,27.0725,,,0,373113208.1,Cameroon
+2817,2014,1.86,PR,36.74,,,,,,Puerto Rico
+2818,2014,,VE,32.64,26.71444444,,,0,,Venezuela (Bolivarian Republic of)
+2819,2014,,BI,,16.22,,,,15122126.11,Burundi
+2820,2014,,AZ,,0.403333333,,,0,476589046.3,Azerbaijan
+2821,2014,0.8,NO,53.61,420.9366667,1332497.022,2124840.132,280356.01,7309447924,Norway
+2822,2014,12.69,EC,69.94,114.5088889,,,,994463875.8,Ecuador
+2823,2014,,AT,,1.87,3390.3,,,5362234345,Austria
+2824,2014,,BA,,0.9275,,,,333941705.3,Bosnia and Herzegovina
+2825,2014,,AM,,6.24,,,,106104253.8,Armenia
+2826,2014,12.8,DO,81.39,1.99625,,,,891531526.6,Dominican Republic
+2827,2014,,AF,,6.36,,,0,,Afghanistan
+2828,2014,,TW,,,339170.962,1068374.902,49481.26,,Taiwan
+2829,2014,0.46,PE,51.64,371.785,115271.42,3574371,249.46,1353260292,Peru
+2830,2014,,BW,,1.17,,,,144181742,Botswana
+2831,2014,,YE,30.64,31.39571429,,,,,Yemen
+2832,2014,24.3,PL,87.32,38.61833333,40109.69,116824.623,90474.23,11846528726,Poland
+2833,2014,17.83,DK,86.95,86.61444444,34382.2,738525.9,413108.31,7737931300,Denmark
+2834,2014,,VN,23.89,756.12375,3355234,2513879,0,8425346116,Viet Nam
+2835,2014,,BF,,10.5,,,,103269319.3,Burkina Faso
+2836,2014,2.98,PT,65.92,21.66888889,11338.938,173237.6429,135099.36,3240984064,Portugal
+2837,2014,8.57,CY,42.28,1.016666667,,,10975.59,1747866639,Cyprus
+2838,2014,26.87,MP,47.94,,,,,,Northern Mariana Islands
+2839,2014,,BB,2.85,0.371666667,,,,,Barbados
+2840,2014,,CD,,58.12,,,,,Democratic Republic of the Congo
+2841,2014,8.53,SE,57.09,27.93571429,12899,172345.9117,121013.91,8306419693,Sweden
+2842,2014,,KZ,,18.77,,,,1753702712,Kazakhstan
+2843,2014,,LK,49.97,62.45,,,,,Sri Lanka
+2844,2014,,AO,66.58,73.73,,,0,743564217.2,Angola
+2845,2014,,KG,,0.81,,,,,Kyrgyzstan
+2846,2014,,SO,0,,,,0,,Somalia
+2847,2014,1.74,BR,63.37,147.9177778,564221.573,537766.416,2614.9,9729311174,Brazil
+2848,2014,,AG,29.07,0.52,,,,,Antigua and Barbuda
+2849,2014,42.66,FR,78.01,81.73888889,180390,356955.2079,1042601.79,22680150103,France
+2850,2014,,SB,3.22,9.532222222,,,,63884115.35,Solomon Islands
+2851,2014,,BS,9.87,1.48625,,,,,Bahamas
+2852,2014,,LS,,0.95,,,,,Lesotho
+2853,2014,,BH,0,,,,0,707575538.1,Bahrain
+2854,2014,36.27,BE,94.01,3.37625,214,24273.119,152440.98,11345488875,Belgium
+2855,2014,,SG,3.25,,,,0,7604782531,Singapore
+2856,2014,,BD,34.47,394.2366667,1956925,,,,Bangladesh
+2857,2014,,MW,,60.435,,,,64094383.16,Malawi
+2858,2014,3.43,MT,62.63,1.048571429,,,10880.93,1277278063,Malta
+2859,2014,,DZ,76.58,12.53,,,,1569465339,Algeria
+2860,2014,6.29,BG,99.65,2.206666667,,,11180.97,1079907819,Bulgaria
+2861,2014,1.95,MX,57.89,191.3977778,194229.758,1419794.068,99.68,14589947793,Mexico
+2862,2014,,AL,70.65,1.411111111,,,0,82579987.84,Albania
+2863,2014,,ET,,25.1,,,,491809957.1,Ethiopia
+2864,2014,,TT,8.49,1.887142857,,,,,Trinidad and Tobago
+2865,2014,3.32,UA,30.74,18.61444444,,,22474.09,,Ukraine
+2866,2014,0.33,CN,7.08,8362.017778,57320503.73,14845171,5962119.43,48730097982,Cyprus No Mans Area
+2867,2014,22.37,NL,93.31,48.26222222,63084,382351.673,465737.89,17529359188,Netherlands
+2868,2014,,GY,,7.624,,,,,Guyana
+2869,2014,,TO,19.17,,,,,,Tonga
+2870,2014,18.3,GB,84.49,108.7088889,234788.404,758965.2057,657737.57,23453247357,United Kingdom of Great Britain and Northern Ireland
+2871,2014,,TN,39.58,13.61888889,,,0,799764657.6,Tunisia
+2872,2014,19.08,US,31.81,601.2622222,421189,5080287,305495.7,75396721915,United States of America
+2873,2014,,TH,47.54,285.3211111,898564.86,1488280,0,12238886521,Thailand
+2874,2014,,HU,,11.395,15326,,0,4316666214,Hungary
+2875,2014,0.82,VI,31.47,,,,,,United States Virgin Islands
+2876,2014,,SR,74.24,7.702,,,,,Suriname
+2877,2014,0.93,CA,31.73,102.04,139732,855620.9337,109063.72,16106715305,Canada
+2878,2014,0.4,UY,42.24,7.255555556,,,135417.14,376203841.7,Uruguay
+2879,2014,,JO,,0.44,,,,508935919.8,Jordan
+2880,2014,,SD,0,5.071428571,,,,347491177.5,Sudan
+2881,2014,4.4,CL,23.67,382.016,1227359,2592811,17226.16,2504183183,Chile
+2882,2014,11.39,FI,59.86,49.1025,13465,148090,47674.3,2782820726,Finland
+2883,2014,,BY,,5.71,,,,1606932931,Belarus
+2884,2014,,PH,38,509.3633333,2337605,,,,Philippines
+2885,2014,,PG,1.89,32.70375,,,,,Papua New Guinea
+2886,2014,,NR,0,,,,0,,Nauru
+2887,2014,4.43,GL,29.67,,,,72702.79,33412614.88,Greenland
+2888,2014,,ZW,,12.375,,,,222279236.8,Zimbabwe
+2889,2014,,KE,43.1,21.49666667,,,0,,Kenya
+2890,2014,,FM,,,,,0,,Federated States of Micronesia
+2891,2014,,GA,62.27,5.272857143,,,,,Gabon
+2892,2014,,CH,,1.79,1593,,0,,Switzerland
+2893,2014,,NA,82.98,49.40111111,,,,1385684850,Namibia
+2894,2014,,KI,32.92,13.39333333,,,,,Kiribati
+2895,2014,,FJ,16.55,4.932222222,,,0,109526510.1,Fiji
+2896,2014,,KW,13.02,0.9,,,,1244191235,Kuwait
+2897,2014,,FK,,,,,43123.06,,
+2898,2014,0.07,IL,13.34,3.20125,20166,,35486.28,1833242312,Israel
+2899,2014,,MM,9.29,326.09,,,0,456199690.3,Myanmar
+2900,2014,8.68,AS,14.31,,,,,,American Samoa
+2901,2014,,FO,16.67,,,,181297.3,,Faroe Islands
+2902,2014,,LB,12.65,0.688333333,,,,593478414.8,Lebanon
+2903,2014,,SK,,3.17,1230.66,,,2074042208,Slovakia
+2904,2014,1.39,IE,77.91,37.51222222,31200.2,275696.2836,299123.17,2712976756,Ireland
+2905,2014,,NC,,,,,0,,Northern Cyprus
+2906,2014,,QA,59.99,,,,1406.93,1343946951,Qatar
+2907,2014,16.37,LV,96.19,17.17857143,686.28,119263,34990.4,642223008.2,Latvia
+2908,2014,,MZ,75.43,28.26,,,0,241730266.9,Mozambique
+2909,2014,,LR,96.66,2.107142857,,,114.33,,Liberia
+2910,2014,,TJ,,1.62,,,,83256708.74,Tajikistan
+2911,2014,,GF,,,,,0,,
+2912,2014,,JM,26.6,2.138333333,,,,286243700.5,Jamaica
+2913,2014,,GM,40.3,7.361428571,,,0,,Gambia
+2914,2014,4.69,GR,85.52,18.31666667,104663,60318.68,240140.37,4202139777,Greece
+2915,2014,,PK,14.58,69.43666667,,,0,1871977730,Pakistan
+2916,2014,,HK,,,,,747.72,,
+2917,2014,,GN,69.28,21.54166667,,,0,189352881.9,Guinea
+2918,2014,,GT,39.99,6.222857143,,,,624389381.4,Guatemala
+2919,2014,8.99,JP,67.08,528.0566667,1021848.585,3713241,3774.91,29224477115,Japan
+2920,2014,,PW,56.37,,,,,8079860.902,Palau
+2921,2014,,HT,23.09,2.918333333,,,,,Haiti
+2922,2014,,UG,,190.7533333,,,,169633662.4,Uganda
+2923,2014,,OM,7.07,30.18857143,,,,805825874.7,Oman
+2924,2014,,GD,30.21,0.316666667,,,,22142432.91,Grenada
+2925,2014,,GW,,,,,0,,Guinea Bissau
+2926,2014,23.78,GU,3.53,,,,,,Guam
+2927,2014,,TG,,2.485,,,0,,Togo
+2928,2014,,EG,43.01,164.6544444,,,,,Egypt
+2929,2014,,GH,19.56,46.62,,,27998.78,744630610.7,Ghana
+2930,2014,,PA,23.46,19.09666667,,,,340255052,Panama
+2931,2014,,UZ,,46.39,,,,,Uzbekistan
+2932,2014,,KP,,,,,0,,North Korea
+2933,2014,,NG,0,134.1325,,,0,6068915675,Nigeria
+2934,2014,,IR,68,117.79875,,,10594.97,,Iran (Islamic Republic of)
+2935,2014,5.48,IT,71.02,36.95222222,148730.35,176778.3798,1468959.29,17236268965,Italy
+2936,2014,,ZM,,50.055,,,,309644207.4,Zambia
+2937,2014,,NI,49.95,10.14375,,,,198523112.1,Nicaragua
+2938,2014,,IQ,0,17.126,,,,,Iraq
+2939,2014,,KR,,,,,114246.42,,South Korea
+2940,2014,,HN,41.01,8.8,,,34.49,,Honduras
+2941,2014,,LY,0,4.168333333,,,0,,Libya
+2942,2014,,TM,,7.515,,,,,Turkmenistan
+2943,2014,,MV,0,21.44666667,,,,,Maldives
+2944,2014,,LC,26.25,0.304285714,,,,,Saint Lucia
+2945,2014,,MH,7.85,,,,,,Marshall Islands
+2946,2014,,ME,0,0.345714286,,,0,113205376.6,Montenegro
+2947,2014,,MG,14.78,12.36111111,,,0,121079324.4,Madagascar
+2948,2014,,PM,,,,,0,,
+2949,2014,2.61,ID,20.21,2317.793333,14375286.83,6458735,1090.6,7072294632,Indonesia
+2950,2014,,GQ,100,,,,24.77,,Equatorial Guinea
+2951,2014,,MU,11.06,1.93,,,0,504293794.1,Mauritius
+2952,2014,,CZ,,,20135,,,,Czech Republic
+2953,2014,,SV,46.54,8.11,,,,404693329,El Salvador
+2954,2014,,MY,13.71,220.63,521014.466,,0,6864794041,Malaysia
+2955,2014,,MA,40.76,171.39,,,65654.23,1342631627,Morocco
+2956,2014,45.34,DE,76.95,33.59625,26032,220525.601,176706.18,39223639121,Germany
+2957,2014,,KN,0.96,9.448571429,,,4267.53,,Saint Kitts and Nevis
+2958,2014,,CK,,,,,0,,
+2959,2014,,MR,37.24,47.2925,,,0,,Mauritania
+2960,2014,,BN,,,,,0,,Brunei
+2961,2014,,RW,,26.66,,,,46472433.96,Rwanda
+2962,2014,,ER,0,,,,,,Eritrea
+2963,2014,,WF,,,,,0,,
+2964,2014,0.06,IN,19.18,1099.33,4884002,,839.59,10033344089,India
+2965,2014,,PY,,11.4,,,,300584779.9,Paraguay
+2966,2015,12.82,EC,69.94,118.8544444,,,,954651496.5,Ecuador
+2967,2015,0.36,CN,7.08,8607.72,59368941.59,15337111,5982678.71,50520657512,Cyprus No Mans Area
+2968,2015,,UZ,,59.85,,,,,Uzbekistan
+2969,2015,4.41,CL,24.41,318.971,1057742,2098360,19951.39,2622814288,Chile
+2970,2015,,MV,0,21.22666667,,,,71428748.9,Maldives
+2971,2015,12.8,DO,81.39,1.76625,,,,961766754.1,Dominican Republic
+2972,2015,,NG,0,128.38375,,,0,3701630733,Nigeria
+2973,2015,,GY,,7.396,,,,,Guyana
+2974,2015,22.38,NL,93.31,49.68444444,62795,330463.503,491886.25,13180885365,Netherlands
+2975,2015,,KP,,,,,0,,North Korea
+2976,2015,,NI,49.95,8.2,,,,258598600.4,Nicaragua
+2977,2015,,IR,68,122.22625,,,6742.34,,Iran (Islamic Republic of)
+2978,2015,,TO,19.17,,,,,8416909.922,Tonga
+2979,2015,,IQ,0,10.42,,,,,Iraq
+2980,2015,5.5,IT,71.09,38.61222222,148762.6,192212.8326,1868849.91,16051699455,Italy
+2981,2015,,ZM,,53.235,,,,306559786,Zambia
+2982,2015,,MU,11.06,2.07125,,,0,525125307.6,Mauritius
+2983,2015,3.32,UA,30.74,15.84888889,,,19244.48,1370266334,Ukraine
+2984,2015,18.3,GB,84.49,103.2422222,223026.473,709121.5941,760783.6,19924362184,United Kingdom of Great Britain and Northern Ireland
+2985,2015,,AF,,7.2,,,0,39639474.4,Afghanistan
+2986,2015,,LY,0,4.336666667,,,0,,Libya
+2987,2015,,AM,,7.756666667,,,,81430570.4,Armenia
+2988,2015,,PK,14.58,71.62888889,,,0,1263865474,Pakistan
+2989,2015,7.91,BG,99.65,2.485555556,,,10560.19,1079880021,Bulgaria
+2990,2015,,BY,,5,,,,1172930518,Belarus
+2991,2015,,AL,70.65,1.262222222,,,0,145146571,Albania
+2992,2015,,MR,37.24,50.47125,,,0,336745541.7,Mauritania
+2993,2015,,AZ,,0.386666667,,,0,681365629.4,Azerbaijan
+2994,2015,,GN,69.28,21.04166667,,,0,,Guinea
+2995,2015,,CZ,,,20200,,,,Czech Republic
+2996,2015,4.69,GR,85.52,19.17777778,107161.8,64431.39,228399.33,3823686699,Greece
+2997,2015,,SD,0,5.357142857,,,,,Sudan
+2998,2015,1.95,MX,57.89,187.8022222,211621.644,1367752.9,0,12510959867,Mexico
+2999,2015,,JO,,0.44,,,,565007024.9,Jordan
+3000,2015,,HK,,,,,3375.72,,
+3001,2015,0.57,UY,53.79,6.637777778,,,113083.69,334195691.2,Uruguay
+3002,2015,0.8,NO,53.61,424.6833333,1380890.06,2160171.779,314843.64,6371340621,Norway
+3003,2015,,UG,,171.2766667,,,,145887833.3,Uganda
+3004,2015,,OM,7.07,36.74142857,,,,740188843.7,Oman
+3005,2015,0.95,CA,31.88,105.074,187374,838410.9741,117157.37,16920543935,Canada
+3006,2015,0.4,IS,15.21,149.37,8382.6,1313201.127,248088.46,451044582.3,Iceland
+3007,2015,,HT,23.09,2.953333333,,,,,Haiti
+3008,2015,,SR,74.24,8.966,,,,,Suriname
+3009,2015,,AT,,1.925,3503.4,,,6438425021,Austria
+3010,2015,,MH,7.85,,,,,,Marshall Islands
+3011,2015,,HU,,11.63,17337,,0,4158553845,Hungary
+3012,2015,0.84,VI,31.47,,,,,,United States Virgin Islands
+3013,2015,,TT,8.49,1.898571429,,,,,Trinidad and Tobago
+3014,2015,12.08,FI,60.55,49.4325,14877,148008,59308.86,2925674994,Finland
+3015,2015,19.08,US,31.82,607.73,426014.5,5132215,360297.02,88648662234,United States of America
+3016,2015,,HN,41.01,8.2325,,,0,,Honduras
+3017,2015,,WF,,,,,0,,
+3018,2015,,BA,,1.19,,,,354534687.9,Bosnia and Herzegovina
+3019,2015,,MY,13.71,222.1044444,506965.2,,27343.3,5504077219,Malaysia
+3020,2015,8.57,SE,57.09,32.21142857,12020,202879.5684,125039.74,9304912975,Sweden
+3021,2015,0.07,IL,13.49,3.0925,19640,,40471.99,2287049445,Israel
+3022,2015,,CF,,14.09,,,,,Central African Republic
+3023,2015,2.61,SA,25.31,14.01857143,,,0,8976771299,Saudi Arabia
+3024,2015,,PM,,,,,0,,
+3025,2015,,MG,15.76,15.27111111,,,0,130393536.2,Madagascar
+3026,2015,,MM,9.29,330.0111111,,,0,1011967408,Myanmar
+3027,2015,2.81,CR,48.65,4.65625,23559.5,13382.02489,,915157732.1,Costa Rica
+3028,2015,29.81,NZ,47.06,58.28888889,91275.3,439981.4548,75783.05,1614983257,New Zealand
+3029,2015,,TZ,52.08,65.82,,,,,United Republic of Tanzania
+3030,2015,1.38,RU,23.57,513.1055556,154050,,877571.85,18195789334,Russian Federation
+3031,2015,,LB,12.65,0.775,,,,712392998.9,Lebanon
+3032,2015,1.39,IE,77.91,33.78,39650,234027.5225,273002.45,2991711676,Ireland
+3033,2015,3.13,PT,67.94,22.18555556,9562.876,183336.4788,157588.75,3472368990,Portugal
+3034,2015,,KW,13.02,0.908,,,,1656351654,Kuwait
+3035,2015,,BF,,10.515,,,,126021460.9,Burkina Faso
+3036,2015,,CM,,28.24375,,,1715.67,,Cameroon
+3037,2015,13.42,RO,88.6,2.54375,,,541.31,3655364097,Romania
+3038,2015,,NC,,,,,0,,Northern Cyprus
+3039,2015,,VU,3.3,10.27125,,,4856.8,,Vanuatu
+3040,2015,,MZ,75.43,31.96888889,,,1200.02,304187223.9,Mozambique
+3041,2015,,MA,40.76,171.41,,,80091.05,,Morocco
+3042,2015,,VE,32.64,28.84888889,,,0,,Venezuela (Bolivarian Republic of)
+3043,2015,9.4,HR,81.68,11.18375,,,154703.67,1197966877,Croatia
+3044,2015,2.66,ID,22.4,2483.358889,15649311.1,6689688,1156.49,6721464983,Indonesia
+3045,2015,,LR,96.66,2.105714286,,,0,,Liberia
+3046,2015,,BI,,21.45,,,,16960381.59,Burundi
+3047,2015,1.86,PR,36.74,,,,,,Puerto Rico
+3048,2015,23.78,GU,3.53,,,,,,Guam
+3049,2015,8.57,CY,42.28,1.158333333,,,11326.13,2148088755,Cyprus
+3050,2015,,ET,,22.805,,,,560629006,Ethiopia
+3051,2015,19.32,EE,97.67,9.30125,798.7,83186.1558,41431.07,630903518.3,Estonia
+3052,2015,,VN,23.89,797.53625,3475449.61,2589803,0,4119325383,Viet Nam
+3053,2015,26.87,MP,47.94,,,,,,Northern Mariana Islands
+3054,2015,,JM,26.6,2.396666667,,,,,Jamaica
+3055,2015,,KR,,,,,110964.43,,South Korea
+3056,2015,,YE,30.64,25.83,,,,62695278.92,Yemen
+3057,2015,,CD,,58.4225,,,,,Democratic Republic of the Congo
+3058,2015,,TN,39.58,14.82333333,,,0,1032597170,Tunisia
+3059,2015,,NR,0,,,,0,,Nauru
+3060,2015,,TW,,,313488.136,985586.2861,100352.75,,Taiwan
+3061,2015,0.06,IN,19.18,1125.004444,5344002,,3404.29,10728457099,India
+3062,2015,8.45,ES,85.74,140.5533333,296571.976,838977.03,1108286.79,13804311495,Spain
+3063,2015,0.46,PE,51.64,493.942,90976.46,4806361,176.52,1353378818,Peru
+3064,2015,,BW,,0.1,,,,123871751.7,Botswana
+3065,2015,,KE,43.1,20.46666667,,,0,,Kenya
+3066,2015,,AE,45.44,9.22375,,,0,4180009001,United Arab Emirates
+3067,2015,,ZW,,12.75,,,,189772450.4,Zimbabwe
+3068,2015,8.68,AS,14.31,,,,,,American Samoa
+3069,2015,17.83,DK,86.95,100.54,35866.7,861700.9,367979.08,5173866657,Denmark
+3070,2015,,TR,3.85,,240334,397730.7,117583.65,6026765595,Turkey
+3071,2015,,TD,,50.075,,,,,Chad
+3072,2015,4.43,GL,29.67,,,,78056.74,33004343.47,Greenland
+3073,2015,8.38,CO,54.39,25.39285714,95857,41324.78042,,2034930844,Colombia
+3074,2015,,NA,82.98,56.74777778,,,,616629961.8,Namibia
+3075,2015,,ME,0,0.33,,,0,80024581.78,Montenegro
+3076,2015,24.3,PL,87.32,40.39833333,36971,132855.9148,105026.39,9368222570,Poland
+3077,2015,3.05,SI,59.16,0.24375,1617.2,194,2613.68,923709871.5,Slovenia
+3078,2015,,KI,32.92,16.62555556,,,,,Kiribati
+3079,2015,,TM,,7.515,,,,,Turkmenistan
+3080,2015,,FM,,,,,0,,Federated States of Micronesia
+3081,2015,11.28,ZA,42.2,64.41555556,,,65956.66,2681080634,South Africa
+3082,2015,,EG,43.01,168.7711111,,,,3218046248,Egypt
+3083,2015,,TH,47.54,269.0666667,921023,1317217,0,13456223844,Thailand
+3084,2015,,PH,38,499.9988889,2348159,,,3455851046,Philippines
+3085,2015,,SK,,3.28,1308.63,,,1985657772,Slovakia
+3086,2015,16.37,LV,96.19,11.77142857,862.85,81303,45063.03,672990521.1,Latvia
+3087,2015,,RW,,30.95,,,,61855450.02,Rwanda
+3088,2015,22.94,LT,83.45,9.955555556,4450.17,68558.71488,32543.63,1618194258,Lithuania
+3089,2015,,ER,0,,,,,,Eritrea
+3090,2015,,BJ,0,5.11625,,,,159597873.1,Benin
+3091,2015,,WS,54.15,1.08875,,,0,,Samoa
+3092,2015,,FO,16.67,,,,218193.79,,Faroe Islands
+3093,2015,,AG,29.07,0.53,,,,,Antigua and Barbuda
+3094,2015,,BO,,,,,0,,Bolivia
+3095,2015,,TG,,2.695,,,0,136203602.2,Togo
+3096,2015,,TJ,,1.63,,,,,Tajikistan
+3097,2015,,SV,46.54,7.14875,,,,309220260.8,El Salvador
+3098,2015,,SG,3.25,,,,236.52,7663602578,Singapore
+3099,2015,,DJ,0,0.404,,,0,,Djibouti
+3100,2015,,GF,,,,,0,,
+3101,2015,,PG,1.89,30.0575,,,,,Papua New Guinea
+3102,2015,42.56,AR,39.92,90.88555556,3662.65,767648.508,380204.33,2561845861,Argentina
+3103,2015,,MW,,73.31,,,,78122985.66,Malawi
+3104,2015,,BS,30.27,1.4125,,,,192409732,Bahamas
+3105,2015,,SN,22.11,53.3325,,,26625.77,186413051.4,Senegal
+3106,2015,,NP,,69.5,,,,173939093.2,Nepal
+3107,2015,8.99,JP,67.08,510.5533333,1105651.683,3492430,7986.95,27041507129,Japan
+3108,2015,,BD,34.47,409.3766667,2060408,,,,Bangladesh
+3109,2015,,MN,,0.06,,,0,138428657.9,Mongolia
+3110,2015,,LS,,1.05,,,,36858755.72,Lesotho
+3111,2015,,SB,3.22,9.457777778,,,,,Solomon Islands
+3112,2015,3.43,MT,62.63,1.212857143,,,9233.19,817308411.6,Malta
+3113,2015,,KN,0.96,14.34714286,,,6132.46,,Saint Kitts and Nevis
+3114,2015,,QA,59.99,,,,386.01,,Qatar
+3115,2015,,CU,70.06,6.406666667,,,0,,Cuba
+3116,2015,,ST,82.49,1.906666667,,,,,Sao Tome and Principe
+3117,2015,42.67,FR,78.13,74.25444444,163352.6,457585.2203,1140111.48,24496024771,France
+3118,2015,,PA,23.46,16.34444444,,,,952811424.6,Panama
+3119,2015,,GH,19.56,55.82571429,,,30417.36,685386710,Ghana
+3120,2015,1.74,BR,63.37,141.7811111,578372.925,485374.194,10776.25,8310991409,Brazil
+3121,2015,0.67,GE,35.64,3.865,,,0,271043343.1,Georgia
+3122,2015,,GW,,,,,0,,Guinea Bissau
+3123,2015,,AO,66.58,82.685,,,18582.13,2074918340,Angola
+3124,2015,11.25,AU,61.56,28.46,89317.939,152432.61,36834.85,9071624115,Australia
+3125,2015,,PW,72.3,,,,,,Palau
+3126,2015,,KM,13,2.536,,,10969.91,6596480.715,Comoros
+3127,2015,,FK,,,,,40666.02,,
+3128,2015,,VC,26.33,2.912222222,,,8837.32,,Saint Vincent and the Grenadines
+3129,2015,,FJ,16.55,4.687777778,,,0,301278926,Fiji
+3130,2015,,GD,30.21,0.301111111,,,,,Grenada
+3131,2015,,PY,,11.59,,,,339518463.9,Paraguay
+3132,2015,,DZ,76.58,12.16125,,,,2390435482,Algeria
+3133,2015,,GT,39.99,5.702857143,,,,634902064.8,Guatemala
+3134,2015,,CK,,,,,0,,
+3135,2015,,DM,0,0.25,,,5222.89,,Dominica
+3136,2015,,LK,49.97,59.60333333,,,,654988045.9,Sri Lanka
+3137,2015,,BZ,31.22,11.30222222,,,4466.88,32110857.28,Belize
+3138,2015,,AW,,,,,284.12,,
+3139,2015,,KZ,,20.595,,,,1380732578,Kazakhstan
+3140,2015,,NE,,13.665,,,,,Niger
+3141,2015,,GQ,100,,,,0,,Equatorial Guinea
+3142,2015,,GM,40.3,8,,,0,,Gambia
+3143,2015,,BH,0,,,,0,,Bahrain
+3144,2015,,SO,0,,,,0,,Somalia
+3145,2015,,SL,33.33,28.88428571,,,56.01,,Sierra Leone
+3146,2015,,LC,26.25,0.3,,,,,Saint Lucia
+3147,2015,,KG,,1.1,,,,98538444.23,Kyrgyzstan
+3148,2015,,KH,41.16,83.68777778,,,,225123513,Cambodia
+3149,2015,,BN,,,,,0,,Brunei
+3150,2015,,ML,,94.88,,,,,Mali
+3151,2015,,CH,,1.81,1593,,0,,Switzerland
+3152,2015,36.27,BE,94.01,3.10125,82,22488.651,150810.07,7995142039,Belgium
+3153,2015,45.34,DE,76.98,36.45625,29909,170146.168,197396.09,38809022948,Germany
+3154,2015,,BB,2.85,0.253333333,,,,,Barbados
+3155,2015,,SC,25.55,17.49833333,,,,,Seychelles
+3156,2015,,GA,62.27,4.72,,,,,Gabon
+3157,2016,,KH,41.69,89.16111111,,,,290118352.7,Cambodia
+3158,2016,9.4,HR,81.68,11.1325,,,147131.96,1408570879,Croatia
+3159,2016,16.37,LV,96.19,16.51285714,788.077,114655,40392.03,595545855.3,Latvia
+3160,2016,,QA,59.99,,,,1210.53,1682737311,Qatar
+3161,2016,,VU,3.3,5.495,,,5037.85,,Vanuatu
+3162,2016,,CK,,,,,0,,
+3163,2016,,LR,96.66,2.107142857,,,2705.03,,Liberia
+3164,2016,,BJ,0,6.7525,,,,160180627.4,Benin
+3165,2016,,NC,,,,,0,,Northern Cyprus
+3166,2016,,PH,38,469.5666667,2200912.247,,,3353575940,Philippines
+3167,2016,,FK,,,,,43542.49,,
+3168,2016,,KW,32.08,1.14,,,,1449703078,Kuwait
+3169,2016,,CF,,14.595,,,,21429460.1,Central African Republic
+3170,2016,,SC,25.55,21.18833333,,,,,Seychelles
+3171,2016,2.61,SA,25.31,15.43,,,0,6827778805,Saudi Arabia
+3172,2016,,MM,9.29,343.3377778,,,0,855340972.4,Myanmar
+3173,2016,,ML,,106.68,,,,,Mali
+3174,2016,2.81,CR,48.65,4.44625,22212,10001.95929,,704508070.9,Costa Rica
+3175,2016,,MZ,75.43,33.42666667,,,22523.2,,Mozambique
+3176,2016,1.99,IE,77.92,33.34444444,40244.43,241846.2806,297471.53,1920553139,Ireland
+3177,2016,,TZ,52.08,58.68222222,,,,,United Republic of Tanzania
+3178,2016,29.81,NZ,47.06,59.3,109016.2,422102.0739,123345.65,1763361127,New Zealand
+3179,2016,1.38,RU,23.57,549.72,173981,,1051024.18,13243012314,Russian Federation
+3180,2016,,SK,,4.04,2168.65,,,2270170497,Slovakia
+3181,2016,,LB,12.65,0.885,,,,315210836.3,Lebanon
+3182,2016,42.56,AR,42.33,84.32111111,3673.485,694971.715,418293.82,2279081375,Argentina
+3183,2016,,CM,,29.4375,,,3826.91,,Cameroon
+3184,2016,13.42,RO,88.6,3.1625,,,840,2603766237,Romania
+3185,2016,,SN,22.11,59.5325,,,38189.45,373494746.8,Senegal
+3186,2016,,FO,16.67,,,,217762.29,,Faroe Islands
+3187,2016,,BI,,23.14,,,,18876153.44,Burundi
+3188,2016,,LK,49.97,61.19333333,,,,900755306.9,Sri Lanka
+3189,2016,1.86,PR,36.74,,,,,,Puerto Rico
+3190,2016,,SV,46.54,7.755,,,,306694295.1,El Salvador
+3191,2016,,MU,11.06,2.40375,,,0,453544417.1,Mauritius
+3192,2016,,BN,,,,,0,,Brunei
+3193,2016,,AF,,8.05,,,0,,Afghanistan
+3194,2016,26.87,MP,47.94,,,,,,Northern Mariana Islands
+3195,2016,,DJ,0,0.444,,,0,,Djibouti
+3196,2016,,MV,0,21.53166667,,,,106674468.5,Maldives
+3197,2016,,BO,,,,,0,,Bolivia
+3198,2016,0.4,IS,15.21,122.2566667,15129,1079257.72,247169.9,405581566.4,Iceland
+3199,2016,,LC,26.25,0.307142857,,,,30764523.56,Saint Lucia
+3200,2016,,AM,,6.713333333,,,,115548232.1,Armenia
+3201,2016,,BA,,1.2175,,,,287347379.5,Bosnia and Herzegovina
+3202,2016,,MY,13.71,220.91,407887.091,,33919.13,6993380311,Malaysia
+3203,2016,12.8,DO,81.39,2.11375,,,,681624883.6,Dominican Republic
+3204,2016,,WF,,,,,0,,
+3205,2016,0.89,NO,55.12,392.1611111,1326216.18,1905276.763,331674.44,5537076731,Norway
+3206,2016,,NE,,17.515,,,,60162571.62,Niger
+3207,2016,,AT,,1.915,3483.4,,,6048124963,Austria
+3208,2016,,MH,7.85,,,,,,Marshall Islands
+3209,2016,,VC,26.33,2.534444444,,,4129.04,,Saint Vincent and the Grenadines
+3210,2016,,CZ,,,20952,,,,Czech Republic
+3211,2016,,AZ,,0.453333333,,,0,408102634.2,Azerbaijan
+3212,2016,,MR,37.24,76.22,,,0,123936223.2,Mauritania
+3213,2016,,BY,,5.94,,,,1201385189,Belarus
+3214,2016,,DM,0,0.205,,,1934.83,,Dominica
+3215,2016,,EG,43.01,189.6966667,,,,2835010015,Egypt
+3216,2016,,PY,,11.3,,,,336906659.5,Paraguay
+3217,2016,,WS,54.15,1.10125,,,0,18674116.58,Samoa
+3218,2016,,YE,30.64,22.06428571,,,,207461183.3,Yemen
+3219,2016,,RW,,26.59,,,,82489669.53,Rwanda
+3220,2016,2.71,ID,22.85,2503.818889,16002319.09,6542258,0,5629852183,Indonesia
+3221,2016,,AW,,,,,188.36,,
+3222,2016,,VE,32.64,34.47333333,,,0,,Venezuela (Bolivarian Republic of)
+3223,2016,,MA,40.76,181.90625,,,147043,952174713,Morocco
+3224,2016,22.94,LT,83.45,12.37111111,4392.74,95380.69571,31463.02,1326541359,Lithuania
+3225,2016,8.58,CY,49.64,1.351666667,,,13228.76,2562321888,Cyprus
+3226,2016,,BF,,11.27,,,,142124955.5,Burkina Faso
+3227,2016,,ST,82.49,1.953333333,,,,,Sao Tome and Principe
+3228,2016,4.46,PT,68.06,21.81444444,9787.24,187590.3931,177249.81,3406377246,Portugal
+3229,2016,,AE,45.44,9.46,,,0,5300614197,United Arab Emirates
+3230,2016,,KM,13,3.28,,,12907.33,,Comoros
+3231,2016,,GQ,100,,,,0,,Equatorial Guinea
+3232,2016,,MG,15.76,18.70222222,,,0,92010263.33,Madagascar
+3233,2016,23.78,GU,3.53,,,,,,Guam
+3234,2016,,NP,,70.54,,,,216087993,Nepal
+3235,2016,,VN,23.89,838.58375,3581579.03,2870200,111.51,5413082402,Viet Nam
+3236,2016,,PM,,,,,0,,
+3237,2016,0.06,IN,19.18,1198.26,5701902,,1224.89,12502175360,India
+3238,2016,12.88,EC,70.11,129.6222222,,,,1100028462,Ecuador
+3239,2016,24.3,PL,87.32,42.73666667,38293,137461.9514,105321.51,12240102270,Poland
+3240,2016,,ME,0,0.358571429,,,0,112921423.6,Montenegro
+3241,2016,,CU,70.06,5.858888889,,,0,,Cuba
+3242,2016,18.23,DK,86.99,78.51888889,36337,662251.8,426792.91,8106257878,Denmark
+3243,2016,,BW,,0.05,,,,150510428.6,Botswana
+3244,2016,0.67,GE,35.64,7.563333333,,,0,266728411,Georgia
+3245,2016,0.47,PE,51.64,392.893,100187.15,3806660,550.44,1347994443,Peru
+3246,2016,,KN,51.72,9.391428571,,,1041.3,,Saint Kitts and Nevis
+3247,2016,,ER,0,,,,,,Eritrea
+3248,2016,,LY,0,5.001666667,,,545.86,,Libya
+3249,2016,,MN,,0.02,,,0,175653911.7,Mongolia
+3250,2016,,FM,,,,,48.79,,Federated States of Micronesia
+3251,2016,,BS,30.27,1.45375,,,,156681392.6,Bahamas
+3252,2016,,IR,68,136.245,,,21850.58,1541270367,Iran (Islamic Republic of)
+3253,2016,,BZ,31.22,10.28888889,,,6053.53,,Belize
+3254,2016,,TO,19.17,,,,,,Tonga
+3255,2016,,TG,,3.9975,,,0,59370973.99,Togo
+3256,2016,,LS,,1.1,,,,24580520.77,Lesotho
+3257,2016,8.68,AS,14.31,,,,,,American Samoa
+3258,2016,36.27,BE,94.01,3.3775,44,24582.979,143368.17,7609046008,Belgium
+3259,2016,,TJ,,1.54,,,,,Tajikistan
+3260,2016,,HK,,,,,2531.61,,
+3261,2016,,KP,,,,,0,,North Korea
+3262,2016,,NI,49.95,8.2425,,,,316182288.4,Nicaragua
+3263,2016,3.32,UA,30.74,10.79555556,,,8402.03,1816779333,Ukraine
+3264,2016,,BH,0,,,,119.39,473637057.5,Bahrain
+3265,2016,,PW,72.3,,,,,,Palau
+3266,2016,0.36,CN,7.08,8832.274444,62318377.87,13859541,7572115.75,39574142702,Cyprus No Mans Area
+3267,2016,,JO,,0.44,,,,508942008.7,Jordan
+3268,2016,,IQ,0,12.026,,,,,Iraq
+3269,2016,,ZM,,56.31,,,,297772622.2,Zambia
+3270,2016,,HU,,10.65,16247.969,,0,3689253970,Hungary
+3271,2016,,TT,8.49,1.862857143,,,,,Trinidad and Tobago
+3272,2016,,AO,66.58,81.19166667,,,39598.58,,Angola
+3273,2016,,GM,40.3,8.327142857,,,0,8629488.314,Gambia
+3274,2016,0.57,UY,53.79,5.731111111,,,97814.49,280916917.2,Uruguay
+3275,2016,8.99,JP,67.08,482.4222222,1068034.499,3263566,25273.07,27316337753,Japan
+3276,2016,19.68,GB,84.49,101.0077778,204564.346,700845.5013,835483.57,20509857568,United Kingdom of Great Britain and Northern Ireland
+3277,2016,0.84,VI,31.47,,,,,,United States Virgin Islands
+3278,2016,,HT,23.09,2.965,,,,,Haiti
+3279,2016,,UG,,169.1,,,,190412851.7,Uganda
+3280,2016,,SR,74.24,9.426,,,,,Suriname
+3281,2016,5.51,IT,71.24,39.43666667,156460,192356.172,1937991.91,18331591625,Italy
+3282,2016,,AG,29.07,0.53,,,,,Antigua and Barbuda
+3283,2016,12.08,FI,60.63,51.9075,14412.17,157253,73524.27,2643264963,Finland
+3284,2016,,KG,,2.02,,,,108368634.1,Kyrgyzstan
+3285,2016,19.11,US,31.82,594.8788889,444697.5,4984654,597031.74,87616760479,United States of America
+3286,2016,,SO,0,,,,3841.4,,Somalia
+3287,2016,,GH,19.56,54.27571429,,,42363.3,,Ghana
+3288,2016,,HN,41.01,7.9625,,,0,361175699.5,Honduras
+3289,2016,,OM,7.07,39.95857143,,,,798554876.5,Oman
+3290,2016,,TH,47.54,267.9711111,963573,1343283,635.26,11534211020,Thailand
+3291,2016,,GW,,,,,0,,Guinea Bissau
+3292,2016,42.82,FR,78.54,80.30444444,180610.8,449270.3927,1156845.43,22234103277,France
+3293,2016,,UZ,,65.32,,,,,Uzbekistan
+3294,2016,,NG,0,130.1875,,,0,,Nigeria
+3295,2016,,PA,23.46,16.24555556,,,,,Panama
+3296,2016,,SB,3.22,8.476666667,,,,,Solomon Islands
+3297,2016,12.63,CL,24.41,287.704,1050117,1921691,23408.5,2373517794,Chile
+3298,2016,1.76,BR,65.6,143.88,542982.013,493876.967,23166.83,6218174594,Brazil
+3299,2016,,GY,,8.496,,,,,Guyana
+3300,2016,,ET,,25.045,,,,501647996.6,Ethiopia
+3301,2016,,SD,47.97,6.358571429,,,,210002819.2,Sudan
+3302,2016,17.75,MX,61.89,193.9111111,221327.46,1400408.755,0,13201428298,Mexico
+3303,2016,7.91,BG,99.65,2.708888889,,,8852.15,816313402.9,Bulgaria
+3304,2016,,KZ,,21.605,,,,1613347674,Kazakhstan
+3305,2016,11.28,ZA,42.2,69.98666667,,,194268.04,2217967032,South Africa
+3306,2016,,AL,70.7,1.402222222,,,1356.78,112860766.1,Albania
+3307,2016,,CH,,1.795,1733,,0,,Switzerland
+3308,2016,,ZW,,12.9,,,,151908447.6,Zimbabwe
+3309,2016,,DZ,76.58,12.04625,,,,1971349902,Algeria
+3310,2016,,SL,33.33,28.88428571,,,0,,Sierra Leone
+3311,2016,,GT,48.69,5.612857143,,,,494479613.6,Guatemala
+3312,2016,,PK,14.58,74.39777778,,,0,1516505823,Pakistan
+3313,2016,,GA,62.27,4.435714286,,,,,Gabon
+3314,2016,4.69,GR,85.52,22.23111111,123707.1,61358.5,247352.09,3779220225,Greece
+3315,2016,,TR,3.85,,253395,301582.1,146301.6,5694827628,Turkey
+3316,2016,4.43,GL,29.67,,,,75331.87,134968725.7,Greenland
+3317,2016,,NA,82.98,57.33111111,,,,1091748223,Namibia
+3318,2016,8.39,CO,54.39,24.13,106685,12142.81817,,2257623298,Colombia
+3319,2016,,BB,2.85,0.295,,,,75919984.27,Barbados
+3320,2016,45.34,DE,76.98,39.12375,41801,250596.458,212634.36,34856983064,Germany
+3321,2016,3.05,SI,59.16,0.26875,1858.7,152.0581,3540.19,752376018.5,Slovenia
+3322,2016,,FJ,16.55,5.032222222,,,0,157157827.9,Fiji
+3323,2016,,KI,32.92,19.60888889,,,,6080079.83,Kiribati
+3324,2016,0.07,IL,13.49,2.81375,18914,,23759.55,3641474699,Israel
+3325,2016,,TM,,7.525,,,,,Turkmenistan
+3326,2016,,TD,,55.045,,,,,Chad
+3327,2016,19.32,EE,97.67,9.61625,867.733,84331.31099,37388.01,870951633.1,Estonia
+3328,2016,0.99,CA,32.32,107.988,200765,853006.3386,131173.44,18028928729,Canada
+3329,2016,,BD,34.47,430.9333333,2203554,,,2046570595,Bangladesh
+3330,2016,,GF,,,,,0,,
+3331,2016,,TW,,,255211.894,749888.123,132834.91,,Taiwan
+3332,2016,,CD,,60.135,,,,,Democratic Republic of the Congo
+3333,2016,8.46,ES,85.74,132.9755556,290483.181,799599.12,1118119.59,16969047411,Spain
+3334,2016,,GD,30.21,0.285555556,,,,12141287.86,Grenada
+3335,2016,,KR,,,,,88057.4,,South Korea
+3336,2016,,NR,0,,,,1922.79,,Nauru
+3337,2016,,TN,39.58,14.58111111,,,0,823684807,Tunisia
+3338,2016,,JM,26.6,2.416666667,,,,239544054.7,Jamaica
+3339,2016,7.85,MT,89.54,1.375714286,,,10033.62,472510072.3,Malta
+3340,2016,14.75,SE,59.79,32.07714286,15747,198002.4361,139352.86,10150668254,Sweden
+3341,2016,26.85,NL,96.65,47.98666667,62185,366794.855,573079.91,14300930528,Netherlands
+3342,2016,,GN,69.28,21.375,,,3213.96,,Guinea
+3343,2016,,MW,,80.25,,,,99315272.17,Malawi
+3344,2016,11.48,AU,63.98,31.37333333,97221.992,174246.1697,58393.72,10629281598,Australia
+3345,2016,,KE,43.1,17.61555556,,,818.47,481691965.5,Kenya
+3346,2016,,SG,3.25,,,,0,8289167447,Singapore
+3347,2016,,PG,1.89,39.34,,,,,Papua New Guinea
+3348,2017,26.87,MP,47.94,,,,,,Northern Mariana Islands
+3349,2017,22.19,MX,61.89,208.96,243307.314,1454297.816,1338.9,13092075320,Mexico
+3350,2017,12.08,FI,60.67,51.245,14586.9,154427,56714.63,2382989758,Finland
+3351,2017,,JO,,0.44,,,,554597125.7,Jordan
+3352,2017,,PY,,12.09,,,,310377814.3,Paraguay
+3353,2017,,TM,,7.525,,,,,Turkmenistan
+3354,2017,,TG,,3.3825,,,0,91186461.97,Togo
+3355,2017,,BY,,5.565,,,,1316711473,Belarus
+3356,2017,0.67,GE,35.64,16.72,,,801.39,287992639.7,Georgia
+3357,2017,0.4,IS,15.21,133.9411111,20858.7,1158717.658,213840.33,279316837.6,Iceland
+3358,2017,4.69,GR,85.52,22.63888889,125524.7,62554.1,286084.17,2289749363,Greece
+3359,2017,,BA,,1.0175,,,,379692469.4,Bosnia and Herzegovina
+3360,2017,,KZ,,16.36,,,,2508660648,Kazakhstan
+3361,2017,,NE,,17.465,,,,72869144.35,Niger
+3362,2017,,CZ,,,21685,,,,Czech Republic
+3363,2017,,TJ,,1.58,,,,54936251.75,Tajikistan
+3364,2017,16.37,LV,96.19,16.99142857,807.94,117913.37,43383.02,486956429.3,Latvia
+3365,2017,,BI,,20.4,,,,29066170.73,Burundi
+3366,2017,26.85,NL,96.65,62.50888889,52185,411766.181,555685.71,13112115922,Netherlands
+3367,2017,,CD,,60.3,,,,,Democratic Republic of the Congo
+3368,2017,45.35,DE,77,35.52625,35979,256317.036,203396.63,31107657882,Germany
+3369,2017,,CH,,1.83,1733,,0,,Switzerland
+3370,2017,19.32,EE,97.67,10.4625,870.461,90286.74974,46596.3,573865576.4,Estonia
+3371,2017,,MW,,105.835,,,,,Malawi
+3372,2017,,ZM,,57.15,,,,233303070.8,Zambia
+3373,2017,,TD,,53.745,,,,,Chad
+3374,2017,29.81,NZ,47.06,60.88,116530,422111.9117,148441.22,1326224059,New Zealand
+3375,2017,,ZW,,13.4,,,,142564890.6,Zimbabwe
+3376,2017,2.07,IE,78.57,35.75111111,45433.1,245479.31,270019.9,2340369471,Ireland
+3377,2017,,SK,,4.52,2646.264,,,2669606225,Slovakia
+3378,2017,4.43,GL,29.67,,,,76931.29,128046297.1,Greenland
+3379,2017,,ML,,110.14,,,,,Mali
+3380,2017,,CF,,14.57,,,,,Central African Republic
+3381,2017,,CM,,29.4375,,,1995.57,644382894.6,Cameroon
+3382,2017,7.85,MT,89.54,1.324285714,,,13545.38,563378319,Malta
+3383,2017,,MN,,0.02,,,0,,Mongolia
+3384,2017,42.82,FR,78.6,77.85666667,188605.81,419706.7621,1204046.8,22721462630,France
+3385,2017,,UG,,167.3233333,,,,147428351,Uganda
+3386,2017,5.63,IT,74.71,39.37666667,156625,191915.6217,2043238.43,20180869596,Italy
+3387,2017,,KG,,2.19,,,,108100565.5,Kyrgyzstan
+3388,2017,,BW,,0.05,,,,,Botswana
+3389,2017,,NP,,77.16,,,,286009593.7,Nepal
+3390,2017,,GY,,8.734,,,,1125032732,Guyana
+3391,2017,0.06,IN,19.18,1292.48,6212869,,24587.04,11552001162,India
+3392,2017,23.78,GU,3.53,,,,,,Guam
+3393,2017,8.99,JP,67.08,477.3,1023192.201,3258018,87306.55,25993411857,Japan
+3394,2017,13,EC,70.31,123.6355556,,,,,Ecuador
+3395,2017,,RW,,28.36,,,,99817564.62,Rwanda
+3396,2017,,UZ,,83.9,,,,797005622,Uzbekistan
+3397,2017,,BF,,11.17,,,,,Burkina Faso
+3398,2017,22.94,LT,83.45,10.39111111,3749.07,88674.882,29676.58,1554165514,Lithuania
+3399,2017,,LS,,1.35,,,,90615806.17,Lesotho
+3400,2017,,ET,,28.065,,,,426658952.8,Ethiopia
+3401,2017,2.82,ID,23.48,2514.64,16118238,6688738.926,24.89,7072793031,Indonesia
+3402,2017,,HU,,11.93,18257.5,,0,3755831165,Hungary
+3403,2017,0.07,IL,13.49,2.59375,17997,,25406.74,2252942980,Israel
+3404,2017,0.84,VI,31.47,,,,,,United States Virgin Islands
+3405,2017,,IR,68,150.38125,,,27283.09,1449865780,Iran (Islamic Republic of)
+3406,2017,,TO,19.17,,,,,,Tonga
+3407,2017,26.35,GB,85,106.5777778,227672.446,728181.7489,875640.67,21896530924,United Kingdom of Great Britain and Northern Ireland
+3408,2017,,NI,49.95,9.4775,,,,258776270.6,Nicaragua
+3409,2017,13.32,CL,24.5,355.417,1219747.097,2312603,23422.7,2363444276,Chile
+3410,2017,,SN,25.26,62.33875,,,73807.8,291827090.1,Senegal
+3411,2017,,TH,47.54,263.25,894974,1300421,4082.75,13585255803,Thailand
+3412,2017,,IQ,0,13.406,,,,,Iraq
+3413,2017,19.11,US,31.82,608.8911111,439698,5180631,775199.19,66651519655,United States of America
+3414,2017,42.56,AR,42.33,93.18,3567.76,779214.897,445355.46,2297689707,Argentina
+3415,2017,,PG,1.89,41.31,,,,,Papua New Guinea
+3416,2017,,SV,46.54,7.41125,,,,326787562,El Salvador
+3417,2017,2.94,CA,35.01,103.93,191616,827028.0865,161513.17,16456573642,Canada
+3418,2017,,NG,0,151.55875,,,2520.95,2517473845,Nigeria
+3419,2017,,BJ,0,6.59625,,,,,Benin
+3420,2017,,KP,,,,,681.93,,North Korea
+3421,2017,,SR,74.24,9.42,,,,,Suriname
+3422,2017,,KH,41.69,95.22444444,,,,333338453.3,Cambodia
+3423,2017,3.32,UA,30.74,12.62111111,,,9208.79,2405123855,Ukraine
+3424,2017,,NA,82.98,55.76777778,,,,275021390.9,Namibia
+3425,2017,,TN,39.58,14.76888889,,,1656.62,716543337.2,Tunisia
+3426,2017,8.46,ES,85.74,140.9155556,318142.348,851353.04,1224198.76,15609102275,Spain
+3427,2017,,BD,34.47,459.39,2333352,,,,Bangladesh
+3428,2017,,TW,,,283024.921,744047.1754,151184.68,,Taiwan
+3429,2017,,ST,82.49,1.801666667,,,,,Sao Tome and Principe
+3430,2017,,JM,26.6,2.891666667,,,,288466553.4,Jamaica
+3431,2017,,KE,43.1,14.99555556,,,460.22,521575479.9,Kenya
+3432,2017,,FK,,,,,40745.54,,
+3433,2017,,KR,,,,,112830.02,,South Korea
+3434,2017,,AW,,,,,90.86,,
+3435,2017,,NR,0,,,,3629.68,,Nauru
+3436,2017,,TT,8.49,1.847142857,,,,,Trinidad and Tobago
+3437,2017,0.36,CN,7.08,9010.955556,64358480.81,13210403,8272771.44,37352518296,Cyprus No Mans Area
+3438,2017,15.51,SE,59.81,35.34571429,14793,221768.9196,129869.12,8158800952,Sweden
+3439,2017,,FJ,16.55,5.323333333,,,48.35,155533933.7,Fiji
+3440,2017,,HN,41.01,9.0125,,,0,363428465,Honduras
+3441,2017,0.6,UY,53.79,6.882222222,,,121182.94,216894380.4,Uruguay
+3442,2017,,SO,0,,,,5802.9,,Somalia
+3443,2017,,AG,29.07,0.53,,,,,Antigua and Barbuda
+3444,2017,,SL,33.33,28.88428571,,,0,,Sierra Leone
+3445,2017,,GT,48.69,6.15,,,,542711646.1,Guatemala
+3446,2017,,GW,,,,,8533.61,,Guinea Bissau
+3447,2017,,SB,3.22,7.447777778,,,,17528887.75,Solomon Islands
+3448,2017,,BB,2.85,0.248333333,,,,,Barbados
+3449,2017,,BS,30.27,1.4275,,,,202617419.7,Bahamas
+3450,2017,36.27,BE,94.01,3.09,75,22141.77,124160.77,10766956285,Belgium
+3451,2017,,BH,0,,,,2348.75,817523544.3,Bahrain
+3452,2017,11.63,AU,64.27,30.49666667,93818.098,166016.3064,100046.36,8894699166,Australia
+3453,2017,,PW,72.3,,,,,9893627.86,Palau
+3454,2017,,SG,3.25,,,,482.15,11056729165,Singapore
+3455,2017,,PA,23.46,17.06333333,,,,438100311.5,Panama
+3456,2017,,GD,30.21,0.285555556,,,,14157125.59,Grenada
+3457,2017,8.68,AS,14.31,,,,,,American Samoa
+3458,2017,1.76,BR,65.61,144.3477778,565196.448,493270.009,63399.14,10678376012,Brazil
+3459,2017,,AO,66.58,84.73666667,,,52156.75,1255045581,Angola
+3460,2017,,GA,63.7,4.15,,,,,Gabon
+3461,2017,7.91,BG,99.65,2.701111111,,,13534.96,813193465,Bulgaria
+3462,2017,,GM,40.3,8.64,,,0,18571348.38,Gambia
+3463,2017,,HT,29.34,2.983333333,,,,,Haiti
+3464,2017,,OM,7.07,49.66142857,,,,952731697.5,Oman
+3465,2017,,SD,47.97,6.77,,,,255180783.6,Sudan
+3466,2017,,GF,,,,,0,,
+3467,2017,,AL,70.7,1.411111111,,,1750.87,174315767.4,Albania
+3468,2017,,SC,25.55,22.69666667,,,,,Seychelles
+3469,2017,,LK,49.97,59.24666667,,,,,Sri Lanka
+3470,2017,,DZ,76.58,11.97875,,,,,Algeria
+3471,2017,,HK,,,,,3267.07,,
+3472,2017,,GN,69.28,21.70833333,,,3787.21,,Guinea
+3473,2017,,PK,14.58,75.49444444,,,0,2156717826,Pakistan
+3474,2017,,BZ,31.22,13.52111111,,,8039,51779347.99,Belize
+3475,2017,,KI,32.92,18.30888889,,,,6301783.835,Kiribati
+3476,2017,,KM,13,3.404,,,11638.83,6164541.992,Comoros
+3477,2017,,FM,,,,,703.52,,Federated States of Micronesia
+3478,2017,18.24,DK,86.99,104.6744444,37498,897041,447670.06,6282010211,Denmark
+3479,2017,,MY,13.71,210.8644444,427515.53,,47935.29,5924660935,Malaysia
+3480,2017,24.3,PL,87.32,44.2,38799.77,135733.7782,118310.81,11448851286,Poland
+3481,2017,,VN,23.89,888.60125,3831777.53,,1244.97,6539760087,Viet Nam
+3482,2017,,ME,0,0.301428571,,,0,125580782.4,Montenegro
+3483,2017,,ER,0,,,,,,Eritrea
+3484,2017,0.47,PE,51.64,428.617,100458.36,4156539,118.72,1556907663,Peru
+3485,2017,,DM,0,0.2,,,0,,Dominica
+3486,2017,,VC,26.33,3.655555556,,,2949.84,,Saint Vincent and the Grenadines
+3487,2017,8.58,CY,49.64,1.503333333,,,12040.14,1318976163,Cyprus
+3488,2017,,PM,,,,,52.49,,
+3489,2017,,CK,,,,,0,,
+3490,2017,,PH,38,458.3544444,2237787,,,,Philippines
+3491,2017,1.86,PR,36.74,,,,,,Puerto Rico
+3492,2017,4.46,PT,68.06,21.38222222,12508.74,175404.62,187789.95,4689485642,Portugal
+3493,2017,,MG,20.31,21.10333333,,,0,110147070.1,Madagascar
+3494,2017,,YE,30.64,18.75571429,,,,300861203.2,Yemen
+3495,2017,,MU,11.06,3.28,,,0,456249187.2,Mauritius
+3496,2017,,MR,37.24,99.32125,,,101.69,59028658.35,Mauritania
+3497,2017,,BN,,,,,0,,Brunei
+3498,2017,,AZ,,0.55,,,0,493222009.8,Azerbaijan
+3499,2017,12.8,DO,81.39,2.2825,,,,665561218.9,Dominican Republic
+3500,2017,,WF,,,,,107.52,,
+3501,2017,,AT,,2.105,3861.6,,,5797697168,Austria
+3502,2017,,EG,43.01,202.5433333,,,,3073708329,Egypt
+3503,2017,0.89,NO,55.13,426.8766667,1308633.787,2247997.295,309815.77,6362575616,Norway
+3504,2017,,MH,7.85,,,,,,Marshall Islands
+3505,2017,,AM,,5.686666667,,,,150504801.7,Armenia
+3506,2017,,KN,51.72,12.20714286,,,2134.86,,Saint Kitts and Nevis
+3507,2017,,MV,0,23.87666667,,,,144182225.8,Maldives
+3508,2017,,AF,,9,,,387.67,,Afghanistan
+3509,2017,,GQ,100,,,,0,,Equatorial Guinea
+3510,2017,,LC,26.25,0.302857143,,,,33889759.41,Saint Lucia
+3511,2017,,LY,0,5.336666667,,,733.95,,Libya
+3512,2017,,VE,32.64,34.06444444,,,0,,Venezuela (Bolivarian Republic of)
+3513,2017,,WS,54.15,1.35875,,,0,25325159.45,Samoa
+3514,2017,11.28,ZA,42.34,59.54888889,,,203244.39,3179595464,South Africa
+3515,2017,,TR,3.85,,276502,322172.5,162281.63,5843408499,Turkey
+3516,2017,,CU,70.06,5.89,,,3441.93,,Cuba
+3517,2017,12.44,CO,54.39,26.78,118485,47437.70878,,1649395155,Colombia
+3518,2017,,MM,19.2,355.4733333,,,0,1200697725,Myanmar
+3519,2017,3.05,SI,59.16,0.2525,1750.1,127.86578,3586.16,969757450.3,Slovenia
+3520,2017,,KW,32.08,0.864,,,,,Kuwait
+3521,2017,,AE,45.44,9.53375,,,0,6360833700,United Arab Emirates
+3522,2017,,FO,16.67,,,,204744.05,,Faroe Islands
+3523,2017,,LB,12.65,0.773333333,,,,811074188.9,Lebanon
+3524,2017,2.61,SA,25.31,17.57142857,,,490.16,8538846268,Saudi Arabia
+3525,2017,2.81,CR,48.66,4.44625,21124,11832.56257,,730669775.8,Costa Rica
+3526,2017,,MA,40.76,173.20625,,,171506.5,1221286778,Morocco
+3527,2017,1.39,RU,23.57,562.7922222,186544,,1434620.07,14853107004,Russian Federation
+3528,2017,,TZ,52.08,61.38777778,,,,,United Republic of Tanzania
+3529,2017,,GH,19.56,62.76142857,,,16624.84,707969805.9,Ghana
+3530,2017,,DJ,0,0.406,,,1689.54,,Djibouti
+3531,2017,,MZ,75.43,36.79555556,,,38947.68,,Mozambique
+3532,2017,,QA,59.99,,,,28.79,1439370339,Qatar
+3533,2017,,LR,96.66,2.121428571,,,5173.82,,Liberia
+3534,2017,9.4,HR,81.68,10.755,,,146592.92,822921548.1,Croatia
+3535,2017,,NC,,,,,0,,Northern Cyprus
+3536,2017,13.42,RO,88.6,3.475,,,1771.04,2770299128,Romania
+3537,2017,,BO,,,,,0,,Bolivia
+3538,2017,,VU,3.3,3.09875,,,0,,Vanuatu
+3539,2018,,PH,38,458.3544444,2304360.747,,,,Philippines
+3540,2018,45.35,DE,77,35.52625,34196,270488.317,195938.22,36146831542,Germany
+3541,2018,,KN,51.72,12.20714286,,,71.9,,Saint Kitts and Nevis
+3542,2018,,ER,0,,,,,,Eritrea
+3543,2018,,FJ,16.55,5.323333333,,,0,106289852.2,Fiji
+3544,2018,8.99,JP,67.08,477.3,1034919.655,3415243,121052.56,28157708669,Japan
+3545,2018,,PA,23.46,17.06333333,,,,441983408.4,Panama
+3546,2018,,FO,16.67,,,,206498.45,,Faroe Islands
+3547,2018,,GQ,100,,,,0,,Equatorial Guinea
+3548,2018,,TJ,,1.58,,,,72640416.8,Tajikistan
+3549,2018,,GA,63.7,4.15,,,,,Gabon
+3550,2018,,SK,,4.52,2224.41,,,1808004052,Slovakia
+3551,2018,,CH,,1.83,1843,,0,,Switzerland
+3552,2018,,FK,,,,,44779.94,,
+3553,2018,,CK,,,,,0,,
+3554,2018,,RW,,28.36,,,,,Rwanda
+3555,2018,,GM,40.3,8.64,,,3230.27,,Gambia
+3556,2018,,PG,1.89,41.31,,,,560134514.9,Papua New Guinea
+3557,2018,,GF,,,,,0,,
+3558,2018,,QA,59.99,,,,4270.2,1281554867,Qatar
+3559,2018,12.8,DO,81.39,2.2825,,,,929628356.5,Dominican Republic
+3560,2018,,PW,72.3,,,,,12323140.64,Palau
+3561,2018,,KI,32.92,18.30888889,,,,3964089.078,Kiribati
+3562,2018,,FM,,,,,0,,Federated States of Micronesia
+3563,2018,,MM,19.2,355.4733333,,,0,1753940707,Myanmar
+3564,2018,4.43,GL,29.67,,,,72910.07,,Greenland
+3565,2018,2.1,IE,80.51,35.75111111,36895.9,213339.28,293339.15,2266893125,Ireland
+3566,2018,,KW,32.08,0.864,,,,1325309416,Kuwait
+3567,2018,,LB,12.65,0.773333333,,,,582276211.9,Lebanon
+3568,2018,,MZ,75.43,36.79555556,,,39999.73,373863655.7,Mozambique
+3569,2018,,LR,96.66,2.121428571,,,5142.8,,Liberia
+3570,2018,,NC,,,,,0,,Northern Cyprus
+3571,2018,2.98,ID,25.53,2514.64,15771806,7195527.071,47.65,6022664882,Indonesia
+3572,2018,,MA,40.76,173.20625,,,189322.27,1338935308,Morocco
+3573,2018,,LY,0,5.336666667,,,355.51,,Libya
+3574,2018,,MG,20.31,21.10333333,,,18551.83,100386840.6,Madagascar
+3575,2018,23.78,GU,3.53,,,,,,Guam
+3576,2018,0.06,IN,19.18,1292.48,7247902,,35710.02,12023765363,India
+3577,2018,,ME,0,0.301428571,,,5834.09,107696450.8,Montenegro
+3578,2018,,PM,,,,,1433.04,,
+3579,2018,,MY,13.71,210.8644444,391977.48,,122835.49,,Malaysia
+3580,2018,,MU,11.06,3.28,,,0,370738558.5,Mauritius
+3581,2018,0.4,IS,15.21,133.9411111,19185,1255079.803,253243.67,449347751.9,Iceland
+3582,2018,,MV,0,23.87666667,,,,164572730.7,Maldives
+3583,2018,,MH,7.85,,,,,,Marshall Islands
+3584,2018,,WF,,,,,0,,
+3585,2018,,MR,37.24,99.32125,,,185.77,,Mauritania
+3586,2018,0.07,IL,14.84,2.59375,17025,,21043.97,1949320644,Israel
+3587,2018,,GH,19.56,62.76142857,,,17208.72,873036522,Ghana
+3588,2018,,NA,82.98,55.76777778,,,,753760289.1,Namibia
+3589,2018,,KE,43.1,14.99555556,,,201.27,469755337.5,Kenya
+3590,2018,,TG,,3.3825,,,0,,Togo
+3591,2018,,GD,30.21,0.285555556,,,,19824938.12,Grenada
+3592,2018,,GW,,,,,18890.97,,Guinea Bissau
+3593,2018,,GT,48.69,6.15,,,,564199587.9,Guatemala
+3594,2018,8.68,AS,14.31,,,,,,American Samoa
+3595,2018,,PK,14.58,75.49444444,,,0,2268347888,Pakistan
+3596,2018,,TM,,7.525,,,,,Turkmenistan
+3597,2018,,GN,69.28,21.70833333,,,5528.77,66887803.85,Guinea
+3598,2018,,HK,,,,,4440.9,,
+3599,2018,,OM,7.07,49.66142857,,,,,Oman
+3600,2018,,HT,29.34,2.983333333,,,,,Haiti
+3601,2018,,UG,,167.3233333,,,,161991863.5,Uganda
+3602,2018,4.69,GR,85.52,22.63888889,132364.52,53579.78455,286194.03,3448278616,Greece
+3603,2018,5.74,IT,75.83,39.37666667,145000.183,199825.4592,1875511.15,18021449362,Italy
+3604,2018,,HN,41.01,9.0125,,,418.52,379234804.3,Honduras
+3605,2018,,NG,0,151.55875,,,24334.44,1774862571,Nigeria
+3606,2018,,UZ,,83.9,,,,802721272.8,Uzbekistan
+3607,2018,,IR,68,150.38125,,,34380.46,1573714780,Iran (Islamic Republic of)
+3608,2018,,KP,,,,,338.28,,North Korea
+3609,2018,,NI,49.95,9.4775,,,,217066453.7,Nicaragua
+3610,2018,,IQ,0,13.406,,,,,Iraq
+3611,2018,,ZM,,57.15,,,,323110994.2,Zambia
+3612,2018,,NR,0,,,,0,,Nauru
+3613,2018,,JM,26.6,2.891666667,,,,341299381.5,Jamaica
+3614,2018,,KR,,,,,172991.83,,South Korea
+3615,2018,,ZW,,13.4,,,,,Zimbabwe
+3616,2018,,BN,,,,,0,,Brunei
+3617,2018,,ST,82.49,1.801666667,,,,,Sao Tome and Principe
+3618,2018,16.37,LV,96.19,16.99142857,829.66,135234.981,48202.46,586213663.1,Latvia
+3619,2018,,TR,3.85,,314537,283954.8,176262.64,5979153716,Turkey
+3620,2018,,TD,,53.745,,,,,Chad
+3621,2018,11.28,ZA,42.61,59.54888889,,,192959.22,2702711304,South Africa
+3622,2018,19.34,EE,97.68,10.4625,943.661,94386.97861,46506.65,899922396.2,Estonia
+3623,2018,,TN,39.58,14.76888889,,,4150.79,844931054,Tunisia
+3624,2018,12.75,ES,85.74,140.9155556,356897.16,920834.17,1248306.21,12865510156,Spain
+3625,2018,,CD,,60.3,,,,,Democratic Republic of the Congo
+3626,2018,,TW,,,284189.551,801198.5863,169219.43,,Taiwan
+3627,2018,26.93,NL,96.65,62.50888889,53485,394746.2996,562693.39,16875919965,Netherlands
+3628,2018,15.61,SE,60.01,35.34571429,13095,214967.7055,150040.02,9286264129,Sweden
+3629,2018,0.36,CN,7.08,9010.955556,66135059.34,12702097,8875167.65,42218246660,Cyprus No Mans Area
+3630,2018,,TT,8.49,1.847142857,,,,,Trinidad and Tobago
+3631,2018,,ET,,28.065,,,,,Ethiopia
+3632,2018,3.71,SI,62.38,0.2525,1943.5,126.25884,3617.03,1672444084,Slovenia
+3633,2018,3.32,UA,30.74,12.62111111,,,8409.19,,Ukraine
+3634,2018,,TO,19.17,,,,,,Tonga
+3635,2018,26.62,GB,85.29,106.5777778,189951.352,700173.0901,930672.51,22715311520,United Kingdom of Great Britain and Northern Ireland
+3636,2018,,GY,,8.734,,,,,Guyana
+3637,2018,,TH,47.54,263.25,921313.13,1502831,7026.15,11898530306,Thailand
+3638,2018,19.11,US,31.82,608.8911111,466174.392,4934883,875861.85,76598903608,United States of America
+3639,2018,3.14,CA,35.53,103.93,191373,803172.1874,202800.42,17165713229,Canada
+3640,2018,,SV,46.54,7.41125,,,,349980617.2,El Salvador
+3641,2018,,SR,74.24,9.42,,,,,Suriname
+3642,2018,,HU,,11.93,17852.3,,2012.45,4019297887,Hungary
+3643,2018,12.09,FI,60.67,51.245,14163.7,147580,46120.57,2937235361,Finland
+3644,2018,22.19,MX,61.9,208.96,247222.423,1772336.45,1333.68,14817645338,Mexico
+3645,2018,0.84,VI,31.47,,,,,,United States Virgin Islands
+3646,2018,0.6,UY,53.79,6.882222222,,,117524.05,357055007.8,Uruguay
+3647,2018,36.68,CL,25.84,355.417,1287232.58,2357237,26286.48,2504994834,Chile
+3648,2018,12.53,CO,54.81,26.78,132756.22,47440.88676,,1833717399,Colombia
+3649,2018,,CF,,14.57,,,,,Central African Republic
+3650,2018,,AE,48.61,9.53375,,,0,5847866975,United Arab Emirates
+3651,2018,,AZ,,0.55,,,0,491894580.6,Azerbaijan
+3652,2018,,BY,,5.565,,,,1414841744,Belarus
+3653,2018,26.87,MP,47.94,,,,,,Northern Mariana Islands
+3654,2018,,AT,,2.105,3990.6,,,5258111731,Austria
+3655,2018,0.89,NO,55.13,426.8766667,1355116.799,2340437.061,351055.62,6773035983,Norway
+3656,2018,,AM,,5.686666667,,,,,Armenia
+3657,2018,,BA,,1.0175,,,,302942203.1,Bosnia and Herzegovina
+3658,2018,,AF,,9,,,670.12,,Afghanistan
+3659,2018,18.24,DK,86.99,104.6744444,36453,782129.6,488686.6,9957245700,Denmark
+3660,2018,,YE,30.64,18.75571429,,,,,Yemen
+3661,2018,0.47,PE,51.64,428.617,141224.38,7189172.468,0,1329004416,Peru
+3662,2018,,BW,,0.05,,,,158167790.4,Botswana
+3663,2018,,VN,23.89,888.60125,4162822.5,,15896.5,7511965012,Viet Nam
+3664,2018,24.3,PL,87.32,44.2,43361.335,153450.6544,119474.57,11762259621,Poland
+3665,2018,8.58,CY,49.64,1.503333333,,,11270.49,248672861.5,Cyprus
+3666,2018,4.46,PT,68.28,21.38222222,13991.176,172134.96,181290.51,4049221341,Portugal
+3667,2018,,BF,,11.17,,,,86466017.06,Burkina Faso
+3668,2018,13,EC,70.31,123.6355556,,,,1205806746,Ecuador
+3669,2018,1.86,PR,36.74,,,,,,Puerto Rico
+3670,2018,,BI,,20.4,,,,,Burundi
+3671,2018,9.4,HR,81.68,10.755,,,132485.16,787466113,Croatia
+3672,2018,29.81,NZ,47.08,60.88,104549,400333.314,153114.68,1686799862,New Zealand
+3673,2018,,VU,3.3,3.09875,,,0,,Vanuatu
+3674,2018,20.91,RO,88.6,3.475,,,841.35,2787858968,Romania
+3675,2018,,CM,,29.4375,,,4110.96,434264044.1,Cameroon
+3676,2018,2.81,CR,48.66,4.44625,21955,14083.84152,,704949099.7,Costa Rica
+3677,2018,,TZ,52.08,61.38777778,,,,,United Republic of Tanzania
+3678,2018,1.96,RU,23.57,562.7922222,204032,,1472013.83,15103719153,Russian Federation
+3679,2018,2.61,SA,25.31,17.57142857,,,15760.32,7712712532,Saudi Arabia
+3680,2018,7.91,BG,99.65,2.701111111,,,14930.97,960047791.6,Bulgaria
+3681,2018,,JO,,0.44,,,,534279326.2,Jordan
+3682,2018,,CZ,,,21751,,,,Czech Republic
+3683,2018,,SD,47.97,6.77,,,,285077170.3,Sudan
+3684,2018,,MW,,105.835,,,,86923708.63,Malawi
+3685,2018,45.55,FR,79.86,77.85666667,187465.08,482205.2584,1181536.1,20709353023,France
+3686,2018,,BB,2.85,0.248333333,,,,,Barbados
+3687,2018,,SC,25.55,22.69666667,,,,287108777.4,Seychelles
+3688,2018,,BZ,31.22,13.52111111,,,10687.8,40562827.72,Belize
+3689,2018,,ML,,110.14,,,,179445804.7,Mali
+3690,2018,45.43,AR,42.33,93.18,3205.31,791636.128,485206.35,2426392189,Argentina
+3691,2018,,BJ,0,6.59625,,,,187852703.8,Benin
+3692,2018,,SN,25.26,62.33875,,,111734.81,,Senegal
+3693,2018,,KH,51.03,95.22444444,,,,455422562.9,Cambodia
+3694,2018,,MN,,0.02,,,0,133506872.1,Mongolia
+3695,2018,22.94,LT,83.45,10.39111111,3744.43,68954.611,31872.18,1622725152,Lithuania
+3696,2018,,SL,33.33,28.88428571,,,0,,Sierra Leone
+3697,2018,,KM,13,3.404,,,0,4706990.273,Comoros
+3698,2018,,NP,,77.16,,,,,Nepal
+3699,2018,,CU,70.06,5.89,,,0,,Cuba
+3700,2018,,WS,54.15,1.35875,,,882.09,16637649.65,Samoa
+3701,2018,,DJ,0,0.406,,,2310.3,,Djibouti
+3702,2018,,BO,,,,,253.46,,Bolivia
+3703,2018,,VC,26.33,3.655555556,,,662.28,,Saint Vincent and the Grenadines
+3704,2018,,NE,,17.465,,,,77388858.73,Niger
+3705,2018,0.67,GE,35.64,16.72,,,4544.26,307219065.4,Georgia
+3706,2018,,DM,0,0.2,,,0,,Dominica
+3707,2018,,EG,43.01,202.5433333,,,,,Egypt
+3708,2018,,LC,26.25,0.302857143,,,,29835564.65,Saint Lucia
+3709,2018,,PY,,12.09,,,,327131124,Paraguay
+3710,2018,,AW,,,,,0,,
+3711,2018,40.97,AU,64.6,30.49666667,97671.92,173433.5057,136730.07,14928990338,Australia
+3712,2018,,VE,32.64,34.06444444,,,0,,Venezuela (Bolivarian Republic of)
+3713,2018,,AG,29.07,0.53,,,,,Antigua and Barbuda
+3714,2018,26.65,BR,66.47,144.3477778,581637.705,489381.552,130359.63,8393463030,Brazil
+3715,2018,,AO,66.58,84.73666667,,,69323.23,974375356.2,Angola
+3716,2018,,KG,,2.19,,,,,Kyrgyzstan
+3717,2018,7.85,MT,89.54,1.324285714,,,8139.3,991865321.1,Malta
+3718,2018,,KZ,,16.36,,,,2258146090,Kazakhstan
+3719,2018,,DZ,76.58,11.97875,,,,,Algeria
+3720,2018,,SO,0,,,,0,,Somalia
+3721,2018,,SB,3.22,7.447777778,,,,24336461.87,Solomon Islands
+3722,2018,,BS,30.27,1.4275,,,,,Bahamas
+3723,2018,,SG,3.25,,,,1411.7,8057599102,Singapore
+3724,2018,,LK,49.97,59.24666667,,,,620387417.7,Sri Lanka
+3725,2018,,BH,0,,,,339.05,958982534.6,Bahrain
+3726,2018,,AL,70.7,1.411111111,,,9280.17,131638491.5,Albania
+3727,2018,,BD,34.47,459.39,2405416,,,,Bangladesh
+3728,2018,,LS,,1.35,,,,,Lesotho
+3729,2018,36.27,BE,94.01,3.09,111,20632.623,128681.6,11142785401,Belgium
+3730,2019,8.58,CY,49.64,1.503333333,,,12196.33,1710567997,Cyprus
+3731,2019,,CK,,,,,1830.81,,
+3732,2019,4.69,GR,85.52,22.63888889,128821.578,73213.79874,266255.4,3338093470,Greece
+3733,2019,8.8,CA,35.62,103.93,187226,743232.9421,235946.11,15395269538,Canada
+3734,2019,40.97,AU,64.6,30.49666667,94085.535,167022.2675,157270.45,9317510362,Australia
+3735,2019,23.78,GU,3.53,,,,,,Guam
+3736,2019,,BO,,,,,0,,Bolivia
+3737,2019,26.65,BR,66.47,144.3477778,600300.09,485425.108,199230.26,9538570866,Brazil
+3738,2019,,AW,,,,,0,,
+3739,2019,0.67,GE,35.64,16.72,,,22962.71,254958581.5,Georgia
+3740,2019,,HK,,,,,3793.73,,
+3741,2019,7.91,BG,99.65,2.701111111,,,29136.12,1084579133,Bulgaria
+3742,2019,,BN,,,,,87.42,,Brunei
+3743,2019,,PM,,,,,888.41,,
+3744,2019,18.24,DK,86.99,104.6744444,40221.49,632257.6,476085.73,7363193016,Denmark
+3745,2019,13,EC,70.31,123.6355556,,,,870347727.2,Ecuador
+3746,2019,9.4,HR,81.68,10.755,,,136293.84,983377447.2,Croatia
+3747,2019,8.68,AS,14.31,,,,,,American Samoa
+3748,2019,19.48,EE,97.68,10.4625,1061.971,83923.72484,49351.15,639089260.6,Estonia
+3749,2019,,GF,,,,,0,,
+3750,2019,0.48,CN,7.08,9010.955556,68423859,12171667,10271235.97,50796336940,Cyprus No Mans Area
+3751,2019,,TW,,,292484.472,744831.208,216061.54,,Taiwan
+3752,2019,12.53,CO,54.81,26.78,171025.445,71198.95086,,1638464612,Colombia
+3753,2019,12.09,FI,60.67,51.245,15295.8,135059,47421.62,2683212953,Finland
+3754,2019,46.48,AR,42.33,93.18,2592.19,781303.148,520963.21,2185857327,Argentina
+3755,2019,,FM,,,,,0,,Federated States of Micronesia
+3756,2019,45.57,FR,81.89,77.85666667,196151.36,503959.1615,1201981.34,24681006702,France
+3757,2019,45.35,DE,77,35.52625,40756,192937.245,177729.86,38842131356,Germany
+3758,2019,40.7,CL,29.9,355.417,1407289,2371212,29808.57,2554187274,Chile
+3759,2019,2.81,CR,48.66,4.44625,22046,17612.05314,,1181644248,Costa Rica
+3760,2019,36.27,BE,94.01,3.09,86,19308.967,129642.8,7625823307,Belgium
+3761,2019,,FK,,,,,31499.71,,
+3762,2019,,NC,,,,,81.06,,Northern Cyprus
+3763,2019,,KP,,,,,0,,North Korea
+3764,2019,,KR,,,,,284053.16,,South Korea
+3765,2019,12.8,DO,81.39,2.2825,,,,974776682.5,Dominican Republic
+3766,2019,,GW,,,,,18016.23,,Guinea Bissau
+3767,2019,4.43,GL,29.67,,,,100754.42,108114690.1,Greenland
+3768,2019,,MH,7.85,,,,,,Marshall Islands
+3769,2019,,CZ,,,20986,,,,Czech Republic
+3770,2019,,PW,72.3,,,,,7568484.859,Palau
+3771,2019,1.86,PR,36.74,,,,,,Puerto Rico
+3772,2019,,GH,19.56,62.76142857,,,12591.02,639193683.8,Ghana
+3773,2019,,PA,23.46,17.06333333,,,,369899097.4,Panama
+3774,2019,,VU,3.3,3.09875,,,0,,Vanuatu
+3775,2019,20.91,RO,88.6,3.475,,,962.42,3770646421,Romania
+3776,2019,,GM,40.3,8.64,,,123.56,,Gambia
+3777,2019,,WF,,,,,0,,
+3778,2019,,GD,30.21,0.285555556,,,,18589328.44,Grenada
+3779,2019,,TZ,52.08,61.38777778,,,,,United Republic of Tanzania
+3780,2019,,GA,63.7,4.15,,,,,Gabon
+3781,2019,,PG,1.89,41.31,,,,,Papua New Guinea
+3782,2019,2.61,SA,25.31,17.57142857,,,29104.36,6479450809,Saudi Arabia
+3783,2019,,AE,48.61,9.53375,,,97.15,5844238650,United Arab Emirates
+3784,2019,,FJ,16.55,5.323333333,,,0,129740572.6,Fiji
+3785,2019,3.71,SI,62.38,0.2525,2143.9,120.07596,4804.79,761652941.2,Slovenia
+3786,2019,,PH,38,458.3544444,2358238.376,,,3249930896,Philippines
+3787,2019,,TR,3.85,,373356,431571.7,185371.78,6314924062,Turkey
+3788,2019,1.96,RU,23.57,562.7922222,248293,,1531151.97,15061436846,Russian Federation
+3789,2019,14.66,ZA,46.57,59.54888889,,,209200.88,2579386956,South Africa
+3790,2019,,VE,32.64,34.06444444,,,2734.83,,Venezuela (Bolivarian Republic of)
+3791,2019,4.46,PT,68.28,21.38222222,13690.77,190612.61,179788.39,3317161632,Portugal
+3792,2019,26.87,MP,47.94,,,,,,Northern Mariana Islands
+3793,2019,,BY,,5.565,,,,1496759208,Belarus
+3794,2019,,IR,68,150.38125,,,13928.62,,Iran (Islamic Republic of)
+3795,2019,,HN,41.01,9.0125,,,239.03,299553181.8,Honduras
+3796,2019,,AZ,,0.55,,,70.81,491674308.7,Azerbaijan
+3797,2019,,AT,,2.105,4250.025,,,5784551075,Austria
+3798,2019,,AM,,5.686666667,,,,106793784.2,Armenia
+3799,2019,0.89,NO,55.13,426.8766667,1453042.383,2140104.546,354831.07,7845122611,Norway
+3800,2019,,GT,48.69,6.15,,,,630916706,Guatemala
+3801,2019,,NG,0,151.55875,,,18479.26,3331337846,Nigeria
+3802,2019,,HT,29.34,2.983333333,,,,,Haiti
+3803,2019,,YE,30.64,18.75571429,,,,35049990.62,Yemen
+3804,2019,0.47,PE,51.64,428.617,161278.604,4832529.157,0,1446179203,Peru
+3805,2019,,OM,7.07,49.66142857,,,,830302986.5,Oman
+3806,2019,,VN,23.89,888.60125,4500719,,65686.98,9209451409,Viet Nam
+3807,2019,,BB,2.85,0.248333333,,,,,Barbados
+3808,2019,,GN,69.28,21.70833333,,,20044.86,167936853.9,Guinea
+3809,2019,,PK,14.58,75.49444444,,,142.31,1448662351,Pakistan
+3810,2019,,AF,,9,,,0,,Afghanistan
+3811,2019,,FO,16.67,,,,196508.47,,Faroe Islands
+3812,2019,,ER,0,,,,,,Eritrea
+3813,2019,,QA,59.99,,,,1805.11,1822890171,Qatar
+3814,2019,,AL,70.7,1.411111111,,,25977.13,133490797.6,Albania
+3815,2019,,KM,13,3.404,,,0,5665117.741,Comoros
+3816,2019,,LK,49.97,59.24666667,,,,632672469.2,Sri Lanka
+3817,2019,,ST,82.49,1.801666667,,,,,Sao Tome and Principe
+3818,2019,,DZ,76.58,11.97875,,,,1822868720,Algeria
+3819,2019,,KH,51.03,95.22444444,,,,559159288.5,Cambodia
+3820,2019,,SO,0,,,,96.8,,Somalia
+3821,2019,,AO,66.58,84.73666667,,,50126.37,2138756559,Angola
+3822,2019,,SD,47.97,6.77,,,,277838778,Sudan
+3823,2019,,SN,25.26,62.33875,,,141716.26,186660746.8,Senegal
+3824,2019,,BJ,0,6.59625,,,,140996406.7,Benin
+3825,2019,,SB,3.22,7.447777778,,,,,Solomon Islands
+3826,2019,,BS,30.27,1.4275,,,,167484808,Bahamas
+3827,2019,,BZ,31.22,13.52111111,,,8422.65,37701873.98,Belize
+3828,2019,,SG,3.25,,,,4023.17,7282759264,Singapore
+3829,2019,,BH,0,,,,909.58,,Bahrain
+3830,2019,,SC,25.55,22.69666667,,,,583442846.8,Seychelles
+3831,2019,,BD,34.47,459.39,2488600,,,,Bangladesh
+3832,2019,,AG,29.07,0.53,,,,,Antigua and Barbuda
+3833,2019,,CU,70.06,5.89,,,0,,Cuba
+3834,2019,,WS,54.15,1.35875,,,0,16422465.82,Samoa
+3835,2019,0.6,UY,53.79,6.882222222,,,122122.09,387013430.4,Uruguay
+3836,2019,,TN,39.58,14.76888889,,,9995.7,,Tunisia
+3837,2019,13.05,ES,85.74,140.9155556,311033.454,,1292149.67,13070432726,Spain
+3838,2019,,GQ,100,,,,740.73,,Equatorial Guinea
+3839,2019,,KN,51.72,12.20714286,,,49.43,,Saint Kitts and Nevis
+3840,2019,,TT,8.49,1.847142857,,,,,Trinidad and Tobago
+3841,2019,15.69,SE,60.23,35.34571429,11579.3,178226.145,147737.78,9064865986,Sweden
+3842,2019,3.32,UA,30.74,12.62111111,,,10380.62,2202692256,Ukraine
+3843,2019,,SV,46.56,7.41125,,,,,El Salvador
+3844,2019,,EG,43.01,202.5433333,,,,2869339274,Egypt
+3845,2019,,TO,19.17,,,,,,Tonga
+3846,2019,41.37,GB,85.31,106.5777778,233238.219,619548.0788,925690.41,22606542381,United Kingdom of Great Britain and Northern Ireland
+3847,2019,,LC,26.25,0.302857143,,,,,Saint Lucia
+3848,2019,,TH,47.54,263.25,963265.54,,17760.3,13494568443,Thailand
+3849,2019,19.11,US,31.82,608.8911111,490304.704,4951855,860195.24,80733039983,United States of America
+3850,2019,,DM,0,0.2,,,0,,Dominica
+3851,2019,,VC,26.33,3.655555556,,,0,,Saint Vincent and the Grenadines
+3852,2019,,SR,74.24,9.42,,,,,Suriname
+3853,2019,0.84,VI,31.47,,,,,,United States Virgin Islands
+3854,2019,,DJ,0,0.406,,,0,,Djibouti
+3855,2019,,BA,,1.0175,,,,360716760.7,Bosnia and Herzegovina
+3856,2019,,BW,,0.05,,,,148265809.3,Botswana
+3857,2019,24.3,PL,87.32,44.2,44719,121317.0853,111883.42,11410708669,Poland
+3858,2019,,BF,,11.17,,,,111339600.2,Burkina Faso
+3859,2019,,LR,96.66,2.121428571,,,4823.59,,Liberia
+3860,2019,,MZ,75.43,36.79555556,,,42158.42,327108329.2,Mozambique
+3861,2019,8.99,JP,67.08,477.3,946642.842,3268357,140286.53,29659374473,Japan
+3862,2019,,CH,,1.83,2048.1,,158.12,,Switzerland
+3863,2019,,SK,,4.52,2687.54,,,2174649251,Slovakia
+3864,2019,,RW,,28.36,,,,51741862.21,Rwanda
+3865,2019,16.37,LV,96.19,16.99142857,608.64,110588.914,32317.11,635380127.2,Latvia
+3866,2019,,LB,12.65,0.773333333,,,,613436449.2,Lebanon
+3867,2019,,NE,,17.465,,,,,Niger
+3868,2019,,NP,,77.16,,,,122927031.3,Nepal
+3869,2019,,MN,,0.02,,,0,93530630.33,Mongolia
+3870,2019,22.94,LT,83.45,10.39111111,4214.648,103947.442,25157.92,1225043089,Lithuania
+3871,2019,,KW,32.08,0.864,,,,1563293751,Kuwait
+3872,2019,,MM,19.2,355.4733333,,,0,774916555.5,Myanmar
+3873,2019,,ML,,110.14,,,,160563605.4,Mali
+3874,2019,,MW,,105.835,,,,64172849.13,Malawi
+3875,2019,,LS,,1.35,,,,33987306.69,Lesotho
+3876,2019,,TJ,,1.58,,,,,Tajikistan
+3877,2019,7.85,MT,89.54,1.324285714,,,9317.5,1096003423,Malta
+3878,2019,,TG,,3.3825,,,0,92415584.15,Togo
+3879,2019,5.87,IT,76,39.37666667,132377.8,180060.2783,1874650.21,16794237398,Italy
+3880,2019,0.4,IS,15.21,133.9411111,33958.864,,226704.21,561763061,Iceland
+3881,2019,,MR,37.24,99.32125,,,412.97,,Mauritania
+3882,2019,,MV,0,23.87666667,,,,60357735.89,Maldives
+3883,2019,0.06,IN,19.18,1292.48,7933000,,66987.85,10057997997,India
+3884,2019,,MU,11.06,3.28,,,132.4,560558247.9,Mauritius
+3885,2019,2.98,ID,25.53,2514.64,15425627,,2129.31,6884149517,Indonesia
+3886,2019,,MY,13.71,210.8644444,412281.035,,174841.47,6204495192,Malaysia
+3887,2019,2.37,IE,81.94,35.75111111,37913.7,,278626.05,4025074201,Ireland
+3888,2019,,ME,17.81,0.301428571,,,8789.61,87414618.76,Montenegro
+3889,2019,0.07,IL,14.84,2.59375,16950,,16050.15,2012273474,Israel
+3890,2019,,ZW,,13.4,,,,174307434.3,Zimbabwe
+3891,2019,,MG,20.31,21.10333333,,,62282.1,121320752.5,Madagascar
+3892,2019,,ZM,,57.15,,,,264587704.6,Zambia
+3893,2019,,LY,0,5.336666667,,,708.35,,Libya
+3894,2019,,MA,43.32,173.20625,,,203561.7,,Morocco
+3895,2019,,UZ,,83.9,,,,,Uzbekistan
+3896,2019,,UG,,167.3233333,,,,150978192.2,Uganda
+3897,2019,,TM,,7.525,,,,,Turkmenistan
+3898,2019,,KI,32.92,18.30888889,,,,4887777.618,Kiribati
+3899,2019,,PY,,12.09,,,,327690617.7,Paraguay
+3900,2019,,SL,33.33,28.88428571,,,0,46399229.99,Sierra Leone
+3901,2019,,KG,,2.19,,,,,Kyrgyzstan
+3902,2019,,CD,,60.3,,,,,Democratic Republic of the Congo
+3903,2019,,ET,,28.065,,,,596530173,Ethiopia
+3904,2019,26.93,NL,96.65,62.50888889,46350,309892.9689,469696.93,18467468908,Netherlands
+3905,2019,,NR,0,,,,0,,Nauru
+3906,2019,,GY,,8.734,,,,,Guyana
+3907,2019,,TD,,53.745,,,,,Chad
+3908,2019,,KE,43.1,14.99555556,,,425.45,,Kenya
+3909,2019,,CF,,14.57,,,,,Central African Republic
+3910,2019,,CM,,29.4375,,,28772.21,439841327.8,Cameroon
+3911,2019,,HU,,11.93,17283.305,,2906.38,4278814921,Hungary
+3912,2019,29.81,NZ,47.08,60.88,114582,420872.6978,175579.84,1477668189,New Zealand
+3913,2019,22.19,MX,61.9,208.96,251242.01,1541932.711,1431.76,12973883937,Mexico
+3914,2019,,JM,26.6,2.891666667,,,,,Jamaica
+3915,2019,,JO,,0.44,,,,562371326.2,Jordan
+3916,2019,,KZ,,16.36,,,,1846034868,Kazakhstan
+3917,2019,,NA,82.98,55.76777778,,,,549959962.6,Namibia
+3918,2019,,NI,49.95,9.4775,,,,214469438.4,Nicaragua
+3919,2019,,BI,,20.4,,,,14650997.37,Burundi
+3920,2019,,IQ,0,13.406,,,,,Iraq
+3921,2020,,AZ,,,,,138.81,322600522.5,Azerbaijan
+3922,2020,,NR,0,,,,0,,Nauru
+3923,2020,,WS,54.15,,,,0,18445549.58,Samoa
+3924,2020,,LY,0,,,,843.87,,Libya
+3925,2020,,MU,11.06,,,,95.76,370716952.3,Mauritius
+3926,2020,46.48,AR,42.33,,2084.5,789779.36,418388.74,2508237851,Argentina
+3927,2020,,NG,0,,,,11546.23,,Nigeria
+3928,2020,,SC,71.86,,,,,,Seychelles
+3929,2020,,BB,2.85,,,,,,Barbados
+3930,2020,,HT,29.34,,,,,,Haiti
+3931,2020,,DJ,0,,,,0,,Djibouti
+3932,2020,,VC,26.33,,,,0,,Saint Vincent and the Grenadines
+3933,2020,,NI,49.95,,,,,312020811.5,Nicaragua
+3934,2020,,CU,70.06,,,,0,,Cuba
+3935,2020,,AW,,,,,0,,
+3936,2020,,MV,0,,,,,96064792.73,Maldives
+3937,2020,,BJ,0,,,,,153937920.8,Benin
+3938,2020,,AF,,,,,0,32129685.57,Afghanistan
+3939,2020,,IR,68,,,,11850.62,1491878649,Iran (Islamic Republic of)
+3940,2020,,SN,25.26,,,,164768.97,240159636.1,Senegal
+3941,2020,,IQ,0,,,,,,Iraq
+3942,2020,,MY,13.71,,400016.99,,147616.01,6327445909,Malaysia
+3943,2020,,TG,,,,,0,76242824.26,Togo
+3944,2020,,PM,,,,,581.67,,
+3945,2020,,HN,41.01,,,,789.31,340554234.7,Honduras
+3946,2020,,KH,51.03,,,,,238154311.7,Cambodia
+3947,2020,,HK,,,,,5647.88,,
+3948,2020,,ST,82.49,,,,,,Sao Tome and Principe
+3949,2020,,BZ,31.22,,,,15444.54,,Belize
+3950,2020,,ME,17.81,,,,5681.56,110534780.3,Montenegro
+3951,2020,,KM,13,,,,0,8134814.387,Comoros
+3952,2020,,MR,37.24,,,,5860.32,1293513599,Mauritania
+3953,2020,,MG,20.31,,,,58846.1,122817415.5,Madagascar
+3954,2020,,GF,,,,,0,,
+3955,2020,,NC,,,,,0,,Northern Cyprus
+3956,2020,,FO,16.67,,,,183966.09,,Faroe Islands
+3957,2020,,PH,38,,2322831.427,,,4072194736,Philippines
+3958,2020,,FM,,,,,0,,Federated States of Micronesia
+3959,2020,,GW,,,,,14340.81,,Guinea Bissau
+3960,2020,,FJ,16.55,,,,0,161071005,Fiji
+3961,2020,,PG,1.89,,,,,,Papua New Guinea
+3962,2020,,FK,,,,,37231.7,,
+3963,2020,8.68,AS,14.31,,,,,,American Samoa
+3964,2020,,MN,,,,,75.57,187890067.6,Mongolia
+3965,2020,,GD,30.21,,,,,,Grenada
+3966,2020,,NA,82.98,,,,,287017131.2,Namibia
+3967,2020,,MM,19.2,,,,402.91,917506624.2,Myanmar
+3968,2020,,KI,32.92,,,,,,Kiribati
+3969,2020,,GA,63.7,,,,,,Gabon
+3970,2020,,PW,72.3,,,,,,Palau
+3971,2020,,GM,40.3,,,,0,,Gambia
+3972,2020,,PA,23.46,,,,,,Panama
+3973,2020,,GH,19.56,,,,11121.74,647884495.8,Ghana
+3974,2020,,KE,43.1,,,,0,496813235.2,Kenya
+3975,2020,,KW,32.08,,,,,1772733201,Kuwait
+3976,2020,,PK,14.58,,,,0,1700204701,Pakistan
+3977,2020,,CK,,,,,6845.86,,
+3978,2020,,MA,43.32,,,,193877.11,,Morocco
+3979,2020,,DM,0,,,,0,,Dominica
+3980,2020,,JM,26.6,,,,,234920802.6,Jamaica
+3981,2020,,LR,96.66,,,,5088.54,,Liberia
+3982,2020,,EG,43.01,,,,,4076589788,Egypt
+3983,2020,,OM,7.07,,,,,856776621.7,Oman
+3984,2020,,SV,46.56,,,,,300031279.6,El Salvador
+3985,2020,,BN,,,,,0,,Brunei
+3986,2020,,GN,69.28,,,,21324.71,,Guinea
+3987,2020,,CM,,,,,52062.64,,Cameroon
+3988,2020,,KN,51.72,,,,646.25,,Saint Kitts and Nevis
+3989,2020,,MZ,75.43,,,,43583.13,,Mozambique
+3990,2020,,LB,12.65,,,,,475521404,Lebanon
+3991,2020,,GQ,100,,,,0,,Equatorial Guinea
+3992,2020,,QA,59.99,,,,680.82,1750282960,Qatar
+3993,2020,,KR,,,,,298057.21,,South Korea
+3994,2020,,GT,48.69,,,,,624220348.1,Guatemala
+3995,2020,,KP,,,,,0,,North Korea
+3996,2020,,ER,0,,,,,,Eritrea
+3997,2020,,BO,,,,,0,,Bolivia
+3998,2020,,LC,26.25,,,,,,Saint Lucia
+3999,2020,8.8,CA,35.62,,171007,719249.0421,243130.35,17935600588,Canada
+4000,2020,,BD,34.47,,2583866,,,,Bangladesh
+4001,2020,12.8,DO,81.39,,,,,1000012194,Dominican Republic
+4002,2020,0.89,NO,55.13,,1490412.045,2265306.721,364575.76,7197827586,Norway
+4003,2020,18.24,DK,86.99,,42629,728265.6,441132.18,7259244256,Denmark
+4004,2020,,YE,30.64,,,,,,Yemen
+4005,2020,0.47,PE,51.64,,143829.723,5658916.509,0,1293111275,Peru
+4006,2020,,VN,23.89,,4614692,,35142.66,4723747463,Viet Nam
+4007,2020,,CH,,,2048.1,,0,,Switzerland
+4008,2020,8.58,CY,49.64,,,,11812.01,2174386130,Cyprus
+4009,2020,24.3,PL,87.32,,47700,113967.1955,105554.59,9675926008,Poland
+4010,2020,4.46,PT,68.28,,14551.75,161295.8691,169038.17,3190007012,Portugal
+4011,2020,26.87,MP,47.94,,,,,,Northern Mariana Islands
+4012,2020,,VE,32.64,,,,940.01,,Venezuela (Bolivarian Republic of)
+4013,2020,,SL,33.33,,,,32.28,,Sierra Leone
+4014,2020,9.4,HR,81.68,,,,127432.38,1310906662,Croatia
+4015,2020,1.86,PR,36.74,,,,,,Puerto Rico
+4016,2020,,VU,3.3,,,,0,,Vanuatu
+4017,2020,20.91,RO,88.6,,,,1812.44,3703436516,Romania
+4018,2020,2.87,CR,48.66,,16268.95,25632.56843,,685311051.7,Costa Rica
+4019,2020,,TZ,52.08,,,,,,United Republic of Tanzania
+4020,2020,2.02,RU,23.57,,291194,,1556591.3,12233020607,Russian Federation
+4021,2020,,AE,48.61,,,,0,4449669057,United Arab Emirates
+4022,2020,12.53,CO,54.81,,179350.99,71113.74251,,2125969609,Colombia
+4023,2020,,MH,7.85,,,,,,Marshall Islands
+4024,2020,2.61,SA,25.31,,,,9701.94,10067095214,Saudi Arabia
+4025,2020,,SK,,,2296,,,2149407988,Slovakia
+4026,2020,29.81,NZ,47.08,,118582,366452.963,188970,1792781193,New Zealand
+4027,2020,0.4,IS,15.21,,40595.06,,216100.93,523359015.7,Iceland
+4028,2020,23.78,GU,3.53,,,,,,Guam
+4029,2020,0.06,IN,19.18,,8641286,,35507.27,10135719386,India
+4030,2020,2.98,ID,25.53,,14845014,,33947.06,5787000337,Indonesia
+4031,2020,,AT,,,4527.368,,,6346525838,Austria
+4032,2020,4.43,GL,29.67,,,,111461.07,31318921.26,Greenland
+4033,2020,2.37,IE,81.94,,37750.7,,249926.29,3159545589,Ireland
+4034,2020,0.07,IL,14.84,,14700,,10468.63,2387992386,Israel
+4035,2020,4.69,GR,85.52,,131737.165,50280.05093,262717.61,5428067133,Greece
+4036,2020,5.87,IT,76,,122778.259,136392.373,1802262.06,16821330600,Italy
+4037,2020,13,EC,70.31,,,,,1040720724,Ecuador
+4038,2020,45.35,DE,77,,32258,181133.642,188174.68,35941921597,Germany
+4039,2020,8.99,JP,67.08,,996297.329,3164413,147901.93,30902949199,Japan
+4040,2020,0.67,GE,35.64,,,,19916.54,301538857.7,Georgia
+4041,2020,16.37,LV,96.19,,717.45,103264.951,42110.23,579604956.7,Latvia
+4042,2020,22.94,LT,83.45,,4477.45,87154.49,37388.34,1246337598,Lithuania
+4043,2020,45.57,FR,81.89,,191350,436190.379,1073755.68,24102482089,France
+4044,2020,7.85,MT,89.54,,,,7460.38,1820412145,Malta
+4045,2020,12.09,FI,60.67,,15052.9,112315,44326.83,2921134651,Finland
+4046,2020,22.19,MX,61.9,,278693.813,1662203.463,678.65,13002566849,Mexico
+4047,2020,19.48,EE,97.68,,1090.15,70811.32911,45904.94,722264486.4,Estonia
+4048,2020,26.93,NL,96.65,,39940,297865.8606,530354.71,13418756128,Netherlands
+4049,2020,,HU,,,18373.345,,343.23,3468621379,Hungary
+4050,2020,3.71,SI,62.38,,1672.6,155.90598,5335.29,841723255.2,Slovenia
+4051,2020,,WF,,,,,0,,
+4052,2020,,TR,3.85,,421411,331280.8,139795.54,6005312915,Turkey
+4053,2020,40.7,CL,29.9,,1505486,2603715,24355.19,2455353902,Chile
+4054,2020,,AL,70.7,,,,26772.91,109387730.9,Albania
+4055,2020,41.46,GB,85.31,,220999.859,624807.5827,740815.46,19134024166,United Kingdom of Great Britain and Northern Ireland
+4056,2020,,AG,29.07,,,,,,Antigua and Barbuda
+4057,2020,,TH,47.54,,962466.91,,17913.73,11588033726,Thailand
+4058,2020,,AO,66.58,,,,59204.8,,Angola
+4059,2020,,CZ,,,20401,,,,Czech Republic
+4060,2020,,SO,0,,,,1725.24,,Somalia
+4061,2020,19.11,US,31.82,,448534.606,4351990,1147258.18,89673135710,United States of America
+4062,2020,,DZ,76.58,,,,,2068001330,Algeria
+4063,2020,,SR,74.24,,,,,,Suriname
+4064,2020,0.84,VI,31.47,,,,,,United States Virgin Islands
+4065,2020,26.65,BR,66.47,,630200.2,484480.634,183201.47,6972670945,Brazil
+4066,2020,,LK,49.97,,,,,655289188.5,Sri Lanka
+4067,2020,7.91,BG,99.65,,,,32478.96,724146960.3,Bulgaria
+4068,2020,0.6,UY,53.79,,,,114559.36,238068434,Uruguay
+4069,2020,,SD,47.97,,,,,,Sudan
+4070,2020,36.27,BE,94.01,,209,18306.064,135405.4,8804772185,Belgium
+4071,2020,3.32,UA,30.74,,,,8979.88,1588123736,Ukraine
+4072,2020,,TO,19.17,,,,,,Tonga
+4073,2020,,TN,39.58,,,,13236.02,798511214,Tunisia
+4074,2020,,BS,30.27,,,,,150710508.7,Bahamas
+4075,2020,40.97,AU,64.6,,106088.351,179080.125,136434.54,11143145965,Australia
+4076,2020,15.69,SE,60.23,,12090.3,171099.854,138027.93,10985028665,Sweden
+4077,2020,0.48,CN,7.08,,70483538.48,11790678,8842870.09,37422388813,Cyprus No Mans Area
+4078,2020,,TW,,,278503.175,606463.4914,213328.49,,Taiwan
+4079,2020,,TT,8.49,,,,,,Trinidad and Tobago
+4080,2020,,SB,3.22,,,,,,Solomon Islands
+4081,2020,14.66,ZA,46.57,,,,226933.56,2583021797,South Africa
+4082,2020,,BH,0,,,,410.02,303725650.3,Bahrain
+4083,2020,,SG,3.25,,,,2543.92,7931230552,Singapore
+4084,2020,13.05,ES,85.74,,276570.616,662480.0606,1246441.8,15837572914,Spain
+4085,2021,26.65,BR,,,,,,,Brazil
+4086,2021,40.97,AU,,,,,,,Australia
+4087,2021,0.4,IS,,,,,,,Iceland
+4088,2021,22.94,LT,,,,,,,Lithuania
+4089,2021,45.57,FR,,,,,,,France
+4090,2021,23.78,GU,,,,,,,Guam
+4091,2021,16.37,LV,,,,,,,Latvia
+4092,2021,46.48,AR,,,,,,,Argentina
+4093,2021,2.37,IE,,,,,,,Ireland
+4094,2021,8.99,JP,,,,,,,Japan
+4095,2021,0.06,IN,,,,,,,India
+4096,2021,45.35,DE,,,,,,,Germany
+4097,2021,5.87,IT,,,,,,,Italy
+4098,2021,2.98,ID,,,,,,,Indonesia
+4099,2021,4.43,GL,,,,,,,Greenland
+4100,2021,36.27,BE,,,,,,,Belgium
+4101,2021,4.69,GR,,,,,,,Greece
+4102,2021,0.07,IL,,,,,,,Israel
+4103,2021,0.67,GE,,,,,,,Georgia
+4104,2021,0.6,UY,,,,,,,Uruguay
+4105,2021,0.84,VI,,,,,,,United States Virgin Islands
+4106,2021,12.09,FI,,,,,,,Finland
+4107,2021,2.61,SA,,,,,,,Saudi Arabia
+4108,2021,0.48,CN,,,,,,,Cyprus No Mans Area
+4109,2021,8.68,AS,,,,,,,American Samoa
+4110,2021,12.53,CO,,,,,,,Colombia
+4111,2021,2.02,RU,,,,,,,Russian Federation
+4112,2021,14.66,ZA,,,,,,,South Africa
+4113,2021,2.87,CR,,,,,,,Costa Rica
+4114,2021,20.91,RO,,,,,,,Romania
+4115,2021,13.05,ES,,,,,,,Spain
+4116,2021,1.86,PR,,,,,,,Puerto Rico
+4117,2021,4.46,PT,,,,,,,Portugal
+4118,2021,15.69,SE,,,,,,,Sweden
+4119,2021,3.32,UA,,,,,,,Ukraine
+4120,2021,24.3,PL,,,,,,,Poland
+4121,2021,40.7,CL,,,,,,,Chile
+4122,2021,8.58,CY,,,,,,,Cyprus
+4123,2021,0.47,PE,,,,,,,Peru
+4124,2021,22.19,MX,,,,,,,Mexico
+4125,2021,19.48,EE,,,,,,,Estonia
+4126,2021,7.91,BG,,,,,,,Bulgaria
+4127,2021,26.93,NL,,,,,,,Netherlands
+4128,2021,3.71,SI,,,,,,,Slovenia
+4129,2021,13,EC,,,,,,,Ecuador
+4130,2021,7.85,MT,,,,,,,Malta
+4131,2021,29.81,NZ,,,,,,,New Zealand
+4132,2021,12.8,DO,,,,,,,Dominican Republic
+4133,2021,26.87,MP,,,,,,,Northern Mariana Islands
+4134,2021,0.89,NO,,,,,,,Norway
+4135,2021,18.24,DK,,,,,,,Denmark
+4136,2021,8.8,CA,,,,,,,Canada
+4137,2021,41.46,GB,,,,,,,United Kingdom of Great Britain and Northern Ireland
+4138,2021,19.11,US,,,,,,,United States of America
+4139,2021,9.4,HR,,,,,,,Croatia
+4140,2015,,AD,,,,,,51705188.43,Andorra
+4141,2014,,BT,,,,,,26522418.29,Bhutan
+4142,2013,,BI,,,,,,,Burundi
+4143,2015,,LU,,,,,,473600043.9,Luxembourg
+4144,2020,,ML,,,,,,,Mali
+4145,2020,,AD,,,,,,49686804.53,Andorra
+4146,2019,,BT,,,,,,,Bhutan
+4147,2020,,LU,,,,,,549787034.1,Luxembourg
+4148,2016,,AD,,,,,,50008429.04,Andorra
+4149,2015,,BT,,,,,,,Bhutan
+4150,2016,,LU,,,,,,577435804.5,Luxembourg
+4151,2020,,NE,,,,,,,Niger
+4152,2020,,PY,,,,,,332703983.8,Paraguay
+4153,2020,,TJ,,,,,,,Tajikistan
+4154,2012,,AD,,,,,,45108665.81,Andorra
+4155,2020,,BT,,,,,,,Bhutan
+4156,2012,,LU,,,,,,497953976.7,Luxembourg
+4157,2020,,NP,,,,,,156747000.2,Nepal
+4158,2020,,UZ,,,,,,,Uzbekistan
+4159,2017,,AD,,,,,,46846496.1,Andorra
+4160,2020,,AM,,,,,,78626574.56,Armenia
+4161,2020,,BY,,,,,,1070202647,Belarus
+4162,2016,,BT,,,,,,,Bhutan
+4163,2020,,CF,,,,,,22244894.53,Central African Republic
+4164,2020,,GY,,,,,,,Guyana
+4165,2020,,KG,,,,,,101670253.6,Kyrgyzstan
+4166,2017,,LU,,,,,,609019894.6,Luxembourg
+4167,2020,,RW,,,,,,67319251.53,Rwanda
+4168,2020,,ZW,,,,,,177871344,Zimbabwe
+4169,2013,,AD,,,,,,52020817.72,Andorra
+4170,2012,,BT,,,,,,,Bhutan
+4171,2020,,BI,,,,,,16977926.17,Burundi
+4172,2020,,ET,,,,,,481097909,Ethiopia
+4173,2020,,KZ,,,,,,1367772227,Kazakhstan
+4174,2020,,LS,,,,,,157080498,Lesotho
+4175,2013,,LU,,,,,,680779486.6,Luxembourg
+4176,2018,,AD,,,,,,55438175.8,Andorra
+4177,2017,,BT,,,,,,,Bhutan
+4178,2020,,BW,,,,,,133422465.2,Botswana
+4179,2018,,LU,,,,,,760401717.8,Luxembourg
+4180,2020,,MW,,,,,,88210457.36,Malawi
+4181,2020,,UG,,,,,,177529250.7,Uganda
+4182,2020,,ZM,,,,,,357433835.6,Zambia
+4183,2014,,AD,,,,,,,Andorra
+4184,2013,,BT,,,,,,,Bhutan
+4185,2020,,BF,,,,,,130899114.8,Burkina Faso
+4186,2012,,BI,,,,,,21049358.72,Burundi
+4187,2020,,JO,,,,,,588628950.6,Jordan
+4188,2014,,LU,,,,,,794894227.6,Luxembourg
+4189,2019,,AD,,,,,,,Andorra
+4190,2018,,BT,,,,,,,Bhutan
+4191,2020,,BA,,,,,,360904968.1,Bosnia and Herzegovina
+4192,2019,,LU,,,,,,698483310.4,Luxembourg
